@@ -1,0 +1,750 @@
+{
+  "chapter": 1,
+  "title": "嘿",
+  "titleEn": "Hey",
+  "topic": "打招呼 / Greetings",
+  "grammar": [
+    "我叫",
+    "你呢",
+    "你是哪里人",
+    "是...的"
+  ],
+  "characters": {
+    "xiaoli": {
+      "name": "小李",
+      "color": "#E8847C",
+      "desc": "phone addict · half-white · vapes"
+    },
+    "wangbeng": {
+      "name": "王崩",
+      "color": "#5B9BD5",
+      "desc": "hot · Taiwanese · will correct you"
+    },
+    "aizhong": {
+      "name": "矮中",
+      "color": "#7EC87E",
+      "desc": "Ohio · cringe · tattoo incoming"
+    },
+    "guailaoshi": {
+      "name": "怪老师",
+      "color": "#C4A265",
+      "desc": "40s · white · 'I love the culture'"
+    },
+    "xiaohei": {
+      "name": "小黑",
+      "color": "#D4A5D4",
+      "desc": "K-pop · memes · wants 王崩"
+    },
+    "qingqing": {
+      "name": "清清",
+      "color": "#A5D4D4",
+      "desc": "perfect student · secret weakness"
+    },
+    "narrator": {
+      "name": "旁白",
+      "color": "#888",
+      "desc": ""
+    }
+  },
+  "script": [
+    {
+      "type": "scene",
+      "text": "走廊。开学第一天。",
+      "en": "A hallway. First day of school."
+    },
+    {
+      "type": "scene",
+      "text": "小李在看手机，走路。王崩也在看手机，走路。两个人撞到了。小李的包掉了，东西散了一地。",
+      "en": "小李 walks while staring at her phone. 王崩 walks while staring at his phone. They collide. 小李's bag drops, stuff scatters everywhere."
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "哎。",
+      "en": "Ow."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "哎。",
+      "en": "Ow."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你没事儿吧？",
+      "en": "You okay?"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "没事。",
+      "en": "I'm fine."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "这个也是你的。",
+      "en": "This is yours too."
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……谢谢。",
+      "en": "...thanks."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我叫王崩。你呢？",
+      "en": "I'm Wang Beng. You?"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "小李。",
+      "en": "Xiao Li."
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你是中文课的？",
+      "en": "You're in the Chinese class?"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "对。不过我不用学中文。我是台湾人，中文是我的母语。我来上课是因为——",
+      "en": "Yeah. But I don't need to learn Chinese. I'm Taiwanese, Chinese is my native language. I'm in class because—"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "等一下。你是台湾人？那你的中文已经很好了吧？为什么还上中文课？",
+      "en": "Wait. You're Taiwanese? Then your Chinese is already good right? Why take Chinese class?"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我看不懂简体字。我从小用繁体字。但是——你知道嘛——全世界都在用简体字，做生意也用简体字，没办法，必须学。虽然繁体字才是正统！",
+      "en": "I can't read simplified characters. I grew up with traditional. But—you know—the whole world uses simplified, business uses simplified, no choice, gotta learn. Even though traditional is the REAL one!"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "哦。",
+      "en": "Oh."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你知道吗？珍珠奶茶是台湾发明的。",
+      "en": "Did you know? Bubble tea was invented in Taiwan."
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……现在说这个干嘛？",
+      "en": "...why are you saying this right now?"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "没有，就想说。很多人不知道。",
+      "en": "No reason, just wanted to say it. Lots of people don't know."
+    },
+    {
+      "type": "scene",
+      "text": "矮中跑过来了。",
+      "en": "矮中 runs over."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "嘿嘿嘿！你们好！你们没事吧？！我看到你掉东西了！我帮你！",
+      "en": "Hey hey hey! Hi! You guys okay?! I saw you drop stuff! Let me help!"
+    },
+    {
+      "type": "action",
+      "text": "矮中蹲下来捡东西。拿起电子烟，看了半天。",
+      "en": "矮中 crouches to pick things up. Grabs the vape, stares at it."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "这是什么？笔吗？",
+      "en": "What's this? A pen?"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……给我。",
+      "en": "...give it."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "哦不好意思不好意思！我叫矮中！我超爱中国文化！你们也是中文课的吗？这也太cool了吧？！No cap我等了一个暑假了！",
+      "en": "Oh sorry sorry! I'm Ai Zhong! I LOVE Chinese culture! You're in Chinese class too? That's SO cool?! No cap I waited all summer!"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……你好热情。",
+      "en": "...you're very enthusiastic."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "Bro，你看她，是不是很fine？",
+      "en": "Bro, look at her, isn't she fine?"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……",
+      "en": "..."
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你说什么？",
+      "en": "What did you say?"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "没有没有！我说你很……呃……很high class。",
+      "en": "Nothing nothing! I said you're very... uh... very high class."
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……Bye。",
+      "en": "...Bye."
+    },
+    {
+      "type": "action",
+      "text": "小李戴上耳机走了。",
+      "en": "小李 puts on headphones and walks away."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "她好漂亮啊。",
+      "en": "She's so pretty."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……嗯。",
+      "en": "...yeah."
+    },
+    {
+      "type": "scene",
+      "text": "教室。小黑已经坐好了，在拍奶茶的照片。清清坐在最前面。",
+      "en": "Classroom. 小黑 is already seated, photographing her boba. 清清 sits in the front row."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你看你看，那个男生！",
+      "sub": "小声对清清说",
+      "en": "Look look, that guy!"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……哪个？",
+      "en": "...which one?"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "那个台湾的！天哪，他好帅。像韩国明星。他有aura你知道吗？就是那种——气场！",
+      "en": "The Taiwanese one! OMG he's so hot. Like a K-pop star. He has aura you know? That—presence!"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……还好吧。",
+      "en": "...he's okay."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "「还好」？！你眼睛有问题吧？",
+      "en": "'Okay'?! Is there something wrong with your eyes?"
+    },
+    {
+      "type": "action",
+      "text": "怪老师进来了。白人。四十多岁。笑容满面。",
+      "en": "怪老师 enters. White. Forties. Beaming smile."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "同学们好！欢迎来到中级中文课！我是你们的老师，你们叫我怪老师就好了。",
+      "en": "Hello students! Welcome to intermediate Chinese! I'm your teacher, just call me Guai Laoshi."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "等一下。我们的中文老师是白人？",
+      "sub": "小声",
+      "en": "Wait. Our Chinese teacher is white?"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……这合法吗？",
+      "sub": "小声",
+      "en": "...is this legal?"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "老师！你的中文也太牛了吧！你学了多久？",
+      "sub": "大声",
+      "en": "Teacher! Your Chinese is SO good! How long have you studied?"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "十五年。我二十五岁的时候来的中国。就再也没走。",
+      "en": "Fifteen years. Came to China when I was 25. Never left."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……为什么？",
+      "en": "...why?"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "因为我爱这个地方。文化，语言，人……",
+      "en": "Because I love this place. The culture, the language, the people..."
+    },
+    {
+      "type": "action",
+      "text": "他看了一眼刚走进来的小李。",
+      "en": "He glances at 小李, who just walked in."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "……都很好。",
+      "en": "...all wonderful."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "好！我们来自我介绍。说一下你叫什么，你从哪里来的，为什么学中文。矮中，你先来吧！",
+      "en": "Okay! Let's do self-introductions. Say your name, where you're from, why you're studying Chinese. Ai Zhong, you first!"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "好！我叫矮中！我是美国人！我超爱中国文化！中国菜，中国电影，中国——",
+      "en": "Okay! I'm Ai Zhong! I'm American! I LOVE Chinese culture! Chinese food, Chinese movies, Chinese—"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你已经说了三次「中国」了。",
+      "en": "You've said 'China' three times already."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "因为我真的很爱！No cap！",
+      "en": "Because I really love it! No cap!"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "很有激情！王崩？",
+      "en": "Very passionate! Wang Beng?"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "王崩。台北人。我来这个大学是学艺术设计的。中文没问题，就是要学简体字。因为……全球经济用简体。但是我觉得繁体字好看多了。你知道吗，台湾的设计风格在全亚洲都是最好的——",
+      "en": "Wang Beng. From Taipei. I'm at this university studying art and design. Chinese is fine, just need to learn simplified. Because... the global economy uses simplified. But I think traditional characters look way better. You know, Taiwan's design aesthetic is the best in all of Asia—"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "又来了。",
+      "en": "Here we go again."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我说的是事实！",
+      "en": "I'm stating facts!"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小黑？",
+      "en": "Xiao Hei?"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我叫小黑。我爸妈是广东人。他们在家只说广东话，所以我的普通话很烂。我听得懂大部分，但是一开口就像外国人。",
+      "en": "I'm Xiao Hei. My parents are Cantonese. They only speak Cantonese at home, so my Mandarin is trash. I understand most of it, but when I talk I sound like a foreigner."
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "那不叫「像外国人」。那叫双语干扰。",
+      "en": "That's not 'sounding like a foreigner.' That's bilingual interference."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……谢谢你，教授。",
+      "en": "...thanks, professor."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "清清？",
+      "en": "Qingqing?"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我叫清清。我是新加坡人。我在新加坡、迪拜和伦敦都住过。我的中文太formal了。我来这里是想说话更natural一点。",
+      "en": "I'm Qingqing. I'm Singaporean. I've lived in Singapore, Dubai, and London. My Chinese is too formal. I'm here to sound more natural."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "等一下，你为什么有英国口音？",
+      "en": "Wait, why do you have a British accent?"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……我在伦敦上过学。",
+      "en": "...I went to school in London."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "但你说的是中文！",
+      "en": "But you're speaking Chinese!"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……是的。中文带英国口音。我知道很奇怪。",
+      "en": "...yes. Chinese with a British accent. I know it's weird."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小李？",
+      "en": "Xiao Li?"
+    },
+    {
+      "type": "action",
+      "text": "小李没抬头，在看手机。",
+      "en": "小李 doesn't look up. Eyes on phone."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小李？",
+      "en": "Xiao Li?"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "嗯？",
+      "en": "Hm?"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "自我介绍一下？",
+      "en": "Self-introduction?"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "哦。我叫小李。中美混血。妈妈是中国人。但是我们……不太说话。所以我中文不好。",
+      "en": "Oh. I'm Xiao Li. Half Chinese half American. Mom is Chinese. But we... don't really talk. So my Chinese is bad."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "为什么你和妈妈不说话？",
+      "en": "Why don't you talk to your mom?"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……这个比较私人。",
+      "en": "...that's kind of personal."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "当然。不好意思。",
+      "en": "Of course. Sorry."
+    },
+    {
+      "type": "action",
+      "text": "他看了小李比较久。清清注意到了。",
+      "en": "He looks at 小李 a beat too long. 清清 notices."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "小李，以后我们可以一起练中文吗？我知道一家很好吃的——",
+      "en": "Xiao Li, can we practice Chinese together sometime? I know a really good—"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "不要。",
+      "en": "No."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……我还没说完。",
+      "en": "...I wasn't finished."
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你要说餐厅。",
+      "en": "You were going to say restaurant."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……你怎么知道？",
+      "en": "...how did you know?"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "因为你只会说这个。",
+      "en": "Because that's all you ever say."
+    },
+    {
+      "type": "scene",
+      "text": "第一课 完",
+      "en": "End of Chapter 1."
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "嘿",
+      "pinyin": "hēi",
+      "en": "hey",
+      "pos": "interj",
+      "note": "年轻人不说你好。说嘿、嗨、哎"
+    },
+    {
+      "zh": "撞到",
+      "pinyin": "zhuàng dào",
+      "en": "to bump into",
+      "pos": "v",
+      "note": ""
+    },
+    {
+      "zh": "没事儿",
+      "pinyin": "méi shìr",
+      "en": "it's fine / no problem",
+      "pos": "",
+      "note": "北京口音加儿化。万能回答"
+    },
+    {
+      "zh": "电子烟",
+      "pinyin": "diànzǐ yān",
+      "en": "vape / e-cigarette",
+      "pos": "n",
+      "note": "中国也很多年轻人抽"
+    },
+    {
+      "zh": "母语",
+      "pinyin": "mǔyǔ",
+      "en": "mother tongue",
+      "pos": "n",
+      "note": ""
+    },
+    {
+      "zh": "简体字",
+      "pinyin": "jiǎntǐzì",
+      "en": "simplified characters",
+      "pos": "n",
+      "note": "中国大陆用"
+    },
+    {
+      "zh": "繁体字",
+      "pinyin": "fántǐzì",
+      "en": "traditional characters",
+      "pos": "n",
+      "note": "台湾、香港用"
+    },
+    {
+      "zh": "正统",
+      "pinyin": "zhèngtǒng",
+      "en": "orthodox / authentic",
+      "pos": "adj",
+      "note": "王崩认为繁体字才是正统"
+    },
+    {
+      "zh": "珍珠奶茶",
+      "pinyin": "zhēnzhū nǎichá",
+      "en": "bubble tea",
+      "pos": "n",
+      "note": "台湾发明的！（王崩提醒你）"
+    },
+    {
+      "zh": "热情",
+      "pinyin": "rèqíng",
+      "en": "enthusiastic",
+      "pos": "adj",
+      "note": ""
+    },
+    {
+      "zh": "气场",
+      "pinyin": "qìchǎng",
+      "en": "aura / presence",
+      "pos": "n",
+      "note": "= zoomer 'aura'"
+    },
+    {
+      "zh": "混血",
+      "pinyin": "hùnxuè",
+      "en": "mixed race",
+      "pos": "n/adj",
+      "note": "小李是中美混血"
+    },
+    {
+      "zh": "自我介绍",
+      "pinyin": "zìwǒ jièshào",
+      "en": "self-introduction",
+      "pos": "v/n",
+      "note": ""
+    },
+    {
+      "zh": "流利",
+      "pinyin": "liúlì",
+      "en": "fluent",
+      "pos": "adj",
+      "note": ""
+    },
+    {
+      "zh": "面面相觑",
+      "pinyin": "miàn miàn xiāng qù",
+      "en": "to look at each other in dismay",
+      "pos": "idiom",
+      "note": "学生看到白人老师的反应"
+    },
+    {
+      "zh": "双语干扰",
+      "pinyin": "shuāngyǔ gānrǎo",
+      "en": "bilingual interference",
+      "pos": "n",
+      "note": "清清教小黑新词"
+    }
+  ],
+  "vocabSlang": [
+    {
+      "en": "no cap",
+      "zh": "不骗你/真的",
+      "note": "= I'm serious"
+    },
+    {
+      "en": "fine",
+      "zh": "好看/漂亮",
+      "note": "= attractive"
+    },
+    {
+      "en": "aura",
+      "zh": "气场",
+      "note": "= presence/vibe"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "叫 vs 姓 vs 是",
+      "body": "课本中文: 你好，请问您贵姓？ 真实中文: 嘿，你叫什么？",
+      "examples": [
+        {
+          "formal": "您贵姓？",
+          "real": "你姓什么？/ 你叫什么？"
+        },
+        {
+          "formal": "我姓王，叫王崩",
+          "real": "我叫王崩"
+        },
+        {
+          "formal": "请问您是哪国人？",
+          "real": "你哪里人？"
+        }
+      ]
+    },
+    {
+      "title": "是……的 — for background info",
+      "body": "Used to emphasize circumstances of a past action.",
+      "examples": [
+        {
+          "zh": "小李是中美混血的。",
+          "en": "Xiao Li is mixed Chinese-American."
+        },
+        {
+          "zh": "我是从台湾来的。",
+          "en": "I came from Taiwan."
+        },
+        {
+          "zh": "清清是在伦敦上过学的。",
+          "en": "Qingqing went to school in London."
+        }
+      ]
+    },
+    {
+      "title": "呢 — redirect question",
+      "body": "呢 bounces the question back. 我叫矮中！你呢？ = And you?",
+      "examples": []
+    },
+    {
+      "title": "了 as emphasis / change of state",
+      "body": "太牛了吧 = SO awesome! 又来了 = Here we go again.",
+      "examples": [
+        {
+          "zh": "你也太牛了吧！",
+          "en": "You're TOO good!"
+        },
+        {
+          "zh": "又来了。",
+          "en": "Here we go again."
+        }
+      ]
+    }
+  ],
+  "cultureNotes": [
+    {
+      "title": "打招呼 — Real Greetings",
+      "body": "课本教你说你好。没有人这样打招呼。年轻人说：嘿、嗨、哎、或者直接说对方的名字。你好只在面试、打电话给不认识的人用。你对朋友说你好他们会觉得你在开玩笑。"
+    },
+    {
+      "title": "白人教中文？",
+      "body": "偶尔会有母语不是中文的人教中文课。学生的反应通常是：这合法吗？问题不是他们的中文水平，而是——他们为什么来中国住了十五年？"
+    },
+    {
+      "title": "简体字 vs 繁体字",
+      "body": "台湾用繁体字。中国大陆用简体字。香港和澳门也用繁体字。王崩觉得繁体字是正统的。这是一个非常heated的话题。别在饭桌上讨论。"
+    }
+  ]
+}

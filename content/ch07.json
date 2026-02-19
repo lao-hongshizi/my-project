@@ -1,0 +1,255 @@
+{
+  "chapter": 7,
+  "title": "学中文",
+  "titleEn": "Studying Chinese",
+  "topic": "学中文 / Studying Chinese",
+  "grammar": [
+    "会/能/可以",
+    "认识 vs 知道",
+    "V得/V不 + complement"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：考试以后 (After a Test)",
+      "en": "Dialogue 1: After a test."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "考试结果出来了。矮中——"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "几分？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "六十二分。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "不是吧。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "你把\"爱\"写成了\"矮\"。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……什么？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "他的考试上，每个\"爱\"字都写成了\"矮\"。\"我矮中国文化\"。\"我矮吃中国菜\"。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "等一下。你不知道爱和矮的区别？",
+      "sub": "笑了"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "它们看起来一样！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "它们完全不一样。爱下面是友，矮下面是矢。一个是love，一个是short。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "对了。我有一个事要跟你们说。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "上周六晚上在酒吧那边纹的。纹身师说他经常纹中文。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……那个字是什么？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "爱！Love！因为I love China！"
+    },
+    {
+      "type": "action",
+      "text": "王崩凑过来看。表情变了。",
+      "en": "王崩 leans in to look. His expression changes."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……那不是爱。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那个字是矮。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "矮是什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "矮。Short。你纹了\"短\"在你胳膊上。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "卧槽。他说的对。",
+      "sub": "拿起手机拍"
+    },
+    {
+      "type": "scene",
+      "text": "卧槽 first appearance in the book.",
+      "en": "First appearance of 卧槽 in the book."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "不可能。纹身师——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "这是我这辈子见过最好笑的事。",
+      "sub": "已经在拍了"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "别拍——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "晚了。发群了。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……确实是矮。但是爱和矮看起来有一点像。你不知道的话很容易搞混。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "\"容易搞混\"？？我永久地纹了\"矮\"在我身上！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "至少很准确。你确实矮。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……你知道吗。无所谓。这是conversation starter。女孩子会问。我就讲这个故事。Content。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……这倒有点sigma。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……其实还挺适合他的。",
+      "sub": "小声"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你说什么？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "没有。"
+    },
+    {
+      "type": "scene",
+      "text": "对话二：男生群聊 (Boys' Chat — That Night)",
+      "en": "Dialogue 2: Boys' Chat -- That Night."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你能不能教我怎么分辨这两个字？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "爱——love。下面是友（friend）。矮——short。下面是矢（arrow）。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "友和矢也长得很像……"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你需要多练。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我在练！我每天出去跟人聊天不就是练吗？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那是practice speaking。不是practice writing。你能说很多但你写不出来。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "说比写重要。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "看你要做什么。如果你要在中国泡吧，说就够了。如果你想真的学中文——得读、得写。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……你说得对。但读写好无聊。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "欢迎来到中文学习。"
+    }
+  ],
+  "vocab": [],
+  "grammarNotes": [],
+  "cultureNotes": []
+}

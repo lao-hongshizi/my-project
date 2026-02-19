@@ -1,0 +1,375 @@
+{
+  "chapter": 19,
+  "title": "试试看",
+  "titleEn": "Try and See",
+  "topic": "尝试新事物 / Trying New Things",
+  "grammar": [
+    "试试",
+    "V起来",
+    "从来没...过"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：奶茶店——王崩和小黑 (Boba Shop — Wang Beng and Xiao Hei)",
+      "en": "Dialogue 1: Boba shop -- 王崩 and 小黑."
+    },
+    {
+      "type": "action",
+      "text": "奶茶店。面对面坐着。王崩点了一杯很复杂的，盯着看，表情狐疑。",
+      "en": "Boba shop. Sitting face to face. 王崩 orders something complicated, stares at it, expression suspicious."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你在看你的奶茶像在看合同。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "珍珠分布不均匀。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……喝就是了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "好喝吗？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……可以。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "\"可以\"。你的夸人技术真incredible。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "台北有一家叫——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "用掉了。你的一次机会用掉了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我还没说完。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你要说台北的一家奶茶店。算了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……好吧。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你为什么用那个美白霜？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那个霜。脸上的。提亮什么的。为什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "因为……中国的审美标准。我太黑了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你不黑。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你说起来容易。你皮肤白。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我是台湾人。一样的太阳。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……皮肤颜色不是这样work的。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我知道。我的意思是——你的皮肤不是问题。标准是问题。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "这是你对我说的第二次好话。第一次是外套。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我不是在说好话。我在说事实。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "对你来说，一样的。"
+    },
+    {
+      "type": "scene",
+      "text": "对话二：广东菜——矮中和清清 (Cantonese Food — Ai Zhong and Qingqing)",
+      "en": "Dialogue 2: Cantonese food -- 矮中 and 清清."
+    },
+    {
+      "type": "action",
+      "text": "这个星期他们每天都在图书馆学习了。一开始是做作业。现在矮中没有作业也来。",
+      "en": "This week they've studied at the library every day. At first it was for homework. Now 矮中 comes even when there's no homework."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "学完了想不想去吃饭？不是火锅。正经吃饭。我找到了一家广东菜，据说很好吃。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "你找了一家广东菜？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "本来是为小黑找的。但她在跟王崩约会了。所以……"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "所以我是备选？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "不是！我是说——我想带你去。但是如果你说不我就用小黑当借口。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……这很pathetic。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我知道。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……好。走吧。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……真的？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "别让我说第二遍。"
+    },
+    {
+      "type": "action",
+      "text": "餐厅。矮中点菜了——用中文，没看英文菜单。清清看着。他的中文在变好。什么时候的事？",
+      "en": "Restaurant. 矮中 orders -- in Chinese, no English menu. 清清 watches. His Chinese is getting better. When did that happen?"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "好吃吗？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "好吃到爆。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你刚才说好吃到爆了吗？清清——全宇宙最proper的人——刚才用了slang？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "这是完全valid的表达。",
+      "sub": "脸红"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你是从我这里学的！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我没——"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你肯定是！我教了你slang！这是我最骄傲的moment！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "吃你的饭，矮中。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "是！"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 18: 比 (comparison)",
+      "en": "Ch 18: 比 (comparison)"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 18: 从...就 (since...already)",
+      "en": "Ch 18: 从...就 (since...already)"
+    },
+    {
+      "type": "action",
+      "text": "从第一天就喜欢了。= Since the first day I've liked you.",
+      "en": "从第一天就喜欢了 = Since the first day I've liked you."
+    },
+    {
+      "type": "scene",
+      "text": "Ch 19: 试试 (try and see)",
+      "en": "Ch 19: 试试 (try and see)"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 19: V起来 (when you start doing...)",
+      "en": "Ch 19: V起来 (when you start doing...)"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "告白",
+      "pinyin": "gàobái",
+      "en": "to confess feelings",
+      "pos": "v"
+    },
+    {
+      "zh": "脱贫",
+      "pinyin": "tuōpín",
+      "en": "to lift out of poverty",
+      "pos": "v",
+      "note": "政治话题"
+    },
+    {
+      "zh": "尖叫",
+      "pinyin": "jiān jiào",
+      "en": "to scream",
+      "pos": "v"
+    },
+    {
+      "zh": "成熟",
+      "pinyin": "chéngshú",
+      "en": "mature",
+      "pos": "adj"
+    },
+    {
+      "zh": "纠正",
+      "pinyin": "jiūzhèng",
+      "en": "to correct",
+      "pos": "v"
+    },
+    {
+      "zh": "歪歪扭扭",
+      "pinyin": "wāi wāi niǔ niǔ",
+      "en": "crooked / messy",
+      "pos": "adj",
+      "note": "形容矮中的字"
+    },
+    {
+      "zh": "分布不均匀",
+      "pinyin": "fēnbù bù jūnyún",
+      "en": "unevenly distributed",
+      "pos": "",
+      "note": "王崩形容珍珠"
+    },
+    {
+      "zh": "狐疑",
+      "pinyin": "húyí",
+      "en": "suspicious / skeptical",
+      "pos": "adj"
+    },
+    {
+      "zh": "备选",
+      "pinyin": "bèixuǎn",
+      "en": "backup option",
+      "pos": "n"
+    },
+    {
+      "zh": "骄傲",
+      "pinyin": "jiāo'ào",
+      "en": "proud",
+      "pos": "adj"
+    },
+    {
+      "zh": "second choice",
+      "pinyin": "",
+      "en": "备选/second pick",
+      "pos": ""
+    },
+    {
+      "zh": "pathetic",
+      "pinyin": "",
+      "en": "可悲的/很惨",
+      "pos": ""
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "比 (comparison)",
+      "body": "中国的发展比其他国家impressive。\n他穿得比我好看。"
+    },
+    {
+      "title": "从...就 (since...already)",
+      "body": "从第一天就喜欢了。= Since the first day I've liked you.\n从小就出差。= Since childhood, always on business trips."
+    },
+    {
+      "title": "试试 (try and see)",
+      "body": "试试看吧。= Try and see.\n你应该试试穿亮色。= You should try wearing bright colors."
+    },
+    {
+      "title": "V起来 (when you start doing...)",
+      "body": "说起来容易。= Easy to say / sounds easy.\n喝起来像火。= Tastes like fire (when you drink it).\n看起来很酷。= Looks cool."
+    }
+  ],
+  "cultureNotes": []
+}

@@ -1,0 +1,421 @@
+{
+  "chapter": 17,
+  "title": "如果",
+  "titleEn": "If",
+  "topic": "假设、未来 / Hypotheticals, Conditionals",
+  "grammar": [
+    "如果...就",
+    "要是...的话",
+    "会"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：图书馆——女生 (Library — Girls)",
+      "en": "Dialogue 1: Library -- Girls."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "如果我跟王崩告白，你觉得他会说什么？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……你想听真话？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "真话。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "他可能会说\"哦\"。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "就\"哦\"？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "或者\"哦，谢谢\"。就是那种老师说\"很好，下一个\"的语气。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……太惨了。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "但是club那晚以后……他坐在路边陪你。把外套给你了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "那只是有礼貌。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "王崩从来不\"有礼貌\"。他对台湾有礼貌。对繁体字有礼貌。对人不太有礼貌。所以如果他把外套给你了……"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……什么？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "也许是有意思的。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你觉得？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我觉得。如果你告诉他，最差的结果也就是一个\"哦谢谢\"。但至少你知道了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "如果他说\"哦谢谢\"我会死。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "你不会死。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "精神上的。精神上会死。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你呢？如果矮中约你，你会怎么说？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "他不会约我。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "假设。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "如果他请你吃饭呢？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……如果他请我吃饭，我会说不。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "骗人。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我会说不。因为我知道他先约了小李，小李说无聊。我不要做别人的second choice。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……这个思路很强。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我知道。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "但也很sad。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……我也知道。"
+    },
+    {
+      "type": "scene",
+      "text": "对话二：食堂——男生 (Cafeteria — Boys)",
+      "en": "Dialogue 2: Cafeteria -- Boys."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "如果你可以跟班上的任何一个女生约会，你选谁？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "不选。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "不是这样玩\"如果\"的。假设。必须选。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "快说。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……小黑不是最差的人。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "哇。这是你说过的最浪漫的话。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我说的是\"不是最差的\"。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "对你来说这已经是情书了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "闭嘴。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你喜欢她什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我没说我喜欢她。我说她不是最差的。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "一样的。具体说。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "她……跟我吵。但不是mean的那种。她其实在听我说台湾的事。她不同意，但她在听。别人都不听。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……所以你喜欢她因为她跟你吵？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我喜欢她在乎到愿意吵。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "这就是love language啊。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "别说\"love language\"。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "KMT遇上CCP！两岸romance！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我要走了。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "像毛泽东背叛蒋介石一样！但是romantic version！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那个一点都不romantic。几百万人死了。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……对。比喻不好。但你懂我的意思。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我不懂。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你的意思是你喜欢小黑。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……吃你的饭。"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 16: 是...的 (emphasizing details of past event)",
+      "en": "Ch 16: 是...的 (emphasizing details of past event)"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 17: 如果...就",
+      "en": "Ch 17: 如果...就"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 17: 要是...的话 (more colloquial \"if\")",
+      "en": "Ch 17: 要是...的话 (more colloquial \"if\")"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 17: 会 (future probability)",
+      "en": "Ch 17: 会 (future probability)"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "搞砸",
+      "pinyin": "gǎo zá",
+      "en": "to mess up / fumble",
+      "pos": "v"
+    },
+    {
+      "zh": "混蛋",
+      "pinyin": "húndàn",
+      "en": "asshole / jerk",
+      "pos": "n",
+      "note": "骂人的"
+    },
+    {
+      "zh": "白痴",
+      "pinyin": "báichī",
+      "en": "idiot",
+      "pos": "n"
+    },
+    {
+      "zh": "道歉",
+      "pinyin": "dào qiàn",
+      "en": "to apologize",
+      "pos": "v"
+    },
+    {
+      "zh": "告白",
+      "pinyin": "gào bái",
+      "en": "to confess (feelings)",
+      "pos": "v",
+      "note": "日语也用这个词"
+    },
+    {
+      "zh": "保证",
+      "pinyin": "bǎozhèng",
+      "en": "to promise / guarantee",
+      "pos": "v"
+    },
+    {
+      "zh": "进步",
+      "pinyin": "jìnbù",
+      "en": "progress / to improve",
+      "pos": "n/v",
+      "note": "小李的中文进步了"
+    },
+    {
+      "zh": "造句",
+      "pinyin": "zào jù",
+      "en": "to make a sentence",
+      "pos": "vo"
+    },
+    {
+      "zh": "假设",
+      "pinyin": "jiǎshè",
+      "en": "to assume / hypothetical",
+      "pos": "v/n"
+    },
+    {
+      "zh": "告白",
+      "pinyin": "gàobái",
+      "en": "to confess feelings",
+      "pos": "v"
+    },
+    {
+      "zh": "惨",
+      "pinyin": "cǎn",
+      "en": "miserable / tragic",
+      "pos": "adj"
+    },
+    {
+      "zh": "情书",
+      "pinyin": "qíngshū",
+      "en": "love letter",
+      "pos": "n"
+    },
+    {
+      "zh": "两岸",
+      "pinyin": "liǎng'àn",
+      "en": "cross-strait (Taiwan/China)",
+      "pos": "n",
+      "note": "政治敏感词"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "是...的 (emphasizing details of past event)",
+      "body": "那个不是给她的。= That wasn't meant for her.\n你是什么时候来的？= When did you come? (emphasis on \"when\")"
+    },
+    {
+      "title": "如果...就",
+      "body": "如果你告诉他，最差也就是一个\"谢谢\"。\n如果他请我吃饭，我会说不。"
+    },
+    {
+      "title": "要是...的话 (more colloquial \"if\")",
+      "body": "要是他喝多了的话，那不算。= If he was drunk, it doesn't count.\n要是我是你的话…… = If I were you..."
+    },
+    {
+      "title": "会 (future probability)",
+      "body": "他会说什么？= What would he say?\n我会死。= I would die. (figurative)"
+    }
+  ],
+  "cultureNotes": []
+}

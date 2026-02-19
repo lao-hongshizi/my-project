@@ -1,0 +1,275 @@
+{
+  "chapter": 9,
+  "title": "约会",
+  "titleEn": "Dating / Meeting Up",
+  "topic": "约人、请客 / Invitations, Dating, Meeting Up",
+  "grammar": [
+    "请",
+    "吧",
+    "还是",
+    "一起"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：小黑约王崩 (Xiao Hei Invites Wang Beng)",
+      "en": "Dialogue 1: 小黑 invites 王崩."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "王崩。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "嗯？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你明天有空吗？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "为什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "学校附近开了一家新的奶茶店。听说不错。想不想去看看？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "奶茶？好啊。说到奶茶——你知道台湾有一个地方叫公馆吗？台大旁边有一家奶茶店开了1987年了——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我问的是这里。这个校区。明天。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "对对。明天可以。除非台湾留学生会那天有活动——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "天啊。",
+      "sub": "小声"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "没事。那是yes吗？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……我看一下我的schedule再跟你说。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "看schedule就是no吧？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "是看schedule。"
+    },
+    {
+      "type": "action",
+      "text": "她走了。她知道他不会看什么schedule。",
+      "en": "She walks away. She knows he's not going to check any schedule."
+    },
+    {
+      "type": "scene",
+      "text": "对话二：矮中约小李 (Ai Zhong Invites Xiao Li)",
+      "en": "Dialogue 2: 矮中 invites 小李."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "小李！今晚想不想一起吃饭？我发现了一家超好吃的火锅——"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……好啊。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……等一下。你说好？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "我说好啊。反正没别的事。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "好好好！那我发你地址——七点？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "随便。"
+    },
+    {
+      "type": "scene",
+      "text": "对话三：火锅 (The Hot Pot Dinner)",
+      "en": "Dialogue 3: The hot pot dinner."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "所以……你喜欢吃火锅吗？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "还行。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "这家的牛油锅底真的——"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "嗯。",
+      "sub": "在看手机"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你……在跟谁发消息？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "在看东西。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "哦。那……你觉得中国怎么样？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "还行。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那课呢？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "还行。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……我是不是很无聊？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "不是。我就是不太爱说话。",
+      "sub": "抬头看了一眼"
+    },
+    {
+      "type": "action",
+      "text": "他们AA了。他送她回宿舍。她说\"谢谢，bye\"就进去了。他站在宿舍楼下面一分钟，觉得自己比几个月来任何时候都矮。",
+      "en": "They split the bill. He walks her back to the dorm. She says \"thanks, bye\" and goes inside. He stands outside the dorm building for a minute, feeling shorter than he has in months."
+    },
+    {
+      "type": "scene",
+      "text": "对话四：女生群聊 — 当晚",
+      "en": "Dialogue 4: Girls' group chat -- that night."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "等一下你跟矮中去吃饭了？？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "对。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "怎么样？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "无聊。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "哈哈。说说？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "他好紧张。平时不是很吵吗？突然就不说话了。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "[读了这条消息。三分钟没回]"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "也许他喜欢你。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "恶心。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "为什么恶心？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "他喜欢所有的中国女生。我不特别。我只是……在他面前而已。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "action",
+      "text": "清清放下手机。她应该觉得relieved——小李不感兴趣。但她感受到的不是relief。是更重的东西。他请小李吃饭了。没有请她。",
+      "en": "清清 puts down her phone. She should feel relieved -- 小李 isn't interested. But what she feels isn't relief. It's something heavier. He asked 小李 to dinner. Not her."
+    }
+  ],
+  "vocab": [],
+  "grammarNotes": [],
+  "cultureNotes": []
+}

@@ -1,0 +1,410 @@
+{
+  "chapter": 12,
+  "title": "太...了",
+  "titleEn": "Too Much",
+  "topic": "外貌、身体形象、Shopping / Appearance, Body Image, Shopping",
+  "grammar": [
+    "太...了",
+    "得 (complement)",
+    "跟...一样"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：怪老师的私信升级 (Guai Laoshi's DMs Escalate)",
+      "en": "Dialogue 1: 怪老师's DMs escalate."
+    },
+    {
+      "type": "scene",
+      "text": "女生群聊",
+      "en": "Girls' group chat."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "怪老师又发私信了。越来越过分。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "[截图]"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "太恶心了。他在评论我的衣服。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "[截图]"
+    },
+    {
+      "type": "action",
+      "text": "> 怪老师：清清，你的作文写得太好了。你是我教过的最有才华的学生。你有没有想过读研？我可以给你写推荐信。",
+      "en": "> 怪老师: 清清, your essay is so well-written. You're the most talented student I've ever taught. Have you thought about grad school? I could write you a recommendation letter."
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "太假了。用学术的名义。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "小李呢？他给你发什么了？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "也发了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "说什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "说他的办公室随时open。如果我想聊天可以去找他。他泡了茶。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "\"泡了茶\"？？！太过分了！"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……但其实挺sweet的？他注意到我最近不太开心。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "小李。老师不应该给你发这种私信。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "注意：他只给女生发。王崩和矮中没收到。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……也许是因为我们需要更多帮助？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "他有病。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你们想太多了。"
+    },
+    {
+      "type": "scene",
+      "text": "对话二：Shopping——女生出去逛街 (Girls Go Shopping)",
+      "en": "Dialogue 2: Shopping -- Girls go out."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我需要买新衣服。什么颜色好看？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "你喜欢什么颜色就买什么颜色。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我想要显白的颜色。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "别给我那个表情。黑色和深蓝色显白。这是common sense。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你穿什么都好看。别overthink。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "太白了。显得我更黑。",
+      "sub": "拿起一件白色上衣，在镜子前比了比，放下了"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "小黑。你的皮肤没有问题。是标准有问题。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你知道一白遮三丑吗？这不是我发明的。这是中国文化说的。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "中国文化说了很多东西。不是每一个都对。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "这个多少钱？",
+      "sub": "试了一件oversize的黑色卫衣"
+    },
+    {
+      "type": "line",
+      "char": "narrator",
+      "zh": "二百八。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "有没有更大的size？"
+    },
+    {
+      "type": "line",
+      "char": "narrator",
+      "zh": "那个已经是最大号了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "那就这个吧。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你买的衣服都像你爸爸的。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "舒服就行。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "这个呢？",
+      "sub": "试了一件结构感很强的blazer"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "太正式了吧。你去上班还是去上课？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……我平时就是这样穿的。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "那就是问题所在。来。穿这个。"
+    },
+    {
+      "type": "action",
+      "text": "她递给清清一件简单的黑色T恤。清清看了一下。穿上了。看了看镜子。",
+      "en": "She hands 清清 a simple black T-shirt. 清清 looks at it. Puts it on. Checks the mirror."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "卧槽。清清。你……"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你好看。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "请停下来。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我说真的。矮中看到你这样穿会——"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我不是为矮中穿的！"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "那你为什么脸红了？"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 11: 了 (completed action)",
+      "en": "Ch 11: 了 (completed action)"
+    },
+    {
+      "type": "action",
+      "text": "她打了又删了。= She typed then deleted.",
+      "en": "她打了又删了 = She typed then deleted."
+    },
+    {
+      "type": "scene",
+      "text": "Ch 11: 过 (experience)",
+      "en": "Ch 11: 过 (experience)"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 12: 太...了",
+      "en": "Ch 12: 太...了"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 12: 跟...一样",
+      "en": "Ch 12: 跟...一样"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "生日",
+      "pinyin": "shēngrì",
+      "en": "birthday",
+      "pos": "n"
+    },
+    {
+      "zh": "过生日",
+      "pinyin": "guò shēngrì",
+      "en": "to celebrate a birthday",
+      "pos": "vo"
+    },
+    {
+      "zh": "陌生人",
+      "pinyin": "mòshēngrén",
+      "en": "stranger",
+      "pos": "n"
+    },
+    {
+      "zh": "皇冠",
+      "pinyin": "huángguān",
+      "en": "crown",
+      "pos": "n"
+    },
+    {
+      "zh": "guilty",
+      "pinyin": "",
+      "en": "内疚",
+      "pos": ""
+    },
+    {
+      "zh": "私信",
+      "pinyin": "sīxìn",
+      "en": "DM / private message",
+      "pos": "n"
+    },
+    {
+      "zh": "截图",
+      "pinyin": "jiétú",
+      "en": "screenshot",
+      "pos": "n/v"
+    },
+    {
+      "zh": "过分",
+      "pinyin": "guòfèn",
+      "en": "excessive / too much",
+      "pos": "adj"
+    },
+    {
+      "zh": "推荐信",
+      "pinyin": "tuījiàn xìn",
+      "en": "recommendation letter",
+      "pos": "n"
+    },
+    {
+      "zh": "逛街",
+      "pinyin": "guàng jiē",
+      "en": "to go shopping",
+      "pos": "vo"
+    },
+    {
+      "zh": "显白",
+      "pinyin": "xiǎn bái",
+      "en": "to make skin look lighter",
+      "pos": "v"
+    },
+    {
+      "zh": "一白遮三丑",
+      "pinyin": "yì bái zhē sān chǒu",
+      "en": "\"one shade of white covers three uglinesses\"",
+      "pos": "idiom",
+      "note": "真实的中国审美观"
+    },
+    {
+      "zh": "试",
+      "pinyin": "shì",
+      "en": "to try on",
+      "pos": "v"
+    },
+    {
+      "zh": "号",
+      "pinyin": "hào",
+      "en": "size (clothing)",
+      "pos": "n",
+      "note": "大号、中号、小号"
+    },
+    {
+      "zh": "多少钱",
+      "pinyin": "duōshao qián",
+      "en": "how much money?",
+      "pos": ""
+    },
+    {
+      "zh": "二百八",
+      "pinyin": "èr bǎi bā",
+      "en": "280 yuan",
+      "pos": ""
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "了 (completed action)",
+      "body": "我过了最好的生日。= I had the best birthday.\n她打了又删了。= She typed then deleted.\n没人来。= Nobody came. (没 + verb = didn't)"
+    },
+    {
+      "title": "过 (experience)",
+      "body": "你去过台湾吗？= Have you ever been to Taiwan?\n我没吃过四川火锅。= I've never had Sichuan hotpot."
+    },
+    {
+      "title": "太...了",
+      "body": "太恶心了 = too disgusting\n太假了 = too fake\n太过分了 = too excessive\n太好了 = great! (positive too!)"
+    },
+    {
+      "title": "跟...一样",
+      "body": "跟我穿的一样 = same as what I'm wearing\n他跟矮中做一样的事 = he does the same thing as Ai Zhong"
+    }
+  ],
+  "cultureNotes": []
+}

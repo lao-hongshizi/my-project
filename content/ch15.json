@@ -1,0 +1,513 @@
+{
+  "chapter": 15,
+  "title": "出去玩",
+  "titleEn": "Going Out / THE CLUB SCENE",
+  "topic": "夜生活 / Nightlife",
+  "grammar": [
+    "了 (past tense)",
+    "V过",
+    "把"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "那天晚上大家都喝了一点白酒，走路去了学校附近的一家酒吧。音乐很响，灯很暗。矮中买了第一轮酒。王崩站在角落里，手里拿着一杯啤酒，看起来很酷。小黑在王崩附近跳舞——不是跟他跳，但够近了。清清坐在桌子旁边，喝着可乐，看着矮中在人群里走来走去。小李一个人在跳舞。",
+      "en": "That night everyone had some baijiu and walked to a bar near campus. Music loud, lights dim. 矮中 buys the first round. 王崩 stands in the corner holding a beer, looking effortlessly cool. 小黑 dances near 王崩 -- not with him, but close enough. 清清 sits at a table, nursing a Coke, watching 矮中 move through the crowd. 小李 dances alone."
+    },
+    {
+      "type": "scene",
+      "text": "对话一：酒吧里 (At the Bar)",
+      "en": "Dialogue 1: At the bar."
+    },
+    {
+      "type": "action",
+      "text": "矮中五分钟内已经跟旁边桌的中国女生们聊上了。他买了一轮酒。他的中文很烂但他的energy很有感染力。",
+      "en": "Within five minutes, 矮中 is already chatting up the Chinese girls at the next table. He buys a round. His Chinese is terrible but his energy is infectious."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "他就打算一直站在那里吗？",
+      "sub": "大声，对小李说"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "谁？王崩？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "他靠着墙。女生在看他。他什么都不做。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "他就是这样的。他越不做什么，看起来越酷。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我想去跟他说话但是走过去太desperate了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你确实desperate。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……哇。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "我是说爱你的那种说法。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你在盯着看。",
+      "sub": "坐到清清旁边"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我没有。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你看了矮中十分钟了。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我在观察社交——"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "你在盯着看。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "喜欢一个人没什么。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我没——"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "他请我吃了那顿饭，我觉得无聊。我不喜欢他。你可以放心。"
+    },
+    {
+      "type": "action",
+      "text": "清清看着她。胸口的什么东西松了。她没有说谢谢。但小李知道。",
+      "en": "清清 looks at her. Something in her chest loosens. She doesn't say thanks. But 小李 knows."
+    },
+    {
+      "type": "scene",
+      "text": "对话二：一个小时以后 (One Hour Later)",
+      "en": "Dialogue 2: One hour later."
+    },
+    {
+      "type": "action",
+      "text": "矮中三杯酒下去了。他想去跟小李说话。走到她面前。嘴巴张开。什么都说不出来。她在跳舞，根本没看到他站在那里。她从他旁边跳过去了，像他是家具一样。",
+      "en": "矮中 is three drinks in. He wants to talk to 小李. Walks up to her. Opens his mouth. Nothing comes out. She's dancing, doesn't even see him standing there. She dances right past him like he's furniture."
+    },
+    {
+      "type": "action",
+      "text": "他转过来。小黑在那里。在跳舞。在看他。她喝了两杯了。被王崩ignore了一晚上了。她想要有人——任何人——看她。",
+      "en": "He turns around. 小黑 is there. Dancing. Looking at him. She's two drinks in. 王崩 has ignored her all night. She wants someone -- anyone -- to see her."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "卧槽——对不起——我不——"
+    },
+    {
+      "type": "action",
+      "text": "她走了。很快。",
+      "en": "She leaves. Fast."
+    },
+    {
+      "type": "scene",
+      "text": "对话三：门外 (Outside the Bar)",
+      "en": "Dialogue 3: Outside the bar."
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……嘿。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "走开。",
+      "sub": "没抬头"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你还好吗？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我很好。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "他喝多了。那个不算。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我知道不算。这就是问题。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我的第一次被亲。结果是drunk的、sloppy的、不是给我的。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……那是你的第一次？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……别笑。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我没笑。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……我也没亲过任何人。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……你骗人。",
+      "sub": "看着他"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我没有。我不知道怎么做……这些事。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "但你是……你。你想要谁就能有谁。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我不想要\"谁都行\"。所以从来没……"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……你不说台湾的时候其实人挺好的。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……谢谢。"
+    },
+    {
+      "type": "scene",
+      "text": "对话四：酒吧里——矮中和清清 (Inside — Ai Zhong and Qingqing)",
+      "en": "Dialogue 4: Inside the bar -- 矮中 and 清清."
+    },
+    {
+      "type": "action",
+      "text": "矮中在吧台。刚才的high全没了。",
+      "en": "矮中 at the bar. The buzz is completely gone."
+    },
+    {
+      "type": "action",
+      "text": "这时候，酒吧那边，怪老师来了。穿着太年轻的衬衫。一个人。跟一个年轻的中国女生聊天。身体前倾。笑。买酒。那个女生看起来politely不舒服。她拿了酒。走了。怪老师转向下一个。",
+      "en": "Meanwhile, across the bar, 怪老师 shows up. Wearing a shirt too young for him. Alone. Chatting up a young Chinese girl. Leaning in. Laughing. Buying drinks. The girl looks politely uncomfortable. She takes the drink. Walks away. 怪老师 moves on to the next one."
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "你还好吗？",
+      "sub": "坐到矮中旁边"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……我亲了小黑。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我看到了。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我不是故意的。我想跟小李说话但是说不出来，然后小黑就……在那里。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我这样说很渣。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "你这样说很honest。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你看他？那个跟他说话的女生？她对他没兴趣。她只对他的钱有兴趣。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……可能吧。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "王崩说这就是十五年后的我。他说得对。我来酒吧，跟女生说话，买酒，以为她们喜欢我。其实她们只是喜欢……新鲜感。或者free drinks。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……不是所有人都这样。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "大部分。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "也许。但你还年轻。你可以改。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "清清。你为什么对我好？别人都觉得我是笑话。",
+      "sub": "看着她"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我不觉得你是笑话。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那你觉得我是什么？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……我觉得你是一个很努力假装是另一个人的人。真实的那个可能更好。",
+      "sub": "很长的停顿"
+    },
+    {
+      "type": "action",
+      "text": "怪老师站起来了。那个女生挽着他的手臂。她一直在看他的手表、手腕。他在笑。她也在笑。他们往出口走。",
+      "en": "怪老师 stands up. The girl takes his arm. She keeps glancing at his watch, his wrist. He's smiling. She's smiling. They walk toward the exit."
+    },
+    {
+      "type": "action",
+      "text": "大家看着他们走了。",
+      "en": "Everyone watches them leave."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……我不想成为他。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "那就别。"
+    },
+    {
+      "type": "scene",
+      "text": "Ch 14: 越来越 — more and more",
+      "en": "Ch 14: 越来越 -- more and more"
+    },
+    {
+      "type": "action",
+      "text": "她喝得越来越多了。= She's drinking more and more.",
+      "en": "她喝得越来越多了 = She's drinking more and more."
+    },
+    {
+      "type": "action",
+      "text": "怪老师的私信越来越过分了。= Guai's DMs are getting more and more excessive.",
+      "en": "怪老师's DMs are getting more and more excessive."
+    },
+    {
+      "type": "scene",
+      "text": "Ch 15: 把 — disposal/result",
+      "en": "Ch 15: 把 -- disposal/result"
+    },
+    {
+      "type": "action",
+      "text": "她把手机放下了。= She put down her phone.",
+      "en": "她把手机放下了 = She put down her phone."
+    },
+    {
+      "type": "scene",
+      "text": "Ch 15: V过 — ever done something",
+      "en": "Ch 15: V过 -- ever done something"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "酒吧",
+      "pinyin": "jiǔbā",
+      "en": "bar",
+      "pos": "n"
+    },
+    {
+      "zh": "跳舞",
+      "pinyin": "tiào wǔ",
+      "en": "to dance",
+      "pos": "vo"
+    },
+    {
+      "zh": "人群",
+      "pinyin": "rénqún",
+      "en": "crowd",
+      "pos": "n"
+    },
+    {
+      "zh": "一轮",
+      "pinyin": "yì lún",
+      "en": "a round (of drinks)",
+      "pos": ""
+    },
+    {
+      "zh": "亲",
+      "pinyin": "qīn",
+      "en": "to kiss",
+      "pos": "v",
+      "note": "= 接吻 (more formal)"
+    },
+    {
+      "zh": "转过来",
+      "pinyin": "zhuǎn guòlái",
+      "en": "to turn around",
+      "pos": "v"
+    },
+    {
+      "zh": "装酷",
+      "pinyin": "zhuāng kù",
+      "en": "to act cool",
+      "pos": "vo"
+    },
+    {
+      "zh": "搭在肩膀上",
+      "pinyin": "dā zài jiānbǎng shàng",
+      "en": "to drape over shoulders",
+      "pos": "",
+      "note": "王崩把外套搭在小黑肩上"
+    },
+    {
+      "zh": "喝多了",
+      "pinyin": "hē duō le",
+      "en": "had too much to drink",
+      "pos": ""
+    },
+    {
+      "zh": "渣",
+      "pinyin": "zhā",
+      "en": "trashy / scummy",
+      "pos": "adj",
+      "note": "渣男 = fuckboy"
+    },
+    {
+      "zh": "新鲜感",
+      "pinyin": "xīnxiān gǎn",
+      "en": "sense of novelty",
+      "pos": "n"
+    },
+    {
+      "zh": "挽着手臂",
+      "pinyin": "wǎn zhe shǒubì",
+      "en": "arm in arm",
+      "pos": ""
+    },
+    {
+      "zh": "desperate",
+      "pinyin": "",
+      "en": "太急了/太eager",
+      "pos": ""
+    },
+    {
+      "zh": "sloppy",
+      "pinyin": "",
+      "en": "邋遢的/乱的",
+      "pos": ""
+    },
+    {
+      "zh": "rebound",
+      "pinyin": "",
+      "en": "反弹/替代品",
+      "pos": "",
+      "note": "用一个人填补另一个的空"
+    },
+    {
+      "zh": "fumble",
+      "pinyin": "",
+      "en": "搞砸",
+      "pos": "",
+      "note": "= 机会没抓住"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "越来越 — more and more",
+      "body": "她喝得越来越多了。= She's drinking more and more.\n怪老师的私信越来越过分了。= Guai's DMs are getting more and more excessive."
+    },
+    {
+      "title": "把 — disposal/result",
+      "body": "他把外套脱下来。= He took off his jacket.\n她把手机放下了。= She put down her phone.\nNote: 把 emphasizes what happened to the object."
+    },
+    {
+      "title": "V过 — ever done something",
+      "body": "我没亲过任何人。= I've never kissed anyone.\n你去过club吗？= Have you ever been to a club?"
+    }
+  ],
+  "cultureNotes": []
+}

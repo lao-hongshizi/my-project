@@ -1,0 +1,495 @@
+{
+  "chapter": 5,
+  "title": "你想吃什么？",
+  "titleEn": "What Do You Want to Eat?",
+  "topic": "吃饭、点菜、买奶茶 / Eating Out, Ordering, Bubble Tea",
+  "grammar": [
+    "想",
+    "要",
+    "还是",
+    "一点/有一点"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：下课以后 (After Class)",
+      "en": "Dialogue 1: After class."
+    },
+    {
+      "type": "action",
+      "text": "第一次学生们自愿一起出去。小黑提议喝奶茶。王崩竟然答应了。大家就跟着来了。",
+      "en": "First time the students go out together voluntarily. 小黑 suggests boba. 王崩 actually agrees. Everyone follows."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "去哪儿吃？我饿死了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你们知道吗，台湾的小吃是全世界最好吃的。夜市文化——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我们不在台湾。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我是说如果附近有台湾餐厅——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "没有。有一家川菜馆、一家面馆、一家麦当劳。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……面馆吧。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我要点最辣的！我一直在训练我的辣度。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "训练？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "对，我每周吃三次火锅。我基本上已经是四川人了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你是Ohio人。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "心灵上的四川人。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "这不是一个东西。"
+    },
+    {
+      "type": "scene",
+      "text": "对话二：面馆里 (At the Noodle Shop)",
+      "en": "Dialogue 2: At the noodle shop."
+    },
+    {
+      "type": "action",
+      "text": "大家坐下了。矮中点了最辣的。王崩点了牛肉面，马上说台北的牛肉面比较好。小黑点了清淡的因为她在\"减肥\"。清清点了营养均衡的一套。小李迟到了十分钟，手上拿着已经点好的外卖。",
+      "en": "Everyone sits down. 矮中 orders the spiciest option. 王崩 orders beef noodles, immediately says Taipei's are better. 小黑 orders something light because she's \"dieting.\" 清清 orders a balanced set meal. 小李 arrives ten minutes late, takeout already in hand."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "小李！你已经有吃的了？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "路上点的。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "但是我们是一起吃饭！这是重点！"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "我人在这里了。",
+      "sub": "坐下，拿出麻辣烫"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……也是。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你天天吃麻辣烫。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "好吃。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "不腻吗？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "不。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我都在减肥了都觉得你需要换个花样。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "你不需要减肥。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你不懂。中国的审美标准——"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "不健康也不现实。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你当然可以这么说。你天生就瘦。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "那是基因，不是努力。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "所以！有的人必须努力！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……那是美白产品？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "是提亮霜。有区别。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "没区别。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "她开心就好。",
+      "sub": "没抬头"
+    },
+    {
+      "type": "action",
+      "text": "矮中的面来了。他吃了一口。脸马上红了。",
+      "en": "矮中's noodles arrive. He takes one bite. Face goes red instantly."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "没事……这个……很好……",
+      "sub": "流汗"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你在哭。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "这是flavor tears！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你应该点中辣。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "Sigma不点中辣。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "Sigma也不会哭着吃面。"
+    },
+    {
+      "type": "action",
+      "text": "大家笑了。清清也笑了。连王崩都笑了一点。",
+      "en": "Everyone laughs. 清清 laughs too. Even 王崩 cracks a small smile."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "好好好。Fair。但是——\"bussin\"中文怎么说？因为这碗面bussin得要命，虽然在杀我。",
+      "sub": "擦鼻涕"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "绝了。或者好吃到爆。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "绝了……你是怎么知道这些的？",
+      "sub": "拿笔记下来"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……我说了。我看书。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你真的是我认识的最聪明的人。"
+    },
+    {
+      "type": "action",
+      "text": "清清看着自己的碗。耳朵红了。除了小李没人注意到。",
+      "en": "清清 stares into her bowl. Ears red. Nobody notices except 小李."
+    },
+    {
+      "type": "scene",
+      "text": "对话三：买奶茶 (Buying Bubble Tea)",
+      "en": "Dialogue 3: Buying bubble tea."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "吃完去买奶茶吧？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "好啊。你知道珍珠奶茶是台湾发明的吗？1980年代——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "知道了你说过八百次了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "但是每次买奶茶之前都应该记住这个事实。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我知道怎么点！七分糖少冰！这是我每天出去学到的。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……你真的会点奶茶。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "Bro，我来了三个月了。我每天出去的时间比你们加起来都多。街就是我的教室。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "这个……不算完全错。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "有一点错。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "但也有一点对！走吧走吧！"
+    },
+    {
+      "type": "scene",
+      "text": "1. 想 vs 要 — want",
+      "en": "1. 想 vs 要 -- want"
+    },
+    {
+      "type": "scene",
+      "text": "2. 还是 — or (in questions)",
+      "en": "2. 还是 -- or (in questions)"
+    },
+    {
+      "type": "scene",
+      "text": "3. 有一点 vs 一点 — \"a little\"",
+      "en": "3. 有一点 vs 一点 -- \"a little\""
+    },
+    {
+      "type": "scene",
+      "text": "4. 得 — complement of degree",
+      "en": "4. 得 -- complement of degree"
+    },
+    {
+      "type": "scene",
+      "text": "点奶茶 — How to Order Bubble Tea",
+      "en": "Ordering Bubble Tea -- How to Order"
+    },
+    {
+      "type": "scene",
+      "text": "中国的辣",
+      "en": "Chinese Spice Levels"
+    },
+    {
+      "type": "action",
+      "text": "四川辣、湖南辣、贵州辣——各种各样的辣。中国人经常问\"你能吃辣吗？\"如果你是外国人说\"我能吃辣\"，他们会很impressed。如果你真的不能，别逞强。矮中逞强了。",
+      "en": "Sichuan spicy, Hunan spicy, Guizhou spicy -- every kind of heat. Chinese people always ask \"Can you handle spicy?\" If you're a foreigner and say yes, they're impressed. If you actually can't, don't fake it. 矮中 faked it."
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "川菜",
+      "pinyin": "Chuāncài",
+      "en": "Sichuan food",
+      "pos": "n",
+      "note": "辣！"
+    },
+    {
+      "zh": "面馆",
+      "pinyin": "miànguǎn",
+      "en": "noodle shop",
+      "pos": "n"
+    },
+    {
+      "zh": "牛肉面",
+      "pinyin": "niúròu miàn",
+      "en": "beef noodle soup",
+      "pos": "n",
+      "note": "台湾名菜（again）"
+    },
+    {
+      "zh": "麻辣烫",
+      "pinyin": "málàtàng",
+      "en": "spicy hot pot soup",
+      "pos": "n",
+      "note": "学生最爱的便宜外卖"
+    },
+    {
+      "zh": "减肥",
+      "pinyin": "jiǎnféi",
+      "en": "to diet / lose weight",
+      "pos": "v"
+    },
+    {
+      "zh": "审美标准",
+      "pinyin": "shěnměi biāozhǔn",
+      "en": "beauty standards",
+      "pos": "n"
+    },
+    {
+      "zh": "美白",
+      "pinyin": "měibái",
+      "en": "skin whitening",
+      "pos": "n/v",
+      "note": "有争议的美容话题"
+    },
+    {
+      "zh": "提亮霜",
+      "pinyin": "tíliàng shuāng",
+      "en": "brightening cream",
+      "pos": "n",
+      "note": "小黑说这个\"有区别\""
+    },
+    {
+      "zh": "辣",
+      "pinyin": "là",
+      "en": "spicy",
+      "pos": "adj"
+    },
+    {
+      "zh": "流汗",
+      "pinyin": "liúhàn",
+      "en": "to sweat",
+      "pos": "v"
+    },
+    {
+      "zh": "七分糖少冰",
+      "pinyin": "qī fēn táng shǎo bīng",
+      "en": "70% sugar, less ice",
+      "pos": "",
+      "note": "奶茶标准点单"
+    },
+    {
+      "zh": "珍珠奶茶",
+      "pinyin": "zhēnzhū nǎichá",
+      "en": "bubble tea / boba",
+      "pos": "n",
+      "note": "台湾发明的！"
+    },
+    {
+      "zh": "花样",
+      "pinyin": "huāyàng",
+      "en": "variety",
+      "pos": "n",
+      "note": "换个花样 = try sth different"
+    },
+    {
+      "zh": "腻",
+      "pinyin": "nì",
+      "en": "sick of / tired of (food)",
+      "pos": "adj"
+    },
+    {
+      "zh": "好吃到爆",
+      "pinyin": "hǎochī dào bào",
+      "en": "delicious af",
+      "pos": "",
+      "note": "= bussin!"
+    },
+    {
+      "zh": "sigma",
+      "pinyin": "",
+      "en": "独狼型",
+      "pos": "",
+      "note": "矮中觉得自己是sigma"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "想 vs 要 — want",
+      "body": "我想吃面。= I want to eat noodles (softer)\n我要最辣的！= I want the spiciest! (stronger/demanding)"
+    },
+    {
+      "title": "还是 — or (in questions)",
+      "body": "你要辣的还是不辣的？= Do you want spicy or not spicy?\n喝奶茶还是咖啡？= Bubble tea or coffee?"
+    },
+    {
+      "title": "有一点 vs 一点 — \"a little\"",
+      "body": "有一点辣 = a little spicy (complaining)\n给我来一点辣的 = give me some spicy (requesting)\nNote: 有一点 usually = slight complaint. 一点 = quantity."
+    },
+    {
+      "title": "得 — complement of degree",
+      "body": "辣得要命 = so spicy it's killing me\n好吃得不行 = so good I can't handle it\nbussin得要命 = bussin af"
+    }
+  ],
+  "cultureNotes": [
+    {
+      "title": "小黑：** 去哪儿吃？我饿死了。\n\n**王崩：** 你们知道吗，台湾的小吃是全世界最好吃的。夜市文化——\n\n**小黑：** 我们不在台湾。\n\n**王崩：** 我是说如果附近有台湾餐厅——\n\n**小黑：** 没有。有一家川菜馆、一家面馆、一家麦当劳。\n\n**王崩：** ……面馆吧。\n\n**矮中：** 我要点最辣的！我一直在训练我的辣度。\n\n**清清：** 训练？\n\n**矮中：** 对，我每周吃三次火锅。我基本上已经是四川人了。\n\n**小黑：** 你是Ohio人。\n\n**矮中：** 心灵上的四川人。\n\n**清清：** 这不是一个东西。\n\n---\n\n### 对话二：面馆里 (At the Noodle Shop)\n\n大家坐下了。矮中点了最辣的。王崩点了牛肉面，马上说台北的牛肉面比较好。小黑点了清淡的因为她在\"减肥\"。清清点了营养均衡的一套。小李迟到了十分钟，手上拿着已经点好的外卖。\n\n---\n\n**矮中：** 小李！你已经有吃的了？\n\n**小李：** 路上点的。\n\n**矮中：** 但是我们是一起吃饭！这是重点！\n\n**小李：** （坐下，拿出麻辣烫）我人在这里了。\n\n**矮中：** ……也是。\n\n**小黑：** 你天天吃麻辣烫。\n\n**小李：** 好吃。\n\n**小黑：** 不腻吗？\n\n**小李：** 不。\n\n**小黑：** 我都在减肥了都觉得你需要换个花样。\n\n**清清：** 你不需要减肥。\n\n**小黑：** 你不懂。中国的审美标准——\n\n**清清：** 不健康也不现实。\n\n**小黑：** 你当然可以这么说。你天生就瘦。\n\n**清清：** 那是基因，不是努力。\n\n**小黑：** 所以！有的人必须努力！\n\n她从包里拿出一管美白霜。\n\n**清清：** ……那是美白产品？\n\n**小黑：** 是提亮霜。有区别。\n\n**清清：** 没区别。\n\n**小李：** （没抬头）她开心就好。\n\n---\n\n矮中的面来了。他吃了一口。脸马上红了。\n\n**矮中：** （流汗）没事……这个……很好……\n\n**王崩：** 你在哭。\n\n**矮中：** 这是flavor tears！\n\n**王崩：** 你应该点中辣。\n\n**矮中：** Sigma不点中辣。\n\n**小李：** Sigma也不会哭着吃面。\n\n大家笑了。清清也笑了。连王崩都笑了一点。\n\n**矮中：** （擦鼻涕）好好好。Fair。但是——\"bussin\"中文怎么说？因为这碗面bussin得要命，虽然在杀我。\n\n**清清：** 绝了。或者好吃到爆。\n\n**矮中：** （拿笔记下来）绝了……你是怎么知道这些的？\n\n**清清：** ……我说了。我看书。\n\n**矮中：** 你真的是我认识的最聪明的人。\n\n清清看着自己的碗。耳朵红了。除了小李没人注意到。\n\n---\n\n### 对话三：买奶茶 (Buying Bubble Tea)\n\n**小黑：** 吃完去买奶茶吧？\n\n**王崩：** 好啊。你知道珍珠奶茶是台湾发明的吗？1980年代——\n\n**小黑：** 知道了你说过八百次了。\n\n**王崩：** 但是每次买奶茶之前都应该记住这个事实。\n\n**矮中：** 我知道怎么点！七分糖少冰！这是我每天出去学到的。\n\n**王崩：** ……你真的会点奶茶。\n\n**矮中：** Bro，我来了三个月了。我每天出去的时间比你们加起来都多。街就是我的教室。\n\n**王崩：** 这个……不算完全错。\n\n**清清：** 有一点错。\n\n**矮中：** 但也有一点对！走吧走吧！\n\n他们出了面馆。小李走在最后面，在看手机。她在跟什么人发消息。屏幕上的名字看不清。\n\n---\n\n### 生词 (Vocabulary)\n\n| 中文 | 拼音 | 词性 | 英文 | 文化笔记 |\n|------|------|------|------|----------|\n| 川菜 | Chuāncài | n | Sichuan food | 辣！ |\n| 面馆 | miànguǎn | n | noodle shop | |\n| 牛肉面 | niúròu miàn | n | beef noodle soup | 台湾名菜（again） |\n| 麻辣烫 | málàtàng | n | spicy hot pot soup | 学生最爱的便宜外卖 |\n| 减肥 | jiǎnféi | v | to diet / lose weight | |\n| 审美标准 | shěnměi biāozhǔn | n | beauty standards | |\n| 美白 | měibái | n/v | skin whitening | 有争议的美容话题 |\n| 提亮霜 | tíliàng shuāng | n | brightening cream | 小黑说这个\"有区别\" |\n| 辣 | là | adj | spicy | |\n| 流汗 | liúhàn | v | to sweat | |\n| 七分糖少冰 | qī fēn táng shǎo bīng | | 70% sugar, less ice | 奶茶标准点单 |\n| 珍珠奶茶 | zhēnzhū nǎichá | n | bubble tea / boba | 台湾发明的！ |\n| 花样 | huāyàng | n | variety | 换个花样 = try sth different |\n| 腻 | nì | adj | sick of / tired of (food) | |\n| 好吃到爆 | hǎochī dào bào | | delicious af | = bussin! |\n| sigma | | | 独狼型 | 矮中觉得自己是sigma |\n\n---\n\n### 语法 (Grammar Notes)\n\n**1. 想 vs 要 — want",
+      "body": "我想吃面。= I want to eat noodles (softer)\n我要最辣的！= I want the spiciest! (stronger/demanding)"
+    },
+    {
+      "title": "点奶茶 — How to Order Bubble Tea",
+      "body": "这是真的生存技能。在中国/台湾点奶茶你要说：\n- 甜度 (sweetness): 全糖、七分糖、五分糖、三分糖、无糖\n- 冰量 (ice): 正常冰、少冰、去冰、温/热\n- 加料 (toppings): 珍珠、椰果、布丁、芋圆\n\n矮中说的\"七分糖少冰\"是最标准的点法。他在街上学到的。你的课本不会教你这个。"
+    }
+  ]
+}

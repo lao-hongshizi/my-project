@@ -1,0 +1,60 @@
+import type { CharacterDef } from "./types";
+
+export const CHARACTERS: Record<string, CharacterDef> = {
+  xiaoli: {
+    name: "小李",
+    color: "#E8847C",
+    bg: "#2D1B1B",
+    icon: "♀",
+    desc: "phone addict · half-white · vapes",
+    align: "right",
+  },
+  wangbeng: {
+    name: "王崩",
+    color: "#5B9BD5",
+    bg: "#1B2230",
+    icon: "♂",
+    desc: "hot · Taiwanese · will correct you",
+    align: "left",
+  },
+  aizhong: {
+    name: "矮中",
+    color: "#7EC87E",
+    bg: "#1B2D1B",
+    icon: "♂",
+    desc: "white sinophile · cringe · tattoo",
+    align: "left",
+  },
+  guailaoshi: {
+    name: "怪老师",
+    color: "#C4A265",
+    bg: "#2D2A1B",
+    icon: "👴",
+    desc: "60s · creepy · 'you're pretty today'",
+    align: "left",
+  },
+  xiaohei: {
+    name: "小黑",
+    color: "#D4A5D4",
+    bg: "#2D1B2D",
+    icon: "♀",
+    desc: "K-pop · memes · wants 王崩",
+    align: "right",
+  },
+  qingqing: {
+    name: "清清",
+    color: "#A5D4D4",
+    bg: "#1B2D2D",
+    icon: "♀",
+    desc: "perfect student · secret weakness",
+    align: "right",
+  },
+  narrator: {
+    name: "旁白",
+    color: "#888888",
+    bg: "#1a1a1a",
+    icon: "✦",
+    desc: "",
+    align: "left",
+  },
+};

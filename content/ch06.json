@@ -1,0 +1,383 @@
+{
+  "chapter": 6,
+  "title": "今天天气怎么样？",
+  "titleEn": "How's the Weather?",
+  "topic": "天气、穿衣服 / Weather, Clothing",
+  "grammar": [
+    "比",
+    "得 (complement)",
+    "看起来"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：群聊 — 早上 (Group Chat — Morning)",
+      "en": "Dialogue 1: Group Chat -- Morning."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "今天好冷啊。多少度？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "五度。台湾现在二十八度。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我数一下。你今天第几次提台湾了？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "这是weather fact，不是提台湾。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你说了\"台湾\"。算了。第一次。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "今天有雨。带伞。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "清清你是天气预报吗？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我看了手机。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我也看了手机。但是我看的是Instagram。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "[已读]"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "小李？活着吗？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "冷。不想出门。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "但是要上课！"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "被子比课重要。"
+    },
+    {
+      "type": "scene",
+      "text": "对话二：教室——怪老师讲天气 (Classroom — Weather Lesson)",
+      "en": "Dialogue 2: Classroom -- Weather Lesson."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "今天我们学天气。外面怎么样？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "冷死了。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "好。\"冷死了\"是很好的口语。还可以说——"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "老师，\"drip\"中文怎么说？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "……滴？水滴？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "不不不。Drip。就是穿搭很好看的意思。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "我不知道这个意思。穿衣服好看中文可以说……穿得好看？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "穿搭。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "穿搭。穿衣搭配。年轻人都说穿搭。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "……好吧。穿搭。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "王崩的穿搭最好。每天都有drip。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "台湾的时尚品味在亚洲——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "第二次。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "——是最有创意的。我说完了。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那\"fit check\"呢？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "……我真的不知道。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我们的中文老师不知道的越来越多了。",
+      "sub": "小声对小黑说"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我们从他那里学到的还不如从矮中那里学到的多。",
+      "sub": "小声"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "好，我们说说穿衣服。小黑，你今天穿了什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……老师你为什么问我穿什么？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "练习词汇。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我穿了黑色的外套和牛仔裤。",
+      "sub": "不太舒服"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "很好看。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……谢谢。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小李，你呢？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "黑色卫衣。黑色裤子。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "你总是穿黑色。应该穿一点亮的颜色。你穿亮色肯定更好看。"
+    },
+    {
+      "type": "scene",
+      "text": "1. 比 — comparison",
+      "en": "1. 比 -- comparison"
+    },
+    {
+      "type": "scene",
+      "text": "2. 死了 as intensifier",
+      "en": "2. 死了 as intensifier"
+    },
+    {
+      "type": "scene",
+      "text": "3. 得 (complement of manner)",
+      "en": "3. 得 (complement of manner)"
+    },
+    {
+      "type": "scene",
+      "text": "4. 应该 — should",
+      "en": "4. 应该 -- should"
+    },
+    {
+      "type": "scene",
+      "text": "中国的审美标准",
+      "en": "Chinese Beauty Standards"
+    },
+    {
+      "type": "scene",
+      "text": "老师评论学生穿着？",
+      "en": "A teacher commenting on how students dress?"
+    },
+    {
+      "type": "action",
+      "text": "在中国，老师评论学生的穿着不是那么unusual。但怪老师的评论比较……specific。他不是在教词汇。他在看。清清和小黑注意到了。小李没注意到。",
+      "en": "In China, teachers commenting on students' clothes isn't that unusual. But 怪老师's comments are a bit... specific. He's not teaching vocabulary. He's looking. 清清 and 小黑 notice. 小李 doesn't."
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "冷/热",
+      "pinyin": "lěng/rè",
+      "en": "cold/hot",
+      "pos": "adj"
+    },
+    {
+      "zh": "度",
+      "pinyin": "dù",
+      "en": "degree (temperature)",
+      "pos": "n",
+      "note": "中国用摄氏度 (Celsius)"
+    },
+    {
+      "zh": "下雨",
+      "pinyin": "xià yǔ",
+      "en": "to rain",
+      "pos": "v"
+    },
+    {
+      "zh": "带伞",
+      "pinyin": "dài sǎn",
+      "en": "to bring an umbrella",
+      "pos": "vo"
+    },
+    {
+      "zh": "被子",
+      "pinyin": "bèizi",
+      "en": "blanket / comforter",
+      "pos": "n",
+      "note": "\"被子比课重要\""
+    },
+    {
+      "zh": "穿搭",
+      "pinyin": "chuāndā",
+      "en": "outfit coordination / drip",
+      "pos": "n",
+      "note": "= zoomer \"drip\""
+    },
+    {
+      "zh": "外套",
+      "pinyin": "wàitào",
+      "en": "jacket / coat",
+      "pos": "n"
+    },
+    {
+      "zh": "牛仔裤",
+      "pinyin": "niúzǎikù",
+      "en": "jeans",
+      "pos": "n"
+    },
+    {
+      "zh": "卫衣",
+      "pinyin": "wèiyī",
+      "en": "hoodie / sweatshirt",
+      "pos": "n"
+    },
+    {
+      "zh": "亮色",
+      "pinyin": "liàng sè",
+      "en": "bright colors",
+      "pos": "n"
+    },
+    {
+      "zh": "冷死了",
+      "pinyin": "lěng sǐ le",
+      "en": "freezing to death",
+      "pos": "",
+      "note": "死了 = intensifier in slang"
+    },
+    {
+      "zh": "天气预报",
+      "pinyin": "tiānqì yùbào",
+      "en": "weather forecast",
+      "pos": "n"
+    },
+    {
+      "zh": "时尚",
+      "pinyin": "shíshàng",
+      "en": "fashion / fashionable",
+      "pos": "n/adj"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "比 — comparison",
+      "body": "台湾比这里热。= Taiwan is hotter than here.\n被子比课重要。= The blanket is more important than class.\n他穿得比我好看。= He dresses better than me."
+    },
+    {
+      "title": "死了 as intensifier",
+      "body": "冷死了 = freezing to death = so cold\n饿死了 = starving to death = so hungry\n累死了 = tired to death = so tired\nNote: Not literal death. Just emphasis."
+    },
+    {
+      "title": "得 (complement of manner)",
+      "body": "穿得好看 = dresses nicely\n说得很好 = speaks well\n你说得对 = you're right (said correctly)"
+    },
+    {
+      "title": "应该 — should",
+      "body": "你应该穿亮色。= You should wear bright colors.\n你应该带伞。= You should bring an umbrella."
+    }
+  ],
+  "cultureNotes": [
+    {
+      "title": "矮中：** 今天好冷啊。多少度？\n\n**王崩：** 五度。台湾现在二十八度。\n\n**小黑：** 我数一下。你今天第几次提台湾了？\n\n**王崩：** 这是weather fact，不是提台湾。\n\n**小黑：** 你说了\"台湾\"。算了。第一次。\n\n**清清：** 今天有雨。带伞。\n\n**矮中：** 清清你是天气预报吗？\n\n**清清：** 我看了手机。\n\n**矮中：** 我也看了手机。但是我看的是Instagram。\n\n**小李：** [已读]\n\n**矮中：** 小李？活着吗？\n\n**小李：** 冷。不想出门。\n\n**矮中：** 但是要上课！\n\n**小李：** 被子比课重要。\n\n---\n\n### 对话二：教室——怪老师讲天气 (Classroom — Weather Lesson)\n\n**怪老师：** 今天我们学天气。外面怎么样？\n\n**矮中：** 冷死了。\n\n**怪老师：** 好。\"冷死了\"是很好的口语。还可以说——\n\n**矮中：** 老师，\"drip\"中文怎么说？\n\n**怪老师：** ……滴？水滴？\n\n**矮中：** 不不不。Drip。就是穿搭很好看的意思。\n\n**怪老师：** 我不知道这个意思。穿衣服好看中文可以说……穿得好看？\n\n**小黑：** 穿搭。\n\n**怪老师：** 什么？\n\n**小黑：** 穿搭。穿衣搭配。年轻人都说穿搭。\n\n**怪老师：** ……好吧。穿搭。\n\n**矮中：** 王崩的穿搭最好。每天都有drip。\n\n**王崩：** 台湾的时尚品味在亚洲——\n\n**小黑：** 第二次。\n\n**王崩：** ——是最有创意的。我说完了。\n\n---\n\n**矮中：** 那\"fit check\"呢？\n\n**怪老师：** ……我真的不知道。\n\n**清清：** （小声对小黑说）我们的中文老师不知道的越来越多了。\n\n**小黑：** （小声）我们从他那里学到的还不如从矮中那里学到的多。\n\n---\n\n**怪老师：** 好，我们说说穿衣服。小黑，你今天穿了什么？\n\n**小黑：** ……老师你为什么问我穿什么？\n\n**怪老师：** 练习词汇。\n\n**小黑：** （不太舒服）我穿了黑色的外套和牛仔裤。\n\n**怪老师：** 很好看。\n\n**小黑：** ……谢谢。\n\n**怪老师：** 小李，你呢？\n\n**小李：** 黑色卫衣。黑色裤子。\n\n**怪老师：** 你总是穿黑色。应该穿一点亮的颜色。你穿亮色肯定更好看。\n\n清清和小黑对视了一下。\n\n---\n\n### 生词 (Vocabulary)\n\n| 中文 | 拼音 | 词性 | 英文 | 文化笔记 |\n|------|------|------|------|----------|\n| 冷/热 | lěng/rè | adj | cold/hot | |\n| 度 | dù | n | degree (temperature) | 中国用摄氏度 (Celsius) |\n| 下雨 | xià yǔ | v | to rain | |\n| 带伞 | dài sǎn | vo | to bring an umbrella | |\n| 被子 | bèizi | n | blanket / comforter | \"被子比课重要\" |\n| 穿搭 | chuāndā | n | outfit coordination / drip | = zoomer \"drip\" |\n| 外套 | wàitào | n | jacket / coat | |\n| 牛仔裤 | niúzǎikù | n | jeans | |\n| 卫衣 | wèiyī | n | hoodie / sweatshirt | |\n| 亮色 | liàng sè | n | bright colors | |\n| 冷死了 | lěng sǐ le | | freezing to death | 死了 = intensifier in slang |\n| 天气预报 | tiānqì yùbào | n | weather forecast | |\n| 时尚 | shíshàng | n/adj | fashion / fashionable | |\n\n---\n\n### 语法 (Grammar Notes)\n\n**1. 比 — comparison",
+      "body": "台湾比这里热。= Taiwan is hotter than here.\n被子比课重要。= The blanket is more important than class.\n他穿得比我好看。= He dresses better than me."
+    },
+    {
+      "title": "中国的审美标准",
+      "body": "\"一白遮三丑\"——一白遮三丑，意思是白就可以cover很多缺点。这是真实的中国审美观。小黑的美白霜不是个例。护肤品店里美白产品永远最畅销。这个标准正在被年轻一代慢慢质疑——但慢慢地。"
+    }
+  ]
+}

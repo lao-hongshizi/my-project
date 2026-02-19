@@ -1,0 +1,285 @@
+{
+  "chapter": 18,
+  "title": "告诉你",
+  "titleEn": "I Need to Tell You",
+  "topic": "表白、比较 / Confessions, Comparisons",
+  "grammar": [
+    "比",
+    "不比",
+    "告诉/说",
+    "从...就"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：小黑告白王崩 (Xiao Hei Confesses to Wang Beng)",
+      "en": "Dialogue 1: 小黑 confesses to 王崩."
+    },
+    {
+      "type": "action",
+      "text": "下课以后。小黑跟自己说了一周了：如果他说\"哦谢谢\"，那就说\"哦谢谢\"吧。她活得过来的。absent的爸爸她活下来了。对自己皮肤的不满她活下来了。这只是one more thing。",
+      "en": "After class. 小黑 has been telling herself all week: if he says \"oh thanks,\" then he says \"oh thanks.\" She'll survive. She survived an absent father. She survived hating her own skin. This is just one more thing."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "王崩。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "嗯？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我喜欢你。从第一天就喜欢了。"
+    },
+    {
+      "type": "action",
+      "text": "王崩停下来了。",
+      "en": "王崩 stops."
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "所有人都知道。女生知道。矮中知道。就你一个人不知道。或者你知道但是你不在乎。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你不用说什么。但我必须告诉你。因为这件事一直在杀我。每次我跟你吵台湾的事，不是因为我在乎台湾。我是说——我确实在乎，中国的发展是very impressive的，CCP让几亿人脱贫了——但那不是我吵的原因。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那你为什么吵？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "因为这是唯一能让你看我的方式。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……哦。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你如果说\"谢谢\"我会尖叫。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……我不是要说谢谢。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "那说什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我要说的是……我最近在想。从club那晚以后。你坐在路边，我把外套给你了。我不做那种事的。我不给别人东西。我不坐路边。我不关心人有没有事。但是那天我做了。为了你。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……所以？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "所以我不知道。我不擅长这个。我擅长经济、繁体字、台湾。我不擅长……这个。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……你想不想试试？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "试什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "喝奶茶。就我们两个。不提台湾。不说政治。就是两个人喝奶茶。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我可以提一次台湾吗？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "一次。",
+      "sub": "快笑了"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……好。那走吧。"
+    },
+    {
+      "type": "action",
+      "text": "他们走了。很近但没碰到。小黑的心跳快到她能听到。王崩一直看前面，因为他如果看她会失去composure，而王崩从来不失去composure。",
+      "en": "They walk. Close but not touching. 小黑's heartbeat is so loud she can hear it. 王崩 keeps looking straight ahead, because if he looks at her he'll lose his composure, and 王崩 never loses his composure."
+    },
+    {
+      "type": "scene",
+      "text": "对话二：图书馆——矮中和清清 (Library — Ai Zhong and Qingqing)",
+      "en": "Dialogue 2: Library -- 矮中 and 清清."
+    },
+    {
+      "type": "action",
+      "text": "矮中拿着中文作业来找清清。他自己做的——字歪歪扭扭的，一半是错的，但他做了。",
+      "en": "矮中 brings his Chinese homework to 清清. He did it himself -- characters crooked, half of them wrong, but he did it."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "清清，帮我看一下作业？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……你自己做的？",
+      "sub": "拿过来看"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "对。我知道写得很烂。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "不烂。这个字写错了——那是大，不是太，差一个点。这个写反了。但是……你确实在认真做。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "club那晚以后我一直在努力。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "什么改变了？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我看到怪老师，意识到……我不想做那种在中国十五年了还写不好字的人。我想真的学。不只是酒吧中文。真正的中文。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……这是你说过的最成熟的话。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "别告诉别人。我有reputation的。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "你的秘密safe with me。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "清清……你为什么帮我？我不聪明。不organized。我把\"矮\"纹在了胳膊上。为什么你一直帮我？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "是因为你可怜我？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "不是。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那为什么？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "因为你问了。没有别人问我帮忙。他们看我就是……聪明的那个。冷的那个。什么都figured out的那个。你是唯一一个把我当普通人的人。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……你就是普通人。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "对大部分人来说不是。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那大部分人是笨蛋。……包括我。"
+    },
+    {
+      "type": "action",
+      "text": "她笑了。真的笑了。清清不笑。清清的表情是tight smile加\"嗯\"。但现在，在图书馆里，她笑了。",
+      "en": "She laughs. Actually laughs. 清清 doesn't laugh. 清清's expression is a tight smile plus \"mm.\" But now, in the library, she laughs."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你笑了！这是我第一次听到你笑！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "停。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你的笑声很好听！应该多笑！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "看作业。",
+      "sub": "耳朵on fire"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "好好好。作业。"
+    }
+  ],
+  "vocab": [],
+  "grammarNotes": [],
+  "cultureNotes": []
+}

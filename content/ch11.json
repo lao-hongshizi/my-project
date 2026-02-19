@@ -1,0 +1,166 @@
+{
+  "chapter": 11,
+  "title": "生日",
+  "titleEn": "Birthday",
+  "topic": "生日、庆祝 / Birthday, Celebrations",
+  "grammar": [
+    "了 (completed action)",
+    "过 (experience)",
+    "给"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话一：群聊 (Group Chat)",
+      "en": "Dialogue 1: Group Chat."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "这个周六是我生日！！🎂🎂 我请大家吃饭！东门那家火锅店！六点！来！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我有经济学study group。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我在洗头。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你每次都说在洗头！"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我头发多。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "[已读]"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "小李？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "可能有事。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "\"可能\"？？是我的生日！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "[打字中…… 打字中…… 打字中……]"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "那天好像有事。不确定。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你们都不行。我自己去。"
+    },
+    {
+      "type": "scene",
+      "text": "周六晚上六点。火锅店。矮中一个人到了。没人来。他看了看空的桌子，耸了耸肩，去了旁边的酒吧。八点的时候，他跟六个刚认识二十分钟的中国大学生坐在一起。他们在给他庆生。有人用餐巾纸给他做了一个皇冠。大家在唱中文生日歌。他的中文很烂，所有人都在笑。他也在笑。",
+      "en": "Saturday, 6 PM. Hot pot restaurant. 矮中 arrives alone. Nobody shows. He looks at the empty table, shrugs, and heads to the bar next door. By 8 PM, he's sitting with six Chinese college students he met twenty minutes ago. They're celebrating his birthday. Someone made him a crown out of napkins. Everyone is singing Happy Birthday in Chinese. His Chinese is terrible and everyone is laughing. He's laughing too."
+    },
+    {
+      "type": "scene",
+      "text": "对话二：群聊反应 (Group Chat Reactions)",
+      "en": "Dialogue 2: Group Chat Reactions."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "[视频]"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "谢谢你们的nothing！自己过了最好的生日！这些是我的新朋友！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……你是怎么做到的？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "做到什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "二十分钟跟陌生人成为朋友。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我就是跟人说话。你们都怕真实的世界。我住在里面。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "有没有人觉得有点guilty？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我应该去的。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "清清……"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "没什么。对于一个\"不喜欢他\"的人来说，你想得挺多的。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "Guilt和crush的感觉一样。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "完全不一样。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "随你。"
+    }
+  ],
+  "vocab": [],
+  "grammarNotes": [],
+  "cultureNotes": []
+}

@@ -1,0 +1,68 @@
+@import "tailwindcss";
+
+@theme inline {
+  --color-bg: #0d0d0d;
+  --color-surface: #111111;
+  --color-accent: #CE2D2D;
+  --color-accent-dim: #CE2D2D22;
+  --color-accent-border: #CE2D2D44;
+  --color-accent-glow: #CE2D2D33;
+  --color-dim: #555555;
+  --color-muted: #888888;
+  --color-subtle: #333333;
+  --color-foreground: #e8e8e8;
+
+  --font-sans: "Noto Sans SC", "PingFang SC", -apple-system, sans-serif;
+  --font-mono: "Space Mono", "Courier New", monospace;
+  --font-serif: "Georgia", serif;
+
+  --animate-fade-slide-in: fadeSlideIn 0.4s ease both;
+  --animate-pulse-dot: pulseDot 1.2s infinite;
+}
+
+@keyframes fadeSlideIn {
+  from {
+    opacity: 0;
+    transform: translateY(12px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pulseDot {
+  0%, 100% {
+    opacity: 0.6;
+  }
+  50% {
+    opacity: 1;
+  }
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-foreground);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-accent-border);
+  border-radius: 3px;
+}

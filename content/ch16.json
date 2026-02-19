@@ -1,0 +1,224 @@
+{
+  "chapter": 16,
+  "title": "怎么回事？",
+  "titleEn": "What Happened?",
+  "topic": "解释、道歉 / Explaining, Apologizing",
+  "grammar": [
+    "告诉",
+    "问",
+    "说 (reported speech)",
+    "是...的"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "那天晚上以后，大家都变了一点。矮中亲了小黑——但不是因为喜欢她。小黑的第一次接吻是drunk的、sloppy的、不是给她的。王崩坐在路边陪了她一个小时，把外套给了她。清清听到了矮中说\"我想跟小李说话但说不出来\"。怪老师在酒吧里跟一个年轻女生走了。",
+      "en": "After that night, everyone changed a little. 矮中 kissed 小黑 -- but not because he liked her. 小黑's first kiss was drunk, sloppy, and not meant for her. 王崩 sat on the curb with her for an hour and gave her his jacket. 清清 heard 矮中 say \"I wanted to talk to 小李 but couldn't.\" 怪老师 left the bar with a young girl."
+    },
+    {
+      "type": "scene",
+      "text": "星期天早上。所有人都醒了。所有人都在看手机。",
+      "en": "Sunday morning. Everyone's awake. Everyone's on their phones."
+    },
+    {
+      "type": "scene",
+      "text": "对话一：男生群聊 (Boys' Chat)",
+      "en": "Dialogue 1: Boys' Chat."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我搞砸了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "嗯。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我亲了小黑。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我知道。我在。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "她生气了吗？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你觉得呢？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我喝多了。那个不算。我去跟她说。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "别说\"那个不算\"。那样更伤人。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "为什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "因为她可能希望那个是算的。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……哦。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "等一下。小黑喜欢我？？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "不是。她喜欢我。但是从来没有人亲过她，然后你让那件事变得什么都不是。这才是问题。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "卧槽。我是混蛋。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你不是混蛋。你只是不小心。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……也许更糟。"
+    },
+    {
+      "type": "scene",
+      "text": "对话二：矮中道歉 (Ai Zhong Apologizes — In Person)",
+      "en": "Dialogue 2: 矮中 apologizes -- in person."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "小黑。关于周五的事——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "没事。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "不是。让我说完。对不起。我喝多了，不应该那样做。对你不公平。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我不是故意玩你的。我就是……我看到怪老师在酒吧，心里很乱，然后小李——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你亲我是因为你没法跟小李说话？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……在我脑子里这句话没这么难听。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你是白痴。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我知道。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "彻底的、完全的白痴。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我知道。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……好了。我们没事了。以后别这样。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "不会了。我保证。"
+    },
+    {
+      "type": "action",
+      "text": "她走进教室。矮中跟着进去了。他没注意到清清站在走廊拐角，听到了整段对话。她听到了\"小李\"。她把这条信息存在了一个她以后会独自一个人、很难受的时候去看的地方。",
+      "en": "She walks into the classroom. 矮中 follows. He doesn't notice 清清 standing around the hallway corner, having heard the entire conversation. She heard \"小李.\" She files this information away in a place she'll revisit later, alone, when it hurts."
+    },
+    {
+      "type": "scene",
+      "text": "对话三：上课——线索 (Class — The Clue)",
+      "en": "Dialogue 3: Class -- The Clue."
+    },
+    {
+      "type": "action",
+      "text": "教室。怪老师在教课。他看起来很累。学生们都知道为什么——他们在酒吧看到他了。但上课的时候谁都没说。",
+      "en": "Classroom. 怪老师 is teaching. He looks exhausted. The students know why -- they saw him at the bar. But nobody says a word in class."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "今天学communication的动词。告诉、问、说。谁能造句？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "他告诉我一个很有意思的故事。",
+      "sub": "举手——这学期第一次"
+    },
+    {
+      "type": "action",
+      "text": "所有人都转过来看。小李从来不举手。而且她的句子……明显比以前好。语法更干净了。声调更准了。",
+      "en": "Everyone turns to look. 小李 never raises her hand. And her sentence... is noticeably better than before. Cleaner grammar. More accurate tones."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "很好，小李。你的声调最近进步了很多。",
+      "sub": "笑了"
+    },
+    {
+      "type": "action",
+      "text": "清清看着小李。看着怪老师。有什么东西click了。她也把这条信息存了起来。",
+      "en": "清清 looks at 小李. Looks at 怪老师. Something clicks. She files this away too."
+    }
+  ],
+  "vocab": [],
+  "grammarNotes": [],
+  "cultureNotes": []
+}

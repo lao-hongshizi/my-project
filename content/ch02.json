@@ -1,0 +1,381 @@
+{
+  "chapter": 2,
+  "title": "家",
+  "titleEn": "Family",
+  "topic": "家庭 / Family",
+  "grammar": [
+    "有/没有",
+    "几口人",
+    "做什么工作",
+    "的"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话：教室 (Classroom)",
+      "en": "Dialogue: Classroom."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "今天我们说一下家人。你家有几口人？矮中，你先。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "我家有五口人！爸爸、妈妈、两个哥哥、还有我。我爸是牙医，我妈是护士。我们是Ohio的！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "当然是Ohio。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "Ohio怎么了？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "没有。一切都说得通了。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "清清？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我家有四口人。我爸做金融，我妈也做金融。我弟弟在英国读寄宿学校。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "富婆alert。",
+      "sub": "对小李小声说"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "早知道了。",
+      "sub": "小声"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我听得见。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "王崩？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "三个人。我爸、我妈、还有我。我们住在台北。我爸做小生意。我妈——我妈做的卤肉饭是全台北最好吃的。不对，是全台湾最好吃的。你们知道卤肉饭吗？那是台湾的national dish——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你能不能不提台湾？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我在说我妈的菜！"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你在说台湾。又。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我妈住在台湾，她做的菜在台湾，所以——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我家是广东的。你有没有看到我每五秒钟提一次广东？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……你刚刚提了。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……闭嘴。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小黑，说一下你的家人？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "两个人。我跟我妈。我爸……在。理论上在。他一直出差。从小就出差。我不太知道他做什么。我妈在家。她是\"网红\"。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "哇好酷！什么类型的？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "就那种……两百个粉丝、假装有二十万粉丝的那种。她发不是她做的菜的照片，住不起的酒店的照片。反正她很忙。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……哦。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小李？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "我爸妈离婚了。我爸是美国人。我妈是中国人。我跟我爸住。我跟我妈……不太……"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "不太什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……说话。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那挺难的。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "没事。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "那我也说说我的家庭——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "没人问你。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "好吧。但是既然大家都分享了——我也离婚了。没有小孩。一个人住。",
+      "sub": "笑"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "老师，你为什么来中国？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "我说了。因为我爱这个文化。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那你说了。但是你为什么留下来了？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "……这个比较私人。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "小李的家庭情况也比较私人。你还是问了。"
+    },
+    {
+      "type": "action",
+      "text": "怪老师没话了。",
+      "en": "怪老师 has nothing to say."
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……说得好。",
+      "sub": "小声自言自语"
+    },
+    {
+      "type": "scene",
+      "text": "1. 有/没有 — to have / to not have",
+      "en": "1. 有/没有 -- to have / to not have"
+    },
+    {
+      "type": "scene",
+      "text": "2. 几 vs 多少 — how many?",
+      "en": "2. 几 vs 多少 -- how many?"
+    },
+    {
+      "type": "scene",
+      "text": "3. 的 — possession / description",
+      "en": "3. 的 -- possession / description"
+    },
+    {
+      "type": "scene",
+      "text": "4. 又...了 — \"again\"",
+      "en": "4. 又...了 -- \"again\""
+    },
+    {
+      "type": "scene",
+      "text": "中国的家庭",
+      "en": "Chinese Families"
+    },
+    {
+      "type": "scene",
+      "text": "网红文化",
+      "en": "Influencer Culture"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "几口人",
+      "pinyin": "jǐ kǒu rén",
+      "en": "how many people (in a family)",
+      "pos": "",
+      "note": "口 = measure word for family members"
+    },
+    {
+      "zh": "牙医",
+      "pinyin": "yáyī",
+      "en": "dentist",
+      "pos": "n"
+    },
+    {
+      "zh": "护士",
+      "pinyin": "hùshi",
+      "en": "nurse",
+      "pos": "n"
+    },
+    {
+      "zh": "金融",
+      "pinyin": "jīnróng",
+      "en": "finance",
+      "pos": "n",
+      "note": "清清的父母都做金融"
+    },
+    {
+      "zh": "寄宿学校",
+      "pinyin": "jìsù xuéxiào",
+      "en": "boarding school",
+      "pos": "n"
+    },
+    {
+      "zh": "小生意",
+      "pinyin": "xiǎo shēngyì",
+      "en": "small business",
+      "pos": "n"
+    },
+    {
+      "zh": "卤肉饭",
+      "pinyin": "lǔròu fàn",
+      "en": "braised pork rice",
+      "pos": "n",
+      "note": "台湾名菜！"
+    },
+    {
+      "zh": "出差",
+      "pinyin": "chūchāi",
+      "en": "to go on a business trip",
+      "pos": "v",
+      "note": "小黑的爸爸一直出差"
+    },
+    {
+      "zh": "网红",
+      "pinyin": "wǎnghóng",
+      "en": "internet celebrity / influencer",
+      "pos": "n",
+      "note": "小黑的妈妈是假网红"
+    },
+    {
+      "zh": "粉丝",
+      "pinyin": "fěnsī",
+      "en": "fans / followers",
+      "pos": "n"
+    },
+    {
+      "zh": "离婚",
+      "pinyin": "líhūn",
+      "en": "to divorce",
+      "pos": "v"
+    },
+    {
+      "zh": "混血",
+      "pinyin": "hùnxuè",
+      "en": "mixed race",
+      "pos": "n/adj"
+    },
+    {
+      "zh": "留下来",
+      "pinyin": "liú xiàlái",
+      "en": "to stay (and not leave)",
+      "pos": "v",
+      "note": "怪老师为什么留下来了？"
+    },
+    {
+      "zh": "富婆",
+      "pinyin": "fùpó",
+      "en": "rich woman",
+      "pos": "n",
+      "note": "slang, 小黑叫清清富婆"
+    },
+    {
+      "zh": "说得通",
+      "pinyin": "shuō de tōng",
+      "en": "makes sense",
+      "pos": "",
+      "note": "王崩说Ohio\"一切都说得通了\""
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "有/没有 — to have / to not have",
+      "body": "我家有五口人。\n我没有哥哥。\n你有没有兄弟姐妹？\n\nNote: 有 的否定是 没有，不是 ~~不有~~"
+    },
+    {
+      "title": "几 vs 多少 — how many?",
+      "body": "你家有几口人？（less than 10, use 几）\n你有多少粉丝？（could be a lot, use 多少）"
+    },
+    {
+      "title": "的 — possession / description",
+      "body": "我妈做的卤肉饭 = the braised pork rice my mom makes\n不是她做的菜 = food she didn't cook\n台湾发明的 = invented by Taiwan"
+    },
+    {
+      "title": "又...了 — \"again\"",
+      "body": "小黑：你又提台湾了！= You mentioned Taiwan AGAIN!\nNote: 又 for past events that happened again. 再 for future."
+    }
+  ],
+  "cultureNotes": [
+    {
+      "title": "怪老师：** 今天我们说一下家人。你家有几口人？矮中，你先。\n\n**矮中：** 我家有五口人！爸爸、妈妈、两个哥哥、还有我。我爸是牙医，我妈是护士。我们是Ohio的！\n\n**王崩：** 当然是Ohio。\n\n**矮中：** Ohio怎么了？\n\n**王崩：** 没有。一切都说得通了。\n\n**怪老师：** 清清？\n\n**清清：** 我家有四口人。我爸做金融，我妈也做金融。我弟弟在英国读寄宿学校。\n\n**小黑：** （对小李小声说）富婆alert。\n\n**小李：** （小声）早知道了。\n\n**清清：** 我听得见。\n\n**怪老师：** 王崩？\n\n**王崩：** 三个人。我爸、我妈、还有我。我们住在台北。我爸做小生意。我妈——我妈做的卤肉饭是全台北最好吃的。不对，是全台湾最好吃的。你们知道卤肉饭吗？那是台湾的national dish——\n\n**小黑：** 你能不能不提台湾？\n\n**王崩：** 我在说我妈的菜！\n\n**小黑：** 你在说台湾。又。\n\n**王崩：** 我妈住在台湾，她做的菜在台湾，所以——\n\n**小黑：** 我家是广东的。你有没有看到我每五秒钟提一次广东？\n\n**王崩：** ……你刚刚提了。\n\n**小黑：** ……闭嘴。\n\n**怪老师：** 小黑，说一下你的家人？\n\n**小黑：** 两个人。我跟我妈。我爸……在。理论上在。他一直出差。从小就出差。我不太知道他做什么。我妈在家。她是\"网红\"。\n\n**矮中：** 哇好酷！什么类型的？\n\n**小黑：** 就那种……两百个粉丝、假装有二十万粉丝的那种。她发不是她做的菜的照片，住不起的酒店的照片。反正她很忙。\n\n**矮中：** ……哦。\n\n**怪老师：** 小李？\n\n**小李：** 我爸妈离婚了。我爸是美国人。我妈是中国人。我跟我爸住。我跟我妈……不太……\n\n**怪老师：** 不太什么？\n\n**小李：** ……说话。\n\n**矮中：** 那挺难的。\n\n**小李：** 没事。\n\n不是没事。但她说得好像没事一样。\n\n**怪老师：** 那我也说说我的家庭——\n\n**小黑：** 没人问你。\n\n**怪老师：** （笑）好吧。但是既然大家都分享了——我也离婚了。没有小孩。一个人住。\n\n小李看了他一眼。不是喜欢。是认出来。两个离婚家庭的人，在一个教室里。\n\n**王崩：** 老师，你为什么来中国？\n\n**怪老师：** 我说了。因为我爱这个文化。\n\n**王崩：** 那你说了。但是你为什么留下来了？\n\n**怪老师：** ……这个比较私人。\n\n**王崩：** 小李的家庭情况也比较私人。你还是问了。\n\n怪老师没话了。\n\n**清清：** （小声自言自语）……说得好。\n\n---\n\n### 生词 (Vocabulary)\n\n| 中文 | 拼音 | 词性 | 英文 | 文化笔记 |\n|------|------|------|------|----------|\n| 几口人 | jǐ kǒu rén | | how many people (in a family) | 口 = measure word for family members |\n| 牙医 | yáyī | n | dentist | |\n| 护士 | hùshi | n | nurse | |\n| 金融 | jīnróng | n | finance | 清清的父母都做金融 |\n| 寄宿学校 | jìsù xuéxiào | n | boarding school | |\n| 小生意 | xiǎo shēngyì | n | small business | |\n| 卤肉饭 | lǔròu fàn | n | braised pork rice | 台湾名菜！ |\n| 出差 | chūchāi | v | to go on a business trip | 小黑的爸爸一直出差 |\n| 网红 | wǎnghóng | n | internet celebrity / influencer | 小黑的妈妈是假网红 |\n| 粉丝 | fěnsī | n | fans / followers | |\n| 离婚 | líhūn | v | to divorce | |\n| 混血 | hùnxuè | n/adj | mixed race | |\n| 留下来 | liú xiàlái | v | to stay (and not leave) | 怪老师为什么留下来了？ |\n| 富婆 | fùpó | n | rich woman | slang, 小黑叫清清富婆 |\n| 说得通 | shuō de tōng | | makes sense | 王崩说Ohio\"一切都说得通了\" |\n\n---\n\n### 语法 (Grammar Notes)\n\n**1. 有/没有 — to have / to not have",
+      "body": "我家有五口人。\n我没有哥哥。\n你有没有兄弟姐妹？\n\nNote: 有 的否定是 没有，不是 ~~不有~~"
+    },
+    {
+      "title": "网红文化",
+      "body": "在中国，\"网红\"无处不在。有真的网红（几百万粉丝），也有假的网红（几百个粉丝但假装很红）。小黑的妈妈就是后者。这在中国很普遍——很多人在社交媒体上假装自己的生活比实际的好。中文叫\"装\"。"
+    }
+  ]
+}

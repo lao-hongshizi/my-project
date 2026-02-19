@@ -1,0 +1,461 @@
+{
+  "chapter": 4,
+  "title": "爱好",
+  "titleEn": "Hobbies",
+  "topic": "爱好 / Hobbies",
+  "grammar": [
+    "喜欢",
+    "爱",
+    "会",
+    "想"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话：教室 (Classroom)",
+      "en": "Dialogue: Classroom."
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "今天说爱好。你们平时喜欢做什么？矮中？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "打篮球，出去玩，认识新朋友，到处逛。我是social型的人。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "你是\"女孩子\"型的人。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "也是。没什么不好意思的。我每天都在外面体验生活。对了老师——\"rizz\"中文怎么说？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "……什么？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "Rizz。就是charm。跟女生说话很smooth的那种。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "我不知道那是什么。中文可以说……有魅力？或者会撩人？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "等一下。撩是一个真的词？！中文真的有rizz这个概念？？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "中文什么词都有。这个语言有五千年历史。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那\"no cap\"呢？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "……我真的不知道这些词。我们能继续——"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "\"bussin\"呢？"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "我真的听不懂你在说什么。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我们的中文老师连基本的slang都不会翻译。我们交钱是为了什么？",
+      "sub": "对清清小声说"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "其实，不骗你就是\"no cap\"。绝了差不多是\"bussin\"。",
+      "sub": "小声"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……你怎么知道的？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我看书。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "王崩，你的爱好？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "看书。设计。跑步。画画。我在台北的时候，每天早上沿着淡水河跑。那个风景——山、河、光——台湾的自然景色是全亚洲最美的，这个不接受反驳。而且你知道吗，台湾的设计圈——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "又来了。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我在说我的爱好！"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你在说台湾！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我的爱好在台湾发生的，所以——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "你有没有不在台湾的爱好？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……我在这里也跑步。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小黑？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "韩国音乐。护肤。化妆。拍照。我上个星期的屏幕使用时间是每天十一个小时。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那挺离谱的。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我知道。我在改。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "怎么改？看更多K-pop？"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "……对。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "清清？"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "弹钢琴。看书。学语言。我会说英文、中文、一点马来语，正在学日语。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你也太牛了吧。五种语言。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "三种半。我的日语很基础。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "还是很厉害！太goated了！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……\"goated\"？"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "就是很强的意思！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……谢谢？",
+      "sub": "停顿一下"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "小李？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "嗯？",
+      "sub": "在看手机"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "你的爱好。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "我没什么爱好。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "你平时做什么？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "看手机。睡觉。点外卖。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "就这些？"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……小时候画画。我妈教我的。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "那很好。你应该重新开始画。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "……也许吧。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "那老师也说说我的爱好吧——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "没人问你。"
+    },
+    {
+      "type": "line",
+      "char": "guailaoshi",
+      "zh": "书法。茶道。爬山。",
+      "sub": "继续说"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "……这些是非常\"白人在中国\"的爱好。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "嘿！这也是我的爱好！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "就是这个意思。"
+    },
+    {
+      "type": "action",
+      "text": "矮中没听出来被骂了。怪老师听出来了，赶紧翻页。",
+      "en": "矮中 doesn't realize he just got roasted. 怪老师 does -- quickly flips the page."
+    },
+    {
+      "type": "scene",
+      "text": "1. 会 — can / know how to",
+      "en": "1. 会 -- can / know how to"
+    },
+    {
+      "type": "scene",
+      "text": "2. 喜欢 + verb",
+      "en": "2. 喜欢 + verb"
+    },
+    {
+      "type": "scene",
+      "text": "3. 正在 + verb — in progress",
+      "en": "3. 正在 + verb -- in progress"
+    },
+    {
+      "type": "scene",
+      "text": "4. 太...了 — too / so",
+      "en": "4. 太...了 -- too / so"
+    },
+    {
+      "type": "scene",
+      "text": "撩 (liáo) = The Chinese Art of Rizz",
+      "en": "撩 (liáo) = The Chinese Art of Rizz"
+    },
+    {
+      "type": "scene",
+      "text": "外卖文化",
+      "en": "Delivery Culture"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "爱好",
+      "pinyin": "àihào",
+      "en": "hobby",
+      "pos": "n"
+    },
+    {
+      "zh": "到处逛",
+      "pinyin": "dàochù guàng",
+      "en": "to wander around / explore",
+      "pos": "v"
+    },
+    {
+      "zh": "撩/撩人",
+      "pinyin": "liáo/liáo rén",
+      "en": "to flirt / to hit on",
+      "pos": "v",
+      "note": "= rizz! 会撩 = has rizz"
+    },
+    {
+      "zh": "不骗你",
+      "pinyin": "bù piàn nǐ",
+      "en": "I'm not lying",
+      "pos": "",
+      "note": "= no cap"
+    },
+    {
+      "zh": "绝了",
+      "pinyin": "jué le",
+      "en": "amazing / incredible",
+      "pos": "",
+      "note": "≈ bussin / fire"
+    },
+    {
+      "zh": "护肤",
+      "pinyin": "hùfū",
+      "en": "skincare",
+      "pos": "n/v"
+    },
+    {
+      "zh": "屏幕使用时间",
+      "pinyin": "píngmù shǐyòng shíjiān",
+      "en": "screen time",
+      "pos": "n"
+    },
+    {
+      "zh": "弹钢琴",
+      "pinyin": "tán gāngqín",
+      "en": "to play piano",
+      "pos": "vo"
+    },
+    {
+      "zh": "点外卖",
+      "pinyin": "diǎn wàimài",
+      "en": "to order delivery food",
+      "pos": "vo",
+      "note": "中国年轻人天天点外卖"
+    },
+    {
+      "zh": "书法",
+      "pinyin": "shūfǎ",
+      "en": "calligraphy",
+      "pos": "n",
+      "note": "\"白人在中国\"标配爱好"
+    },
+    {
+      "zh": "茶道",
+      "pinyin": "chádào",
+      "en": "tea ceremony",
+      "pos": "n",
+      "note": "同上"
+    },
+    {
+      "zh": "牛/太牛了",
+      "pinyin": "niú/tài niú le",
+      "en": "awesome / badass",
+      "pos": "adj",
+      "note": "口语非常常用"
+    },
+    {
+      "zh": "goated",
+      "pinyin": "",
+      "en": "YYDS/永远的神/牛逼",
+      "pos": "",
+      "note": "zoomer = 最强的"
+    },
+    {
+      "zh": "bussin",
+      "pinyin": "",
+      "en": "绝了/好吃到爆",
+      "pos": "",
+      "note": "zoomer = 太好了"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "会 — can / know how to",
+      "body": "我会说英文。= I can speak English.\n我会弹钢琴。= I can play piano.\nNote: 会 = learned ability. 能 = physical ability. 可以 = permission."
+    },
+    {
+      "title": "喜欢 + verb",
+      "body": "我喜欢打篮球。\n她喜欢看手机。\n他喜欢提台湾。（小黑的看法）"
+    },
+    {
+      "title": "正在 + verb — in progress",
+      "body": "我正在学日语。= I'm currently learning Japanese.\n她正在看手机。= She's currently on her phone."
+    },
+    {
+      "title": "太...了 — too / so",
+      "body": "你也太牛了吧！= You're SO awesome!\n那挺离谱的。= That's pretty ridiculous.\nNote: 太...了 can be positive OR negative depending on context."
+    }
+  ],
+  "cultureNotes": [
+    {
+      "title": "怪老师：** 今天说爱好。你们平时喜欢做什么？矮中？\n\n**矮中：** 打篮球，出去玩，认识新朋友，到处逛。我是social型的人。\n\n**王崩：** 你是\"女孩子\"型的人。\n\n**矮中：** 也是。没什么不好意思的。我每天都在外面体验生活。对了老师——\"rizz\"中文怎么说？\n\n**怪老师：** ……什么？\n\n**矮中：** Rizz。就是charm。跟女生说话很smooth的那种。\n\n**怪老师：** 我不知道那是什么。中文可以说……有魅力？或者会撩人？\n\n**矮中：** 等一下。撩是一个真的词？！中文真的有rizz这个概念？？\n\n**王崩：** 中文什么词都有。这个语言有五千年历史。\n\n**矮中：** 那\"no cap\"呢？\n\n**怪老师：** ……我真的不知道这些词。我们能继续——\n\n**矮中：** \"bussin\"呢？\n\n**怪老师：** 我真的听不懂你在说什么。\n\n**小黑：** （对清清小声说）我们的中文老师连基本的slang都不会翻译。我们交钱是为了什么？\n\n**清清：** （小声）其实，不骗你就是\"no cap\"。绝了差不多是\"bussin\"。\n\n**小黑：** ……你怎么知道的？\n\n**清清：** 我看书。\n\n**怪老师：** 王崩，你的爱好？\n\n**王崩：** 看书。设计。跑步。画画。我在台北的时候，每天早上沿着淡水河跑。那个风景——山、河、光——台湾的自然景色是全亚洲最美的，这个不接受反驳。而且你知道吗，台湾的设计圈——\n\n**小黑：** 又来了。\n\n**王崩：** 我在说我的爱好！\n\n**小黑：** 你在说台湾！\n\n**王崩：** 我的爱好在台湾发生的，所以——\n\n**小黑：** 你有没有不在台湾的爱好？\n\n**王崩：** ……我在这里也跑步。\n\n**怪老师：** 小黑？\n\n**小黑：** 韩国音乐。护肤。化妆。拍照。我上个星期的屏幕使用时间是每天十一个小时。\n\n**矮中：** 那挺离谱的。\n\n**小黑：** 我知道。我在改。\n\n**矮中：** 怎么改？看更多K-pop？\n\n**小黑：** ……对。\n\n**怪老师：** 清清？\n\n**清清：** 弹钢琴。看书。学语言。我会说英文、中文、一点马来语，正在学日语。\n\n**矮中：** 你也太牛了吧。五种语言。\n\n**清清：** 三种半。我的日语很基础。\n\n**矮中：** 还是很厉害！太goated了！\n\n**清清：** ……\"goated\"？\n\n**矮中：** 就是很强的意思！\n\n**清清：** （停顿一下）……谢谢？\n\n她看起来有一点不自在。除了小李以外没人注意到。\n\n**怪老师：** 小李？\n\n**小李：** （在看手机）嗯？\n\n**怪老师：** 你的爱好。\n\n**小李：** 我没什么爱好。\n\n**怪老师：** 你平时做什么？\n\n**小李：** 看手机。睡觉。点外卖。\n\n**怪老师：** 就这些？\n\n**小李：** ……小时候画画。我妈教我的。\n\n这是她第一次主动提到她妈。教室里安静了一秒。\n\n**怪老师：** 那很好。你应该重新开始画。\n\n**小李：** ……也许吧。\n\n**怪老师：** 那老师也说说我的爱好吧——\n\n**小黑：** 没人问你。\n\n**怪老师：** （继续说）书法。茶道。爬山。\n\n**王崩：** ……这些是非常\"白人在中国\"的爱好。\n\n**矮中：** 嘿！这也是我的爱好！\n\n**王崩：** 就是这个意思。\n\n矮中没听出来被骂了。怪老师听出来了，赶紧翻页。\n\n---\n\n### 生词 (Vocabulary)\n\n| 中文 | 拼音 | 词性 | 英文 | 文化笔记 |\n|------|------|------|------|----------|\n| 爱好 | àihào | n | hobby | |\n| 到处逛 | dàochù guàng | v | to wander around / explore | |\n| 撩/撩人 | liáo/liáo rén | v | to flirt / to hit on | = rizz! 会撩 = has rizz |\n| 不骗你 | bù piàn nǐ | | I'm not lying | = no cap |\n| 绝了 | jué le | | amazing / incredible | ≈ bussin / fire |\n| 护肤 | hùfū | n/v | skincare | |\n| 屏幕使用时间 | píngmù shǐyòng shíjiān | n | screen time | |\n| 弹钢琴 | tán gāngqín | vo | to play piano | |\n| 点外卖 | diǎn wàimài | vo | to order delivery food | 中国年轻人天天点外卖 |\n| 书法 | shūfǎ | n | calligraphy | \"白人在中国\"标配爱好 |\n| 茶道 | chádào | n | tea ceremony | 同上 |\n| 牛/太牛了 | niú/tài niú le | adj | awesome / badass | 口语非常常用 |\n| goated | | | YYDS/永远的神/牛逼 | zoomer = 最强的 |\n| bussin | | | 绝了/好吃到爆 | zoomer = 太好了 |\n\n---\n\n### 语法 (Grammar Notes)\n\n**1. 会 — can / know how to",
+      "body": "我会说英文。= I can speak English.\n我会弹钢琴。= I can play piano.\nNote: 会 = learned ability. 能 = physical ability. 可以 = permission."
+    },
+    {
+      "title": "撩 (liáo) = The Chinese Art of Rizz",
+      "body": "撩 literally means \"to tease\" or \"to flirt.\" 会撩 means \"knows how to flirt\" = has rizz. 撩妹 = to flirt with girls. 撩汉 = to flirt with guys. This is REAL Chinese that real Chinese people use every day. Your textbook won't teach you this. 矮中很想学这个词。"
+    },
+    {
+      "title": "外卖文化",
+      "body": "中国的外卖系统是全世界最发达的。美团、饿了么——半小时内送到。中国年轻人点外卖的频率远超做饭。小李每天点外卖完全是正常的中国大学生行为。"
+    }
+  ]
+}

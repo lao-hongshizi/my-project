@@ -1,0 +1,318 @@
+{
+  "chapter": 14,
+  "title": "喝一杯",
+  "titleEn": "Pre-gaming",
+  "topic": "喝酒、白酒文化 / Drinking, Baijiu Culture",
+  "grammar": [
+    "要",
+    "来一杯",
+    "比...还...",
+    "越来越"
+  ],
+  "script": [
+    {
+      "type": "scene",
+      "text": "对话：矮中的宿舍 (Ai Zhong's Dorm Room)",
+      "en": "Dialogue: 矮中's dorm room."
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "来来来！大家先喝一杯再出去！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我不喝白酒。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "为什么？"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "因为台湾啤酒是世界上最好的酒。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "第三次。今天。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那是fact。台湾啤酒在国际比赛上拿过奖的。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "Bro，这是白酒！中国国粹！你来中国不喝白酒就等于没来！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "台湾也有高粱酒。金门高粱比大陆白酒——"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "天啊你能不能闭嘴喝酒。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "来来来。干杯！",
+      "sub": "倒白酒给大家"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我真的不喝酒。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "一小口！就一小口！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "Qingqing。Please。就今晚。live a little。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "……只喝一口。",
+      "sub": "拿起杯子，看了看"
+    },
+    {
+      "type": "action",
+      "text": "她喝了一口。脸立刻红了。",
+      "en": "She takes a sip. Face goes red instantly."
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "天啊这是什么？！像喝火一样！"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "哈哈哈！那就是白酒！52度的！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "52度？？这不是酒这是毒药！"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "我说的。应该喝台湾啤酒。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "第四次。"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "还有吗？",
+      "sub": "一口干了"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "……你干了？！"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "嗯。不错。有点辣。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "那是白酒！大部分人第一次喝白酒会吐！"
+    },
+    {
+      "type": "line",
+      "char": "xiaoli",
+      "zh": "也许我不是大部分人。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "嗯……其实还行。后味有一种——",
+      "sub": "也喝了一口"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "痛苦。后味是痛苦。"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "我要说的是fruit味。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "那是你的大脑在骗你。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "好！Everyone buzzed了吗？走吧！"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "我只喝了一口。"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你的脸红得像番茄。"
+    },
+    {
+      "type": "line",
+      "char": "qingqing",
+      "zh": "那是亚洲flush！我对酒精过敏！不是drunk！"
+    },
+    {
+      "type": "line",
+      "char": "aizhong",
+      "zh": "你好可爱。"
+    },
+    {
+      "type": "line",
+      "char": "wangbeng",
+      "zh": "他刚说她可爱了吗？",
+      "sub": "对小黑说"
+    },
+    {
+      "type": "line",
+      "char": "xiaohei",
+      "zh": "他说了。她要死了。",
+      "sub": "笑"
+    },
+    {
+      "type": "scene",
+      "text": "白酒 (Baijiu)",
+      "en": "Baijiu (Chinese Liquor)"
+    },
+    {
+      "type": "scene",
+      "text": "Asian Flush",
+      "en": "Asian Flush"
+    }
+  ],
+  "vocab": [
+    {
+      "zh": "白酒",
+      "pinyin": "báijiǔ",
+      "en": "baijiu (Chinese liquor)",
+      "pos": "n",
+      "note": "52度！小心！"
+    },
+    {
+      "zh": "啤酒",
+      "pinyin": "píjiǔ",
+      "en": "beer",
+      "pos": "n",
+      "note": "王崩只喝台湾啤酒"
+    },
+    {
+      "zh": "高粱酒",
+      "pinyin": "gāoliáng jiǔ",
+      "en": "sorghum wine",
+      "pos": "n",
+      "note": "台湾的 = 金门高粱"
+    },
+    {
+      "zh": "干杯",
+      "pinyin": "gān bēi",
+      "en": "cheers / bottoms up",
+      "pos": "vo",
+      "note": "真的\"干\" = drink it all"
+    },
+    {
+      "zh": "度",
+      "pinyin": "dù",
+      "en": "alcohol %",
+      "pos": "n",
+      "note": "52度 = 52% alcohol"
+    },
+    {
+      "zh": "零食",
+      "pinyin": "língshí",
+      "en": "snacks",
+      "pos": "n"
+    },
+    {
+      "zh": "吐",
+      "pinyin": "tù",
+      "en": "to vomit / throw up",
+      "pos": "v"
+    },
+    {
+      "zh": "后味",
+      "pinyin": "hòuwèi",
+      "en": "aftertaste",
+      "pos": "n"
+    },
+    {
+      "zh": "亚洲flush",
+      "pinyin": "Yàzhōu flush",
+      "en": "Asian flush / Asian glow",
+      "pos": "n",
+      "note": "喝酒脸红"
+    },
+    {
+      "zh": "酒精过敏",
+      "pinyin": "jiǔjīng guòmǐn",
+      "en": "alcohol allergy/sensitivity",
+      "pos": "n"
+    },
+    {
+      "zh": "国粹",
+      "pinyin": "guócuì",
+      "en": "national treasure",
+      "pos": "n",
+      "note": "矮中说白酒是\"国粹\""
+    },
+    {
+      "zh": "buzzed",
+      "pinyin": "",
+      "en": "微醺",
+      "pos": "",
+      "note": "= 有点醉了/微醺"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "白酒 (Baijiu)",
+      "body": "白酒是中国最重要的酒。通常40-60度。在商务饭局、婚礼、重要聚餐都要喝白酒。\"干杯\"真的是干——要把整杯喝完。很多外国人第一次喝白酒的反应跟清清一样：\"这不是酒这是毒药。\""
+    },
+    {
+      "title": "Asian Flush",
+      "body": "大约30-40%的东亚人有ALDH2基因缺陷，喝酒以后脸马上变红。这不代表醉了——是生理反应。清清说的\"酒精过敏\"是中国人常用的说法。"
+    }
+  ],
+  "cultureNotes": [
+    {
+      "title": "矮中：** 来来来！大家先喝一杯再出去！\n\n**王崩：** 我不喝白酒。\n\n**矮中：** 为什么？\n\n**王崩：** 因为台湾啤酒是世界上最好的酒。\n\n**小黑：** 第三次。今天。\n\n**王崩：** 那是fact。台湾啤酒在国际比赛上拿过奖的。\n\n**矮中：** Bro，这是白酒！中国国粹！你来中国不喝白酒就等于没来！\n\n**王崩：** 台湾也有高粱酒。金门高粱比大陆白酒——\n\n**小黑：** 天啊你能不能闭嘴喝酒。\n\n---\n\n**矮中：** （倒白酒给大家）来来来。干杯！\n\n**清清：** 我真的不喝酒。\n\n**矮中：** 一小口！就一小口！\n\n**清清：** ……\n\n**矮中：** Qingqing。Please。就今晚。live a little。\n\n**清清：** （拿起杯子，看了看）……只喝一口。\n\n她喝了一口。脸立刻红了。\n\n**清清：** 天啊这是什么？！像喝火一样！\n\n**矮中：** 哈哈哈！那就是白酒！52度的！\n\n**清清：** 52度？？这不是酒这是毒药！\n\n**王崩：** 我说的。应该喝台湾啤酒。\n\n**小黑：** 第四次。\n\n---\n\n**小李：** （一口干了）还有吗？\n\n**矮中：** ……你干了？！\n\n**小李：** 嗯。不错。有点辣。\n\n**矮中：** 那是白酒！大部分人第一次喝白酒会吐！\n\n**小李：** 也许我不是大部分人。\n\n**小黑：** （也喝了一口）嗯……其实还行。后味有一种——\n\n**王崩：** 痛苦。后味是痛苦。\n\n**小黑：** 我要说的是fruit味。\n\n**王崩：** 那是你的大脑在骗你。\n\n---\n\n**矮中：** 好！Everyone buzzed了吗？走吧！\n\n**清清：** 我只喝了一口。\n\n**矮中：** 你的脸红得像番茄。\n\n**清清：** 那是亚洲flush！我对酒精过敏！不是drunk！\n\n**矮中：** 你好可爱。\n\n清清frozen了一秒。然后假装在找她的包。\n\n**王崩：** （对小黑说）他刚说她可爱了吗？\n\n**小黑：** （笑）他说了。她要死了。\n\n---\n\n### 生词 (Vocabulary)\n\n| 中文 | 拼音 | 词性 | 英文 | 文化笔记 |\n|------|------|------|------|----------|\n| 白酒 | báijiǔ | n | baijiu (Chinese liquor) | 52度！小心！|\n| 啤酒 | píjiǔ | n | beer | 王崩只喝台湾啤酒 |\n| 高粱酒 | gāoliáng jiǔ | n | sorghum wine | 台湾的 = 金门高粱 |\n| 干杯 | gān bēi | vo | cheers / bottoms up | 真的\"干\" = drink it all |\n| 度 | dù | n | alcohol % | 52度 = 52% alcohol |\n| 零食 | língshí | n | snacks | |\n| 吐 | tù | v | to vomit / throw up | |\n| 后味 | hòuwèi | n | aftertaste | |\n| 亚洲flush | Yàzhōu flush | n | Asian flush / Asian glow | 喝酒脸红 |\n| 酒精过敏 | jiǔjīng guòmǐn | n | alcohol allergy/sensitivity | |\n| 国粹 | guócuì | n | national treasure | 矮中说白酒是\"国粹\" |\n| buzzed | | | 微醺 | = 有点醉了/微醺 |\n\n---\n\n### 文化笔记 (Culture Notes)\n\n**白酒 (Baijiu)",
+      "body": "白酒是中国最重要的酒。通常40-60度。在商务饭局、婚礼、重要聚餐都要喝白酒。\"干杯\"真的是干——要把整杯喝完。很多外国人第一次喝白酒的反应跟清清一样：\"这不是酒这是毒药。\""
+    }
+  ]
+}
