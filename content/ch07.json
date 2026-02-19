@@ -17,78 +17,93 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "考试结果出来了。矮中——"
+      "zh": "考试结果出来了。矮中——",
+      "en": "Test results are in. 矮中 —"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "几分？"
+      "zh": "几分？",
+      "en": "What'd I get?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "六十二分。"
+      "zh": "六十二分。",
+      "en": "Sixty-two."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不是吧。"
+      "zh": "不是吧。",
+      "en": "No way."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "你把\"爱\"写成了\"矮\"。"
+      "zh": "你把\"爱\"写成了\"矮\"。",
+      "en": "You wrote 矮 instead of 爱."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……什么？"
+      "zh": "……什么？",
+      "en": "...What?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "他的考试上，每个\"爱\"字都写成了\"矮\"。\"我矮中国文化\"。\"我矮吃中国菜\"。"
+      "zh": "他的考试上，每个\"爱\"字都写成了\"矮\"。\"我矮中国文化\"。\"我矮吃中国菜\"。",
+      "en": "On his test, every 爱 was written as 矮. \"I short Chinese culture.\" \"I short eating Chinese food.\""
     },
     {
       "type": "line",
       "char": "wangbeng",
       "zh": "等一下。你不知道爱和矮的区别？",
-      "sub": "笑了"
+      "sub": "笑了",
+      "en": "Hold on. You don't know the difference between 爱 and 矮?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "它们看起来一样！"
+      "zh": "它们看起来一样！",
+      "en": "They look the same!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "它们完全不一样。爱下面是友，矮下面是矢。一个是love，一个是short。"
+      "zh": "它们完全不一样。爱下面是友，矮下面是矢。一个是love，一个是short。",
+      "en": "They're completely different. 爱 has 友 on the bottom, 矮 has 矢. One is love, the other is short."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "对了。我有一个事要跟你们说。"
+      "zh": "对了。我有一个事要跟你们说。",
+      "en": "Oh right. I have something to tell you guys."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "上周六晚上在酒吧那边纹的。纹身师说他经常纹中文。"
+      "zh": "上周六晚上在酒吧那边纹的。纹身师说他经常纹中文。",
+      "en": "Got it Saturday night at a place near the bar. The tattoo artist said he does Chinese characters all the time."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……那个字是什么？"
+      "zh": "……那个字是什么？",
+      "en": "...What character is that?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "爱！Love！因为I love China！"
+      "zh": "爱！Love！因为I love China！",
+      "en": "爱! Love! Because I love China!"
     },
     {
       "type": "action",
@@ -98,33 +113,39 @@
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……那不是爱。"
+      "zh": "……那不是爱。",
+      "en": "...That's not 爱."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "什么？"
+      "zh": "什么？",
+      "en": "What?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那个字是矮。"
+      "zh": "那个字是矮。",
+      "en": "That character is 矮."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "矮是什么？"
+      "zh": "矮是什么？",
+      "en": "What's 矮?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "矮。Short。你纹了\"短\"在你胳膊上。"
+      "zh": "矮。Short。你纹了\"短\"在你胳膊上。",
+      "en": "矮. Short. You tattooed \"short\" on your arm."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "卧槽。他说的对。",
-      "sub": "拿起手机拍"
+      "sub": "拿起手机拍",
+      "en": "Holy sh*t. He's right."
     },
     {
       "type": "scene",
@@ -134,64 +155,76 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不可能。纹身师——"
+      "zh": "不可能。纹身师——",
+      "en": "No way. The tattoo artist —"
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "这是我这辈子见过最好笑的事。",
-      "sub": "已经在拍了"
+      "sub": "已经在拍了",
+      "en": "This is the funniest thing I've ever seen in my life."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "别拍——"
+      "zh": "别拍——",
+      "en": "Don't take photos —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "晚了。发群了。"
+      "zh": "晚了。发群了。",
+      "en": "Too late. Already sent it to the group chat."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……确实是矮。但是爱和矮看起来有一点像。你不知道的话很容易搞混。"
+      "zh": "……确实是矮。但是爱和矮看起来有一点像。你不知道的话很容易搞混。",
+      "en": "...It is 矮. But 爱 and 矮 do look a little alike. Easy to mix up if you don't know."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "\"容易搞混\"？？我永久地纹了\"矮\"在我身上！"
+      "zh": "\"容易搞混\"？？我永久地纹了\"矮\"在我身上！",
+      "en": "\"Easy to mix up\"?? I permanently tattooed 矮 on my body!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "至少很准确。你确实矮。"
+      "zh": "至少很准确。你确实矮。",
+      "en": "At least it's accurate. You are short."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……你知道吗。无所谓。这是conversation starter。女孩子会问。我就讲这个故事。Content。"
+      "zh": "……你知道吗。无所谓。这是conversation starter。女孩子会问。我就讲这个故事。Content。",
+      "en": "...You know what. Whatever. It's a conversation starter. Girls will ask about it. I'll tell the story. Content."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……这倒有点sigma。"
+      "zh": "……这倒有点sigma。",
+      "en": "...That is kinda sigma actually."
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "……其实还挺适合他的。",
-      "sub": "小声"
+      "sub": "小声",
+      "en": "...It actually kind of suits him."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你说什么？"
+      "zh": "你说什么？",
+      "en": "What did you say?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "没有。"
+      "zh": "没有。",
+      "en": "Nothing."
     },
     {
       "type": "scene",
@@ -201,52 +234,62 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你能不能教我怎么分辨这两个字？"
+      "zh": "你能不能教我怎么分辨这两个字？",
+      "en": "Can you teach me how to tell these two characters apart?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "爱——love。下面是友（friend）。矮——short。下面是矢（arrow）。"
+      "zh": "爱——love。下面是友（friend）。矮——short。下面是矢（arrow）。",
+      "en": "爱 — love. 友 (friend) on the bottom. 矮 — short. 矢 (arrow) on the bottom."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "友和矢也长得很像……"
+      "zh": "友和矢也长得很像……",
+      "en": "友 and 矢 also look really similar..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你需要多练。"
+      "zh": "你需要多练。",
+      "en": "You need more practice."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我在练！我每天出去跟人聊天不就是练吗？"
+      "zh": "我在练！我每天出去跟人聊天不就是练吗？",
+      "en": "I am practicing! Going out and chatting with people every day, isn't that practice?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那是practice speaking。不是practice writing。你能说很多但你写不出来。"
+      "zh": "那是practice speaking。不是practice writing。你能说很多但你写不出来。",
+      "en": "That's practice speaking. Not practice writing. You can say a lot but you can't write any of it."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "说比写重要。"
+      "zh": "说比写重要。",
+      "en": "Speaking is more important than writing."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "看你要做什么。如果你要在中国泡吧，说就够了。如果你想真的学中文——得读、得写。"
+      "zh": "看你要做什么。如果你要在中国泡吧，说就够了。如果你想真的学中文——得读、得写。",
+      "en": "Depends on what you want to do. If you want to hit bars in China, speaking is enough. If you want to actually learn Chinese — you gotta read and write."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……你说得对。但读写好无聊。"
+      "zh": "……你说得对。但读写好无聊。",
+      "en": "...You're right. But reading and writing are so boring."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "欢迎来到中文学习。"
+      "zh": "欢迎来到中文学习。",
+      "en": "Welcome to learning Chinese."
     }
   ],
   "vocab": [],

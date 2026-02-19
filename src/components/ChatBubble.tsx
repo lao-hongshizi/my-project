@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { CHARACTERS } from "@/lib/characters";
+import { playClick } from "@/lib/sounds";
 
 type BubbleMode = "hanzi" | "pinyin" | "english";
 
@@ -28,6 +29,7 @@ export function ChatBubble({
 
   const handleBubbleTap = (e: React.MouseEvent) => {
     e.stopPropagation();
+    playClick();
     setMode((m) => {
       if (m === "hanzi") return "pinyin";
       if (m === "pinyin") return en ? "english" : "hanzi";

@@ -27,27 +27,32 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "同学们好！我建了这个群，方便大家课外交流。可以在这里练习中文！😊"
+      "zh": "同学们好！我建了这个群，方便大家课外交流。可以在这里练习中文！😊",
+      "en": "Hey everyone! I made this group chat so we can communicate outside class. You can practice Chinese here! 😊"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "谢谢老师！！好主意！！🔥🔥"
+      "zh": "谢谢老师！！好主意！！🔥🔥",
+      "en": "Thanks teacher!! Great idea!! 🔥🔥"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "提醒一下：明天早上九点半上课。别迟到！"
+      "zh": "提醒一下：明天早上九点半上课。别迟到！",
+      "en": "Quick reminder: class at 9:30 tomorrow morning. Don't be late!"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "收到！！谁想一起吃早饭？八点半？"
+      "zh": "收到！！谁想一起吃早饭？八点半？",
+      "en": "Got it!! Who wants to grab breakfast together? 8:30?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "？？？拜托"
+      "zh": "？？？拜托",
+      "en": "??? Please"
     },
     {
       "type": "scene",
@@ -67,112 +72,134 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "王崩。我们班的女生都好好看。"
+      "zh": "王崩。我们班的女生都好好看。",
+      "en": "王崩. The girls in our class are all so hot."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……你能不能正常一点？"
+      "zh": "……你能不能正常一点？",
+      "en": "...Can you be normal for once?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "小李最fine。No cap。小黑也不错。清清有那种quiet hot的感觉。"
+      "zh": "小李最fine。No cap。小黑也不错。清清有那种quiet hot的感觉。",
+      "en": "小李 is the most fine. No cap. 小黑's not bad either. 清清 has that quiet hot vibe."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我要把这个群消息免打扰了。"
+      "zh": "我要把这个群消息免打扰了。",
+      "en": "I'm muting this chat."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "别别别。你不觉得小李很漂亮吗？你撞到她了。你们说话了。想法？"
+      "zh": "别别别。你不觉得小李很漂亮吗？你撞到她了。你们说话了。想法？",
+      "en": "No no no. Don't you think 小李 is pretty? You bumped into her. You guys talked. Thoughts?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "她看起来有很多问题。"
+      "zh": "她看起来有很多问题。",
+      "en": "She looks like she has a lot of issues."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我问的不是这个。"
+      "zh": "我问的不是这个。",
+      "en": "That's not what I asked."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我的回答就是这个。"
+      "zh": "我的回答就是这个。",
+      "en": "That's my answer."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你到底喜不喜欢女孩子？"
+      "zh": "你到底喜不喜欢女孩子？",
+      "en": "Do you even like girls?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我喜欢台湾。"
+      "zh": "我喜欢台湾。",
+      "en": "I like Taiwan."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "台湾不是女孩子。"
+      "zh": "台湾不是女孩子。",
+      "en": "Taiwan is not a girl."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "比女孩子重要。"
+      "zh": "比女孩子重要。",
+      "en": "More important than girls."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你没救了。行吧，多的归我。"
+      "zh": "你没救了。行吧，多的归我。",
+      "en": "You're hopeless. Fine, more for me."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "[自拍照：酒吧里，旁边两个中国女生比耶]"
+      "zh": "[自拍照：酒吧里，旁边两个中国女生比耶]",
+      "en": "[Selfie: at a bar, two Chinese girls next to him throwing peace signs]"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "有motion了bro🔥 两个baddies坐我旁边了"
+      "zh": "有motion了bro🔥 两个baddies坐我旁边了",
+      "en": "Got motion bro 🔥 Two baddies sat next to me"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "十一点了。我在学习。"
+      "zh": "十一点了。我在学习。",
+      "en": "It's 11. I'm studying."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "周六晚上学习。是sigma还是sad？"
+      "zh": "周六晚上学习。是sigma还是sad？",
+      "en": "Studying on a Saturday night. Sigma or sad?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我在看台湾和东南亚的经济关系。"
+      "zh": "我在看台湾和东南亚的经济关系。",
+      "en": "I'm reading about Taiwan's economic relationship with Southeast Asia."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "这是我听过最悲伤的一句话。"
+      "zh": "这是我听过最悲伤的一句话。",
+      "en": "That's the saddest sentence I've ever heard."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Update：拿到一个女生的微信了。她叫美美。她说我的中文\"很可爱\"。这代表她喜欢我吧？"
+      "zh": "Update：拿到一个女生的微信了。她叫美美。她说我的中文\"很可爱\"。这代表她喜欢我吧？",
+      "en": "Update: Got a girl's WeChat. Her name is 美美. She said my Chinese is \"very cute.\" That means she likes me, right?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "代表你的中文听起来像小孩。"
+      "zh": "代表你的中文听起来像小孩。",
+      "en": "It means your Chinese sounds like a little kid's."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……也算吧。"
+      "zh": "……也算吧。",
+      "en": "...I'll take it."
     },
     {
       "type": "scene",
@@ -192,177 +219,212 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "好。王崩。想法。说。"
+      "zh": "好。王崩。想法。说。",
+      "en": "Okay. 王崩. Thoughts. Go."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "帅。"
+      "zh": "帅。",
+      "en": "Hot."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……还可以。"
+      "zh": "……还可以。",
+      "en": "...He's alright."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "\"还可以\"？？姐，他有气场。他有穿搭。他走进一个房间温度都变了。"
+      "zh": "\"还可以\"？？姐，他有气场。他有穿搭。他走进一个房间温度都变了。",
+      "en": "\"Alright\"?? Girl, he has presence. He has drip. The temperature changes when he walks into a room."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "那叫空调。"
+      "zh": "那叫空调。",
+      "en": "That's called air conditioning."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我恨你。"
+      "zh": "我恨你。",
+      "en": "I hate you."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "他确实帅。可惜只说台湾。"
+      "zh": "他确实帅。可惜只说台湾。",
+      "en": "He is hot. Too bad he only talks about Taiwan."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "可能他就是很passionate。"
+      "zh": "可能他就是很passionate。",
+      "en": "Maybe he's just really passionate."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "passionate和obsessed有区别。"
+      "zh": "passionate和obsessed有区别。",
+      "en": "There's a difference between passionate and obsessed."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "矮中呢？"
+      "zh": "矮中呢？",
+      "en": "What about 矮中?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "烦。"
+      "zh": "烦。",
+      "en": "Annoying."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "清清？你怎么不说话了？"
+      "zh": "清清？你怎么不说话了？",
+      "en": "清清? Why'd you go quiet?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我在想。"
+      "zh": "我在想。",
+      "en": "I'm thinking."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "在想矮中的评分？"
+      "zh": "在想矮中的评分？",
+      "en": "Thinking about 矮中's rating?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "他……不是传统意义上的帅。但他有一种东西。"
+      "zh": "他……不是传统意义上的帅。但他有一种东西。",
+      "en": "He's... not traditionally hot. But he has something."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "什么东西？精神问题？"
+      "zh": "什么东西？精神问题？",
+      "en": "What something? Mental issues?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "不是。他……很自信。那种不应该有效但有效的自信。他走进一个房间就跟所有人说话。他不在乎别人怎么看他。这很少见。"
+      "zh": "不是。他……很自信。那种不应该有效但有效的自信。他走进一个房间就跟所有人说话。他不在乎别人怎么看他。这很少见。",
+      "en": "No. He's... really confident. The kind of confidence that shouldn't work but does. He walks into a room and talks to everyone. He doesn't care what people think. That's rare."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "姐。你说的是rizz。"
+      "zh": "姐。你说的是rizz。",
+      "en": "Girl. You're describing rizz."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我说的是社会学观察。"
+      "zh": "我说的是社会学观察。",
+      "en": "I'm making a sociological observation."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你说的是rizz。我的天。你觉得矮中有rizz。"
+      "zh": "你说的是rizz。我的天。你觉得矮中有rizz。",
+      "en": "You're describing rizz. Oh my god. You think 矮中 has rizz."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我没——"
+      "zh": "我没——",
+      "en": "I didn't —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你脸红了！耳朵红了！"
+      "zh": "你脸红了！耳朵红了！",
+      "en": "You're blushing! Your ears are red!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "那是因为太热了！"
+      "zh": "那是因为太热了！",
+      "en": "It's because it's too hot!"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "空调开着呢！"
+      "zh": "空调开着呢！",
+      "en": "The AC is on!"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "还有。你们有没有看到怪老师今天怎么看小李的？"
+      "zh": "还有。你们有没有看到怪老师今天怎么看小李的？",
+      "en": "Also. Did you guys see how 怪老师 looked at 小李 today?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "什么意思？"
+      "zh": "什么意思？",
+      "en": "What do you mean?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你进来的时候他盯着你看了五秒钟。"
+      "zh": "你进来的时候他盯着你看了五秒钟。",
+      "en": "When you walked in he stared at you for five seconds."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "他是老师。看学生不是很正常吗？"
+      "zh": "他是老师。看学生不是很正常吗？",
+      "en": "He's a teacher. Isn't looking at students normal?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "不是那种看法。"
+      "zh": "不是那种看法。",
+      "en": "Not that kind of looking."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "就是。大叔vibe。unc energy。"
+      "zh": "就是。大叔vibe。unc energy。",
+      "en": "Exactly. 大叔 vibe. Unc energy."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "什么是unc？"
+      "zh": "什么是unc？",
+      "en": "What's unc?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "就是……creepy的年纪大的男的。大叔。"
+      "zh": "就是……creepy的年纪大的男的。大叔。",
+      "en": "It's like... a creepy older dude. 大叔."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "他又不是很老。"
+      "zh": "他又不是很老。",
+      "en": "He's not that old."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……重点不是这个，小李。"
+      "zh": "……重点不是这个，小李。",
+      "en": "...That's not the point, 小李."
     },
     {
       "type": "scene",

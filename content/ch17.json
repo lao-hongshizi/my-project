@@ -17,147 +17,176 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "如果我跟王崩告白，你觉得他会说什么？"
+      "zh": "如果我跟王崩告白，你觉得他会说什么？",
+      "en": "If I confessed to 王崩, what do you think he'd say?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……你想听真话？"
+      "zh": "……你想听真话？",
+      "en": "...you want the truth?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "真话。"
+      "zh": "真话。",
+      "en": "The truth."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "他可能会说\"哦\"。"
+      "zh": "他可能会说\"哦\"。",
+      "en": "He'd probably say \"oh.\""
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "就\"哦\"？"
+      "zh": "就\"哦\"？",
+      "en": "Just \"oh\"?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "或者\"哦，谢谢\"。就是那种老师说\"很好，下一个\"的语气。"
+      "zh": "或者\"哦，谢谢\"。就是那种老师说\"很好，下一个\"的语气。",
+      "en": "Or \"oh, thanks.\" Like when a teacher says \"good, next\" in that tone."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……太惨了。"
+      "zh": "……太惨了。",
+      "en": "...that's brutal."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "但是club那晚以后……他坐在路边陪你。把外套给你了。"
+      "zh": "但是club那晚以后……他坐在路边陪你。把外套给你了。",
+      "en": "But after that night at the club... he sat on the curb with you. Gave you his jacket."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "那只是有礼貌。"
+      "zh": "那只是有礼貌。",
+      "en": "That was just being polite."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "王崩从来不\"有礼貌\"。他对台湾有礼貌。对繁体字有礼貌。对人不太有礼貌。所以如果他把外套给你了……"
+      "zh": "王崩从来不\"有礼貌\"。他对台湾有礼貌。对繁体字有礼貌。对人不太有礼貌。所以如果他把外套给你了……",
+      "en": "王崩 is never \"polite.\" He's polite to Taiwan. Polite to traditional characters. Not very polite to people. So if he gave you his jacket..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……什么？"
+      "zh": "……什么？",
+      "en": "...what?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "也许是有意思的。"
+      "zh": "也许是有意思的。",
+      "en": "Maybe it means something."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你觉得？"
+      "zh": "你觉得？",
+      "en": "You think so?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我觉得。如果你告诉他，最差的结果也就是一个\"哦谢谢\"。但至少你知道了。"
+      "zh": "我觉得。如果你告诉他，最差的结果也就是一个\"哦谢谢\"。但至少你知道了。",
+      "en": "I do. If you tell him, worst case is an \"oh thanks.\" But at least you'd know."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "如果他说\"哦谢谢\"我会死。"
+      "zh": "如果他说\"哦谢谢\"我会死。",
+      "en": "If he says \"oh thanks\" I will die."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "你不会死。"
+      "zh": "你不会死。",
+      "en": "You won't die."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "精神上的。精神上会死。"
+      "zh": "精神上的。精神上会死。",
+      "en": "Spiritually. I'll die spiritually."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你呢？如果矮中约你，你会怎么说？"
+      "zh": "你呢？如果矮中约你，你会怎么说？",
+      "en": "What about you? If 矮中 asked you out, what would you say?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "他不会约我。"
+      "zh": "他不会约我。",
+      "en": "He wouldn't ask me."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "假设。"
+      "zh": "假设。",
+      "en": "Hypothetically."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "如果他请你吃饭呢？"
+      "zh": "如果他请你吃饭呢？",
+      "en": "What if he asked you to dinner?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……如果他请我吃饭，我会说不。"
+      "zh": "……如果他请我吃饭，我会说不。",
+      "en": "...if he asked me to dinner, I'd say no."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "骗人。"
+      "zh": "骗人。",
+      "en": "Liar."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我会说不。因为我知道他先约了小李，小李说无聊。我不要做别人的second choice。"
+      "zh": "我会说不。因为我知道他先约了小李，小李说无聊。我不要做别人的second choice。",
+      "en": "I'd say no. Because I know he asked 小李 first, and 小李 said she was bored. I don't want to be someone's second choice."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……这个思路很强。"
+      "zh": "……这个思路很强。",
+      "en": "...that's a strong take."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我知道。"
+      "zh": "我知道。",
+      "en": "I know."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "但也很sad。"
+      "zh": "但也很sad。",
+      "en": "But also pretty sad."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……我也知道。"
+      "zh": "……我也知道。",
+      "en": "...I know that too."
     },
     {
       "type": "scene",
@@ -167,132 +196,158 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "如果你可以跟班上的任何一个女生约会，你选谁？"
+      "zh": "如果你可以跟班上的任何一个女生约会，你选谁？",
+      "en": "If you could date any girl in our class, who would you pick?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "不选。"
+      "zh": "不选。",
+      "en": "No one."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不是这样玩\"如果\"的。假设。必须选。"
+      "zh": "不是这样玩\"如果\"的。假设。必须选。",
+      "en": "That's not how you play \"if.\" Hypothetical. You have to pick."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "快说。"
+      "zh": "快说。",
+      "en": "Come on, say it."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……小黑不是最差的人。"
+      "zh": "……小黑不是最差的人。",
+      "en": "...小黑 isn't the worst."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "哇。这是你说过的最浪漫的话。"
+      "zh": "哇。这是你说过的最浪漫的话。",
+      "en": "Wow. That's the most romantic thing you've ever said."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我说的是\"不是最差的\"。"
+      "zh": "我说的是\"不是最差的\"。",
+      "en": "I said \"not the worst.\""
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "对你来说这已经是情书了。"
+      "zh": "对你来说这已经是情书了。",
+      "en": "For you that's basically a love letter."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "闭嘴。"
+      "zh": "闭嘴。",
+      "en": "Shut up."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你喜欢她什么？"
+      "zh": "你喜欢她什么？",
+      "en": "What do you like about her?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我没说我喜欢她。我说她不是最差的。"
+      "zh": "我没说我喜欢她。我说她不是最差的。",
+      "en": "I didn't say I like her. I said she's not the worst."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "一样的。具体说。"
+      "zh": "一样的。具体说。",
+      "en": "Same thing. Be specific."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "她……跟我吵。但不是mean的那种。她其实在听我说台湾的事。她不同意，但她在听。别人都不听。"
+      "zh": "她……跟我吵。但不是mean的那种。她其实在听我说台湾的事。她不同意，但她在听。别人都不听。",
+      "en": "She... argues with me. But not in a mean way. She actually listens when I talk about Taiwan. She disagrees, but she listens. Nobody else listens."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……所以你喜欢她因为她跟你吵？"
+      "zh": "……所以你喜欢她因为她跟你吵？",
+      "en": "...so you like her because she argues with you?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我喜欢她在乎到愿意吵。"
+      "zh": "我喜欢她在乎到愿意吵。",
+      "en": "I like that she cares enough to argue."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "这就是love language啊。"
+      "zh": "这就是love language啊。",
+      "en": "That's literally a love language."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "别说\"love language\"。"
+      "zh": "别说\"love language\"。",
+      "en": "Don't say \"love language.\""
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "KMT遇上CCP！两岸romance！"
+      "zh": "KMT遇上CCP！两岸romance！",
+      "en": "KMT meets CCP! Cross-strait romance!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我要走了。"
+      "zh": "我要走了。",
+      "en": "I'm leaving."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "像毛泽东背叛蒋介石一样！但是romantic version！"
+      "zh": "像毛泽东背叛蒋介石一样！但是romantic version！",
+      "en": "Like Mao betraying Chiang Kai-shek! But the romantic version!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那个一点都不romantic。几百万人死了。"
+      "zh": "那个一点都不romantic。几百万人死了。",
+      "en": "That's not romantic at all. Millions of people died."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……对。比喻不好。但你懂我的意思。"
+      "zh": "……对。比喻不好。但你懂我的意思。",
+      "en": "...right. Bad analogy. But you know what I mean."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我不懂。"
+      "zh": "我不懂。",
+      "en": "I don't."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你的意思是你喜欢小黑。"
+      "zh": "你的意思是你喜欢小黑。",
+      "en": "What you mean is you like 小黑."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……吃你的饭。"
+      "zh": "……吃你的饭。",
+      "en": "...eat your food."
     },
     {
       "type": "scene",

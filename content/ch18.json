@@ -23,17 +23,20 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "王崩。"
+      "zh": "王崩。",
+      "en": "王崩."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "嗯？"
+      "zh": "嗯？",
+      "en": "Hm?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我喜欢你。从第一天就喜欢了。"
+      "zh": "我喜欢你。从第一天就喜欢了。",
+      "en": "I like you. Since day one."
     },
     {
       "type": "action",
@@ -43,98 +46,117 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "所有人都知道。女生知道。矮中知道。就你一个人不知道。或者你知道但是你不在乎。"
+      "zh": "所有人都知道。女生知道。矮中知道。就你一个人不知道。或者你知道但是你不在乎。",
+      "en": "Everyone knows. The girls know. 矮中 knows. You're the only one who doesn't. Or you know and you just don't care."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你不用说什么。但我必须告诉你。因为这件事一直在杀我。每次我跟你吵台湾的事，不是因为我在乎台湾。我是说——我确实在乎，中国的发展是very impressive的，CCP让几亿人脱贫了——但那不是我吵的原因。"
+      "zh": "你不用说什么。但我必须告诉你。因为这件事一直在杀我。每次我跟你吵台湾的事，不是因为我在乎台湾。我是说——我确实在乎，中国的发展是very impressive的，CCP让几亿人脱贫了——但那不是我吵的原因。",
+      "en": "You don't have to say anything. But I have to tell you. Because this has been killing me. Every time I argue with you about Taiwan, it's not because I care about Taiwan. I mean-- I do care, China's development is very impressive, the CCP lifted hundreds of millions out of poverty-- but that's not why I argue."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那你为什么吵？"
+      "zh": "那你为什么吵？",
+      "en": "Then why do you argue?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "因为这是唯一能让你看我的方式。"
+      "zh": "因为这是唯一能让你看我的方式。",
+      "en": "Because it's the only way to make you look at me."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……哦。"
+      "zh": "……哦。",
+      "en": "...oh."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你如果说\"谢谢\"我会尖叫。"
+      "zh": "你如果说\"谢谢\"我会尖叫。",
+      "en": "If you say \"thanks\" I will scream."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……我不是要说谢谢。"
+      "zh": "……我不是要说谢谢。",
+      "en": "...I wasn't going to say thanks."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "那说什么？"
+      "zh": "那说什么？",
+      "en": "Then what?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我要说的是……我最近在想。从club那晚以后。你坐在路边，我把外套给你了。我不做那种事的。我不给别人东西。我不坐路边。我不关心人有没有事。但是那天我做了。为了你。"
+      "zh": "我要说的是……我最近在想。从club那晚以后。你坐在路边，我把外套给你了。我不做那种事的。我不给别人东西。我不坐路边。我不关心人有没有事。但是那天我做了。为了你。",
+      "en": "What I'm trying to say is... I've been thinking. Since that night at the club. You were sitting on the curb, and I gave you my jacket. I don't do that. I don't give people things. I don't sit on curbs. I don't care if someone's okay. But that night I did. For you."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……所以？"
+      "zh": "……所以？",
+      "en": "...so?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "所以我不知道。我不擅长这个。我擅长经济、繁体字、台湾。我不擅长……这个。"
+      "zh": "所以我不知道。我不擅长这个。我擅长经济、繁体字、台湾。我不擅长……这个。",
+      "en": "So I don't know. I'm not good at this. I'm good at economics, traditional characters, Taiwan. I'm not good at... this."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……你想不想试试？"
+      "zh": "……你想不想试试？",
+      "en": "...do you wanna try?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "试什么？"
+      "zh": "试什么？",
+      "en": "Try what?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "喝奶茶。就我们两个。不提台湾。不说政治。就是两个人喝奶茶。"
+      "zh": "喝奶茶。就我们两个。不提台湾。不说政治。就是两个人喝奶茶。",
+      "en": "Boba. Just the two of us. No Taiwan. No politics. Just two people drinking boba."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我可以提一次台湾吗？"
+      "zh": "我可以提一次台湾吗？",
+      "en": "Can I mention Taiwan once?"
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "一次。",
+      "en": "Once.",
       "sub": "快笑了"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……好。那走吧。"
+      "zh": "……好。那走吧。",
+      "en": "...okay. Let's go."
     },
     {
       "type": "action",
@@ -154,98 +176,117 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "清清，帮我看一下作业？"
+      "zh": "清清，帮我看一下作业？",
+      "en": "清清, can you check my homework?"
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "……你自己做的？",
+      "en": "...you did this yourself?",
       "sub": "拿过来看"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "对。我知道写得很烂。"
+      "zh": "对。我知道写得很烂。",
+      "en": "Yeah. I know the writing's terrible."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "不烂。这个字写错了——那是大，不是太，差一个点。这个写反了。但是……你确实在认真做。"
+      "zh": "不烂。这个字写错了——那是大，不是太，差一个点。这个写反了。但是……你确实在认真做。",
+      "en": "It's not terrible. This character is wrong-- that's 大, not 太, you're missing a dot. This one's backwards. But... you're clearly putting in the effort."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "club那晚以后我一直在努力。"
+      "zh": "club那晚以后我一直在努力。",
+      "en": "I've been trying hard since that night at the club."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "什么改变了？"
+      "zh": "什么改变了？",
+      "en": "What changed?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我看到怪老师，意识到……我不想做那种在中国十五年了还写不好字的人。我想真的学。不只是酒吧中文。真正的中文。"
+      "zh": "我看到怪老师，意识到……我不想做那种在中国十五年了还写不好字的人。我想真的学。不只是酒吧中文。真正的中文。",
+      "en": "I saw 怪老师 and realized... I don't wanna be the kind of person who's been in China fifteen years and still can't write properly. I wanna actually learn. Not just bar Chinese. Real Chinese."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……这是你说过的最成熟的话。"
+      "zh": "……这是你说过的最成熟的话。",
+      "en": "...that's the most mature thing you've ever said."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "别告诉别人。我有reputation的。"
+      "zh": "别告诉别人。我有reputation的。",
+      "en": "Don't tell anyone. I have a reputation."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "你的秘密safe with me。"
+      "zh": "你的秘密safe with me。",
+      "en": "Your secret's safe with me."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "清清……你为什么帮我？我不聪明。不organized。我把\"矮\"纹在了胳膊上。为什么你一直帮我？"
+      "zh": "清清……你为什么帮我？我不聪明。不organized。我把\"矮\"纹在了胳膊上。为什么你一直帮我？",
+      "en": "清清... why do you help me? I'm not smart. Not organized. I got \"short\" tattooed on my arm. Why do you keep helping me?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "是因为你可怜我？"
+      "zh": "是因为你可怜我？",
+      "en": "Is it because you feel sorry for me?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "不是。"
+      "zh": "不是。",
+      "en": "No."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那为什么？"
+      "zh": "那为什么？",
+      "en": "Then why?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "因为你问了。没有别人问我帮忙。他们看我就是……聪明的那个。冷的那个。什么都figured out的那个。你是唯一一个把我当普通人的人。"
+      "zh": "因为你问了。没有别人问我帮忙。他们看我就是……聪明的那个。冷的那个。什么都figured out的那个。你是唯一一个把我当普通人的人。",
+      "en": "Because you asked. Nobody else asks me for help. They look at me and see... the smart one. The cold one. The one who has it all figured out. You're the only one who treats me like a normal person."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……你就是普通人。"
+      "zh": "……你就是普通人。",
+      "en": "...you are a normal person."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "对大部分人来说不是。"
+      "zh": "对大部分人来说不是。",
+      "en": "Not to most people."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那大部分人是笨蛋。……包括我。"
+      "zh": "那大部分人是笨蛋。……包括我。",
+      "en": "Then most people are idiots. ...including me."
     },
     {
       "type": "action",
@@ -255,28 +296,33 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你笑了！这是我第一次听到你笑！"
+      "zh": "你笑了！这是我第一次听到你笑！",
+      "en": "You laughed! That's the first time I've heard you laugh!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "停。"
+      "zh": "停。",
+      "en": "Stop."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你的笑声很好听！应该多笑！"
+      "zh": "你的笑声很好听！应该多笑！",
+      "en": "Your laugh sounds great! You should laugh more!"
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "看作业。",
+      "en": "Look at the homework.",
       "sub": "耳朵on fire"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "好好好。作业。"
+      "zh": "好好好。作业。",
+      "en": "Okay okay okay. Homework."
     }
   ],
   "vocab": [],

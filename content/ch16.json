@@ -28,82 +28,98 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我搞砸了。"
+      "zh": "我搞砸了。",
+      "en": "I messed up."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "嗯。"
+      "zh": "嗯。",
+      "en": "Yeah."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我亲了小黑。"
+      "zh": "我亲了小黑。",
+      "en": "I kissed 小黑."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我知道。我在。"
+      "zh": "我知道。我在。",
+      "en": "I know. I was there."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "她生气了吗？"
+      "zh": "她生气了吗？",
+      "en": "Is she mad?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你觉得呢？"
+      "zh": "你觉得呢？",
+      "en": "What do you think?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我喝多了。那个不算。我去跟她说。"
+      "zh": "我喝多了。那个不算。我去跟她说。",
+      "en": "I was drunk. That didn't count. I'll go tell her."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "别说\"那个不算\"。那样更伤人。"
+      "zh": "别说\"那个不算\"。那样更伤人。",
+      "en": "Don't say \"that didn't count.\" That's even more hurtful."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "为什么？"
+      "zh": "为什么？",
+      "en": "Why?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "因为她可能希望那个是算的。"
+      "zh": "因为她可能希望那个是算的。",
+      "en": "Because she might have wanted it to count."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……哦。"
+      "zh": "……哦。",
+      "en": "...oh."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "等一下。小黑喜欢我？？"
+      "zh": "等一下。小黑喜欢我？？",
+      "en": "Wait. 小黑 likes me??"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "不是。她喜欢我。但是从来没有人亲过她，然后你让那件事变得什么都不是。这才是问题。"
+      "zh": "不是。她喜欢我。但是从来没有人亲过她，然后你让那件事变得什么都不是。这才是问题。",
+      "en": "No. She likes me. But nobody had ever kissed her before, and you turned that moment into nothing. That's the problem."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "卧槽。我是混蛋。"
+      "zh": "卧槽。我是混蛋。",
+      "en": "Shit. I'm an asshole."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你不是混蛋。你只是不小心。"
+      "zh": "你不是混蛋。你只是不小心。",
+      "en": "You're not an asshole. You're just careless."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……也许更糟。"
+      "zh": "……也许更糟。",
+      "en": "...maybe that's worse."
     },
     {
       "type": "scene",
@@ -113,67 +129,80 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "小黑。关于周五的事——"
+      "zh": "小黑。关于周五的事——",
+      "en": "小黑. About Friday--"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "没事。"
+      "zh": "没事。",
+      "en": "It's fine."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不是。让我说完。对不起。我喝多了，不应该那样做。对你不公平。"
+      "zh": "不是。让我说完。对不起。我喝多了，不应该那样做。对你不公平。",
+      "en": "No. Let me finish. I'm sorry. I was drunk, I shouldn't have done that. It wasn't fair to you."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我不是故意玩你的。我就是……我看到怪老师在酒吧，心里很乱，然后小李——"
+      "zh": "我不是故意玩你的。我就是……我看到怪老师在酒吧，心里很乱，然后小李——",
+      "en": "I wasn't trying to mess with you. I just... I saw 怪老师 at the bar, my head was all over the place, and then 小李--"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你亲我是因为你没法跟小李说话？"
+      "zh": "你亲我是因为你没法跟小李说话？",
+      "en": "You kissed me because you couldn't talk to 小李?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……在我脑子里这句话没这么难听。"
+      "zh": "……在我脑子里这句话没这么难听。",
+      "en": "...in my head that didn't sound as bad."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你是白痴。"
+      "zh": "你是白痴。",
+      "en": "You're an idiot."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我知道。"
+      "zh": "我知道。",
+      "en": "I know."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "彻底的、完全的白痴。"
+      "zh": "彻底的、完全的白痴。",
+      "en": "A complete, total idiot."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我知道。"
+      "zh": "我知道。",
+      "en": "I know."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……好了。我们没事了。以后别这样。"
+      "zh": "……好了。我们没事了。以后别这样。",
+      "en": "...okay. We're good. Don't do it again."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不会了。我保证。"
+      "zh": "不会了。我保证。",
+      "en": "I won't. I promise."
     },
     {
       "type": "action",
@@ -193,12 +222,14 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "今天学communication的动词。告诉、问、说。谁能造句？"
+      "zh": "今天学communication的动词。告诉、问、说。谁能造句？",
+      "en": "Today we're learning communication verbs. Tell, ask, say. Who can make a sentence?"
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "他告诉我一个很有意思的故事。",
+      "en": "He told me a very interesting story.",
       "sub": "举手——这学期第一次"
     },
     {
@@ -210,6 +241,7 @@
       "type": "line",
       "char": "guailaoshi",
       "zh": "很好，小李。你的声调最近进步了很多。",
+      "en": "Very good, 小李. Your tones have improved a lot recently.",
       "sub": "笑了"
     },
     {

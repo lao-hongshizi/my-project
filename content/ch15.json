@@ -28,88 +28,105 @@
       "type": "line",
       "char": "xiaohei",
       "zh": "他就打算一直站在那里吗？",
+      "en": "Is he just gonna stand there the whole time?",
       "sub": "大声，对小李说"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "谁？王崩？"
+      "zh": "谁？王崩？",
+      "en": "Who? 王崩?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "他靠着墙。女生在看他。他什么都不做。"
+      "zh": "他靠着墙。女生在看他。他什么都不做。",
+      "en": "He's leaning against the wall. Girls are looking at him. He does nothing."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "他就是这样的。他越不做什么，看起来越酷。"
+      "zh": "他就是这样的。他越不做什么，看起来越酷。",
+      "en": "That's just how he is. The less he does, the cooler he looks."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我想去跟他说话但是走过去太desperate了。"
+      "zh": "我想去跟他说话但是走过去太desperate了。",
+      "en": "I wanna go talk to him but walking over would look too desperate."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "你确实desperate。"
+      "zh": "你确实desperate。",
+      "en": "You are desperate."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……哇。"
+      "zh": "……哇。",
+      "en": "...wow."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我是说爱你的那种说法。"
+      "zh": "我是说爱你的那种说法。",
+      "en": "I mean that in a loving way."
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "你在盯着看。",
+      "en": "You're staring.",
       "sub": "坐到清清旁边"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我没有。"
+      "zh": "我没有。",
+      "en": "I'm not."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "你看了矮中十分钟了。"
+      "zh": "你看了矮中十分钟了。",
+      "en": "You've been watching 矮中 for ten minutes."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我在观察社交——"
+      "zh": "我在观察社交——",
+      "en": "I'm observing social dynamics--"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "你在盯着看。"
+      "zh": "你在盯着看。",
+      "en": "You're staring."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "喜欢一个人没什么。"
+      "zh": "喜欢一个人没什么。",
+      "en": "Liking someone is no big deal."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我没——"
+      "zh": "我没——",
+      "en": "I don't--"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "他请我吃了那顿饭，我觉得无聊。我不喜欢他。你可以放心。"
+      "zh": "他请我吃了那顿饭，我觉得无聊。我不喜欢他。你可以放心。",
+      "en": "He took me to that dinner, I was bored. I don't like him. You can relax."
     },
     {
       "type": "action",
@@ -134,7 +151,8 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "卧槽——对不起——我不——"
+      "zh": "卧槽——对不起——我不——",
+      "en": "Holy sh-- sorry-- I didn't--"
     },
     {
       "type": "action",
@@ -149,94 +167,112 @@
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……嘿。"
+      "zh": "……嘿。",
+      "en": "...hey."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "走开。",
+      "en": "Go away.",
       "sub": "没抬头"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你还好吗？"
+      "zh": "你还好吗？",
+      "en": "You okay?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我很好。"
+      "zh": "我很好。",
+      "en": "I'm fine."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "他喝多了。那个不算。"
+      "zh": "他喝多了。那个不算。",
+      "en": "He was drunk. That didn't count."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我知道不算。这就是问题。"
+      "zh": "我知道不算。这就是问题。",
+      "en": "I know it didn't count. That's the problem."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我的第一次被亲。结果是drunk的、sloppy的、不是给我的。"
+      "zh": "我的第一次被亲。结果是drunk的、sloppy的、不是给我的。",
+      "en": "My first kiss. And it was drunk, sloppy, and not meant for me."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……那是你的第一次？"
+      "zh": "……那是你的第一次？",
+      "en": "...that was your first?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……别笑。"
+      "zh": "……别笑。",
+      "en": "...don't laugh."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我没笑。"
+      "zh": "我没笑。",
+      "en": "I'm not laughing."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……我也没亲过任何人。"
+      "zh": "……我也没亲过任何人。",
+      "en": "...I've never kissed anyone either."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "……你骗人。",
+      "en": "...you're lying.",
       "sub": "看着他"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我没有。我不知道怎么做……这些事。"
+      "zh": "我没有。我不知道怎么做……这些事。",
+      "en": "I'm not. I don't know how to do... this stuff."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "但你是……你。你想要谁就能有谁。"
+      "zh": "但你是……你。你想要谁就能有谁。",
+      "en": "But you're... you. You could have anyone you want."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我不想要\"谁都行\"。所以从来没……"
+      "zh": "我不想要\"谁都行\"。所以从来没……",
+      "en": "I don't want \"just anyone.\" So I never..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……你不说台湾的时候其实人挺好的。"
+      "zh": "……你不说台湾的时候其实人挺好的。",
+      "en": "...you're actually pretty nice when you're not talking about Taiwan."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……谢谢。"
+      "zh": "……谢谢。",
+      "en": "...thanks."
     },
     {
       "type": "scene",
@@ -257,88 +293,105 @@
       "type": "line",
       "char": "qingqing",
       "zh": "你还好吗？",
+      "en": "You okay?",
       "sub": "坐到矮中旁边"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……我亲了小黑。"
+      "zh": "……我亲了小黑。",
+      "en": "...I kissed 小黑."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我看到了。"
+      "zh": "我看到了。",
+      "en": "I saw."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我不是故意的。我想跟小李说话但是说不出来，然后小黑就……在那里。"
+      "zh": "我不是故意的。我想跟小李说话但是说不出来，然后小黑就……在那里。",
+      "en": "I didn't mean to. I wanted to talk to 小李 but couldn't get the words out, and then 小黑 was just... there."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我这样说很渣。"
+      "zh": "我这样说很渣。",
+      "en": "That makes me sound like such trash."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "你这样说很honest。"
+      "zh": "你这样说很honest。",
+      "en": "That sounds pretty honest."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你看他？那个跟他说话的女生？她对他没兴趣。她只对他的钱有兴趣。"
+      "zh": "你看他？那个跟他说话的女生？她对他没兴趣。她只对他的钱有兴趣。",
+      "en": "You see him? That girl talking to him? She's not interested in him. She's only interested in his money."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……可能吧。"
+      "zh": "……可能吧。",
+      "en": "...maybe."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "王崩说这就是十五年后的我。他说得对。我来酒吧，跟女生说话，买酒，以为她们喜欢我。其实她们只是喜欢……新鲜感。或者free drinks。"
+      "zh": "王崩说这就是十五年后的我。他说得对。我来酒吧，跟女生说话，买酒，以为她们喜欢我。其实她们只是喜欢……新鲜感。或者free drinks。",
+      "en": "王崩 said that's gonna be me in fifteen years. He's right. I come to bars, chat up girls, buy drinks, thinking they like me. Really they just like... the novelty. Or the free drinks."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……不是所有人都这样。"
+      "zh": "……不是所有人都这样。",
+      "en": "...not everyone's like that."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "大部分。"
+      "zh": "大部分。",
+      "en": "Most of them."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "也许。但你还年轻。你可以改。"
+      "zh": "也许。但你还年轻。你可以改。",
+      "en": "Maybe. But you're still young. You can change."
     },
     {
       "type": "line",
       "char": "aizhong",
       "zh": "清清。你为什么对我好？别人都觉得我是笑话。",
+      "en": "清清. Why are you nice to me? Everyone else thinks I'm a joke.",
       "sub": "看着她"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我不觉得你是笑话。"
+      "zh": "我不觉得你是笑话。",
+      "en": "I don't think you're a joke."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那你觉得我是什么？"
+      "zh": "那你觉得我是什么？",
+      "en": "Then what do you think I am?"
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "……我觉得你是一个很努力假装是另一个人的人。真实的那个可能更好。",
+      "en": "...I think you're someone trying really hard to pretend to be someone else. The real version is probably better.",
       "sub": "很长的停顿"
     },
     {
@@ -354,12 +407,14 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……我不想成为他。"
+      "zh": "……我不想成为他。",
+      "en": "...I don't want to become him."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "那就别。"
+      "zh": "那就别。",
+      "en": "Then don't."
     },
     {
       "type": "scene",

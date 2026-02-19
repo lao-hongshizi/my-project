@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { playClick } from "@/lib/sounds";
 
 type BubbleMode = "hanzi" | "pinyin" | "english";
 
@@ -16,6 +17,7 @@ export function DualLine({ text, pinyinText, en }: DualLineProps) {
 
   const handleTap = (e: React.MouseEvent) => {
     e.stopPropagation();
+    playClick();
     setMode((m) => {
       if (m === "hanzi") return "pinyin";
       if (m === "pinyin") return en ? "english" : "hanzi";

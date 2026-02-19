@@ -18,282 +18,337 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "今天说爱好。你们平时喜欢做什么？矮中？"
+      "zh": "今天说爱好。你们平时喜欢做什么？矮中？",
+      "en": "Today we're talking hobbies. What do you guys like to do? 矮中?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "打篮球，出去玩，认识新朋友，到处逛。我是social型的人。"
+      "zh": "打篮球，出去玩，认识新朋友，到处逛。我是social型的人。",
+      "en": "Basketball, going out, meeting new people, wandering around. I'm a social type of guy."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你是\"女孩子\"型的人。"
+      "zh": "你是\"女孩子\"型的人。",
+      "en": "You're a \"girls\" type of guy."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "也是。没什么不好意思的。我每天都在外面体验生活。对了老师——\"rizz\"中文怎么说？"
+      "zh": "也是。没什么不好意思的。我每天都在外面体验生活。对了老师——\"rizz\"中文怎么说？",
+      "en": "Also true. No shame in that. I'm out there experiencing life every day. Oh right, teacher — how do you say \"rizz\" in Chinese?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……什么？"
+      "zh": "……什么？",
+      "en": "...What?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Rizz。就是charm。跟女生说话很smooth的那种。"
+      "zh": "Rizz。就是charm。跟女生说话很smooth的那种。",
+      "en": "Rizz. Like charm. Being smooth when you talk to girls."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "我不知道那是什么。中文可以说……有魅力？或者会撩人？"
+      "zh": "我不知道那是什么。中文可以说……有魅力？或者会撩人？",
+      "en": "I don't know what that is. In Chinese you could say... having charm? Or knowing how to flirt?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "等一下。撩是一个真的词？！中文真的有rizz这个概念？？"
+      "zh": "等一下。撩是一个真的词？！中文真的有rizz这个概念？？",
+      "en": "Hold on. 撩 is a real word?! Chinese actually has a concept for rizz??"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "中文什么词都有。这个语言有五千年历史。"
+      "zh": "中文什么词都有。这个语言有五千年历史。",
+      "en": "Chinese has a word for everything. The language has five thousand years of history."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那\"no cap\"呢？"
+      "zh": "那\"no cap\"呢？",
+      "en": "What about \"no cap\"?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……我真的不知道这些词。我们能继续——"
+      "zh": "……我真的不知道这些词。我们能继续——",
+      "en": "...I really don't know these words. Can we move on —"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "\"bussin\"呢？"
+      "zh": "\"bussin\"呢？",
+      "en": "What about \"bussin\"?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "我真的听不懂你在说什么。"
+      "zh": "我真的听不懂你在说什么。",
+      "en": "I genuinely cannot understand what you're saying."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "我们的中文老师连基本的slang都不会翻译。我们交钱是为了什么？",
-      "sub": "对清清小声说"
+      "sub": "对清清小声说",
+      "en": "Our Chinese teacher can't even translate basic slang. What are we paying for?"
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "其实，不骗你就是\"no cap\"。绝了差不多是\"bussin\"。",
-      "sub": "小声"
+      "sub": "小声",
+      "en": "Actually, 不骗你 is basically \"no cap.\" 绝了 is pretty much \"bussin.\""
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……你怎么知道的？"
+      "zh": "……你怎么知道的？",
+      "en": "...How do you know that?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我看书。"
+      "zh": "我看书。",
+      "en": "I read."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "王崩，你的爱好？"
+      "zh": "王崩，你的爱好？",
+      "en": "王崩, your hobbies?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "看书。设计。跑步。画画。我在台北的时候，每天早上沿着淡水河跑。那个风景——山、河、光——台湾的自然景色是全亚洲最美的，这个不接受反驳。而且你知道吗，台湾的设计圈——"
+      "zh": "看书。设计。跑步。画画。我在台北的时候，每天早上沿着淡水河跑。那个风景——山、河、光——台湾的自然景色是全亚洲最美的，这个不接受反驳。而且你知道吗，台湾的设计圈——",
+      "en": "Reading. Design. Running. Drawing. When I was in Taipei, I'd run along the Tamsui River every morning. The scenery — mountains, river, light — Taiwan's natural landscape is the most beautiful in all of Asia, and I won't hear otherwise. And you know what, Taiwan's design scene —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "又来了。"
+      "zh": "又来了。",
+      "en": "Here we go again."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我在说我的爱好！"
+      "zh": "我在说我的爱好！",
+      "en": "I'm talking about my hobbies!"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你在说台湾！"
+      "zh": "你在说台湾！",
+      "en": "You're talking about Taiwan!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我的爱好在台湾发生的，所以——"
+      "zh": "我的爱好在台湾发生的，所以——",
+      "en": "My hobbies happened in Taiwan, so —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你有没有不在台湾的爱好？"
+      "zh": "你有没有不在台湾的爱好？",
+      "en": "Do you have any hobbies that aren't in Taiwan?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……我在这里也跑步。"
+      "zh": "……我在这里也跑步。",
+      "en": "...I also run here."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "小黑？"
+      "zh": "小黑？",
+      "en": "小黑?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "韩国音乐。护肤。化妆。拍照。我上个星期的屏幕使用时间是每天十一个小时。"
+      "zh": "韩国音乐。护肤。化妆。拍照。我上个星期的屏幕使用时间是每天十一个小时。",
+      "en": "K-pop. Skincare. Makeup. Taking photos. My screen time last week was eleven hours a day."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那挺离谱的。"
+      "zh": "那挺离谱的。",
+      "en": "That's pretty insane."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我知道。我在改。"
+      "zh": "我知道。我在改。",
+      "en": "I know. I'm working on it."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "怎么改？看更多K-pop？"
+      "zh": "怎么改？看更多K-pop？",
+      "en": "Working on it how? Watching more K-pop?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……对。"
+      "zh": "……对。",
+      "en": "...Yeah."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "清清？"
+      "zh": "清清？",
+      "en": "清清?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "弹钢琴。看书。学语言。我会说英文、中文、一点马来语，正在学日语。"
+      "zh": "弹钢琴。看书。学语言。我会说英文、中文、一点马来语，正在学日语。",
+      "en": "Piano. Reading. Learning languages. I speak English, Chinese, a little Malay, and I'm learning Japanese."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你也太牛了吧。五种语言。"
+      "zh": "你也太牛了吧。五种语言。",
+      "en": "You're way too impressive. Five languages."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "三种半。我的日语很基础。"
+      "zh": "三种半。我的日语很基础。",
+      "en": "Three and a half. My Japanese is super basic."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "还是很厉害！太goated了！"
+      "zh": "还是很厉害！太goated了！",
+      "en": "Still amazing! So goated!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……\"goated\"？"
+      "zh": "……\"goated\"？",
+      "en": "...\"Goated\"?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "就是很强的意思！"
+      "zh": "就是很强的意思！",
+      "en": "It means you're a beast!"
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "……谢谢？",
-      "sub": "停顿一下"
+      "sub": "停顿一下",
+      "en": "...Thanks?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "小李？"
+      "zh": "小李？",
+      "en": "小李?"
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "嗯？",
-      "sub": "在看手机"
+      "sub": "在看手机",
+      "en": "Hm?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "你的爱好。"
+      "zh": "你的爱好。",
+      "en": "Your hobbies."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我没什么爱好。"
+      "zh": "我没什么爱好。",
+      "en": "I don't really have hobbies."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "你平时做什么？"
+      "zh": "你平时做什么？",
+      "en": "What do you usually do?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "看手机。睡觉。点外卖。"
+      "zh": "看手机。睡觉。点外卖。",
+      "en": "Look at my phone. Sleep. Order delivery."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "就这些？"
+      "zh": "就这些？",
+      "en": "That's it?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "……小时候画画。我妈教我的。"
+      "zh": "……小时候画画。我妈教我的。",
+      "en": "...I used to draw when I was little. My mom taught me."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "那很好。你应该重新开始画。"
+      "zh": "那很好。你应该重新开始画。",
+      "en": "That's nice. You should start drawing again."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "……也许吧。"
+      "zh": "……也许吧。",
+      "en": "...Maybe."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "那老师也说说我的爱好吧——"
+      "zh": "那老师也说说我的爱好吧——",
+      "en": "Let me also share my hobbies —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "没人问你。"
+      "zh": "没人问你。",
+      "en": "Nobody asked you."
     },
     {
       "type": "line",
       "char": "guailaoshi",
       "zh": "书法。茶道。爬山。",
-      "sub": "继续说"
+      "sub": "继续说",
+      "en": "Calligraphy. Tea ceremony. Hiking."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……这些是非常\"白人在中国\"的爱好。"
+      "zh": "……这些是非常\"白人在中国\"的爱好。",
+      "en": "...Those are very \"white guy in China\" hobbies."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "嘿！这也是我的爱好！"
+      "zh": "嘿！这也是我的爱好！",
+      "en": "Hey! Those are my hobbies too!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "就是这个意思。"
+      "zh": "就是这个意思。",
+      "en": "Exactly my point."
     },
     {
       "type": "action",

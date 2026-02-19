@@ -17,139 +17,166 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我fumble了小李。"
+      "zh": "我fumble了小李。",
+      "en": "I fumbled 小李."
     },
     {
       "type": "line",
       "char": "wangbeng",
       "zh": "嗯。",
+      "en": "Mm.",
       "sub": "投篮"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "她说那个晚饭\"无聊\"。无聊！我从来没被人说无聊。我是那个每天晚上出去的人。我是fun guy。"
+      "zh": "她说那个晚饭\"无聊\"。无聊！我从来没被人说无聊。我是那个每天晚上出去的人。我是fun guy。",
+      "en": "She said the dinner was \"boring.\" Boring! Nobody's ever called me boring. I'm the guy who goes out every night. I'm the fun guy."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "也许这就是问题。"
+      "zh": "也许这就是问题。",
+      "en": "Maybe that's the problem."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "什么意思？"
+      "zh": "什么意思？",
+      "en": "What do you mean?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你在酒吧很fun。跟觉得你中文差很cute的中国女生在一起很fun。但小李是半美国人的。她不会觉得你的外国人身份有什么特别。"
+      "zh": "你在酒吧很fun。跟觉得你中文差很cute的中国女生在一起很fun。但小李是半美国人的。她不会觉得你的外国人身份有什么特别。",
+      "en": "You're fun at bars. Fun around Chinese girls who think your bad Chinese is cute. But 小李 is half American. She's not gonna think your foreigner status is anything special."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "她看穿你了。"
+      "zh": "她看穿你了。",
+      "en": "She saw right through you."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "看穿什么？"
+      "zh": "看穿什么？",
+      "en": "Saw through what?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你的整个人设。你在中国很自信因为你是白人。在中国当白人有bonus。但小李面前你没有这个bonus。她让你觉得你回到了Ohio。"
+      "zh": "你的整个人设。你在中国很自信因为你是白人。在中国当白人有bonus。但小李面前你没有这个bonus。她让你觉得你回到了Ohio。",
+      "en": "Your whole persona. You're confident in China because you're white. Being white in China comes with a bonus. But in front of 小李 you don't have that bonus. She makes you feel like you're back in Ohio."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我说错了吗？"
+      "zh": "我说错了吗？",
+      "en": "Am I wrong?"
     },
     {
       "type": "line",
       "char": "aizhong",
       "zh": "没有。你说得对。",
+      "en": "No. You're right.",
       "sub": "很久的停顿"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "她真的好好看。No cap。但是我在她面前说不出话来。脑子直接关机。只会说\"那……你喜欢火锅吗？\"像机器人一样。"
+      "zh": "她真的好好看。No cap。但是我在她面前说不出话来。脑子直接关机。只会说\"那……你喜欢火锅吗？\"像机器人一样。",
+      "en": "She's so pretty though. No cap. But I can't say anything in front of her. Brain just shuts down. All I can say is \"so... do you like hot pot?\" Like a robot."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "所以你喜欢她因为她漂亮又得不到。"
+      "zh": "所以你喜欢她因为她漂亮又得不到。",
+      "en": "So you like her because she's pretty and you can't have her."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……你这样说很难听。"
+      "zh": "……你这样说很难听。",
+      "en": "...That's a harsh way to put it."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "很honest。"
+      "zh": "很honest。",
+      "en": "Very honest."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你呢？你想过女生吗？还是只想台湾？"
+      "zh": "你呢？你想过女生吗？还是只想台湾？",
+      "en": "What about you? Ever think about girls? Or just Taiwan?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "小黑明显喜欢你。"
+      "zh": "小黑明显喜欢你。",
+      "en": "小黑 obviously likes you."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "什么？"
+      "zh": "什么？",
+      "en": "What?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "她每天请你喝奶茶。她跟你吵台湾的事就是为了让你跟她说话。"
+      "zh": "她每天请你喝奶茶。她跟你吵台湾的事就是为了让你跟她说话。",
+      "en": "She buys you boba every day. She argues with you about Taiwan just to get you to talk to her."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "她吵是因为她不同意我的观点。"
+      "zh": "她吵是因为她不同意我的观点。",
+      "en": "She argues because she disagrees with me."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "她吵是因为那是唯一能让你注意到她的方式。她一个广东女生才不会半夜看两岸关系的文章。她半夜在想你。"
+      "zh": "她吵是因为那是唯一能让你注意到她的方式。她一个广东女生才不会半夜看两岸关系的文章。她半夜在想你。",
+      "en": "She argues because it's the only way to get you to notice her. A Cantonese girl is not reading cross-strait relations articles at midnight. She's up thinking about you."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那不关我的事。"
+      "zh": "那不关我的事。",
+      "en": "That's not my problem."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "冷。"
+      "zh": "冷。",
+      "en": "Cold."
     },
     {
       "type": "action",
@@ -159,78 +186,93 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "嘿。你看。是老师。"
+      "zh": "嘿。你看。是老师。",
+      "en": "Hey. Look. It's the teacher."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "他在做跟我在酒吧做的一模一样的事。身体前倾。笑。买饮料。"
+      "zh": "他在做跟我在酒吧做的一模一样的事。身体前倾。笑。买饮料。",
+      "en": "He's doing the exact same thing I do at bars. Leaning in. Laughing. Buying drinks."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
       "zh": "老师也有game！",
+      "en": "Teacher's got game too!",
       "sub": "笑"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "他四十多岁了，在跟一个看起来二十岁的女生聊天。"
+      "zh": "他四十多岁了，在跟一个看起来二十岁的女生聊天。",
+      "en": "He's in his forties, chatting up a girl who looks twenty."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你觉得那好笑？"
+      "zh": "你觉得那好笑？",
+      "en": "You think that's funny?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我是说……他只是——"
+      "zh": "我是说……他只是——",
+      "en": "I mean... he's just--"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "他在做跟你一模一样的事。只是他做了十五年了。而且已经不charming了。只是sad了。"
+      "zh": "他在做跟你一模一样的事。只是他做了十五年了。而且已经不charming了。只是sad了。",
+      "en": "He's doing the exact same thing as you. Except he's been doing it for fifteen years. And it's not charming anymore. It's just sad."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……那不会是我。"
+      "zh": "……那不会是我。",
+      "en": "...That won't be me."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "已经有点是了。"
+      "zh": "已经有点是了。",
+      "en": "It already kind of is."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我说的是我觉得。"
+      "zh": "我说的是我觉得。",
+      "en": "Just my opinion."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……我知道。"
+      "zh": "……我知道。",
+      "en": "...I know."
     },
     {
       "type": "scene",

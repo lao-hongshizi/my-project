@@ -23,62 +23,74 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "去哪儿吃？我饿死了。"
+      "zh": "去哪儿吃？我饿死了。",
+      "en": "Where are we eating? I'm starving."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你们知道吗，台湾的小吃是全世界最好吃的。夜市文化——"
+      "zh": "你们知道吗，台湾的小吃是全世界最好吃的。夜市文化——",
+      "en": "You know, Taiwanese street food is the best in the world. The night market culture —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我们不在台湾。"
+      "zh": "我们不在台湾。",
+      "en": "We're not in Taiwan."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我是说如果附近有台湾餐厅——"
+      "zh": "我是说如果附近有台湾餐厅——",
+      "en": "I'm saying if there's a Taiwanese restaurant nearby —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "没有。有一家川菜馆、一家面馆、一家麦当劳。"
+      "zh": "没有。有一家川菜馆、一家面馆、一家麦当劳。",
+      "en": "There isn't. There's a Sichuan place, a noodle shop, and a McDonald's."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……面馆吧。"
+      "zh": "……面馆吧。",
+      "en": "...Noodle shop then."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我要点最辣的！我一直在训练我的辣度。"
+      "zh": "我要点最辣的！我一直在训练我的辣度。",
+      "en": "I'm ordering the spiciest one! I've been training my spice tolerance."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "训练？"
+      "zh": "训练？",
+      "en": "Training?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "对，我每周吃三次火锅。我基本上已经是四川人了。"
+      "zh": "对，我每周吃三次火锅。我基本上已经是四川人了。",
+      "en": "Yeah, I eat hotpot three times a week. I'm basically Sichuanese at this point."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你是Ohio人。"
+      "zh": "你是Ohio人。",
+      "en": "You're from Ohio."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "心灵上的四川人。"
+      "zh": "心灵上的四川人。",
+      "en": "Sichuanese at heart."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "这不是一个东西。"
+      "zh": "这不是一个东西。",
+      "en": "That's not a thing."
     },
     {
       "type": "scene",
@@ -93,104 +105,124 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "小李！你已经有吃的了？"
+      "zh": "小李！你已经有吃的了？",
+      "en": "小李! You already have food?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "路上点的。"
+      "zh": "路上点的。",
+      "en": "Ordered it on the way."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "但是我们是一起吃饭！这是重点！"
+      "zh": "但是我们是一起吃饭！这是重点！",
+      "en": "But we're eating together! That's the whole point!"
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "我人在这里了。",
-      "sub": "坐下，拿出麻辣烫"
+      "sub": "坐下，拿出麻辣烫",
+      "en": "I'm here, aren't I?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……也是。"
+      "zh": "……也是。",
+      "en": "...Fair enough."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你天天吃麻辣烫。"
+      "zh": "你天天吃麻辣烫。",
+      "en": "You eat malatang every single day."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "好吃。"
+      "zh": "好吃。",
+      "en": "It's good."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "不腻吗？"
+      "zh": "不腻吗？",
+      "en": "Don't you get sick of it?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "不。"
+      "zh": "不。",
+      "en": "No."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我都在减肥了都觉得你需要换个花样。"
+      "zh": "我都在减肥了都觉得你需要换个花样。",
+      "en": "Even I'm on a diet and I think you need to switch it up."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "你不需要减肥。"
+      "zh": "你不需要减肥。",
+      "en": "You don't need to diet."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你不懂。中国的审美标准——"
+      "zh": "你不懂。中国的审美标准——",
+      "en": "You don't get it. Chinese beauty standards —"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "不健康也不现实。"
+      "zh": "不健康也不现实。",
+      "en": "Are unhealthy and unrealistic."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你当然可以这么说。你天生就瘦。"
+      "zh": "你当然可以这么说。你天生就瘦。",
+      "en": "Easy for you to say. You're naturally skinny."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "那是基因，不是努力。"
+      "zh": "那是基因，不是努力。",
+      "en": "That's genetics, not effort."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "所以！有的人必须努力！"
+      "zh": "所以！有的人必须努力！",
+      "en": "Exactly! Some people have to try!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……那是美白产品？"
+      "zh": "……那是美白产品？",
+      "en": "...Is that a skin whitening product?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "是提亮霜。有区别。"
+      "zh": "是提亮霜。有区别。",
+      "en": "It's brightening cream. There's a difference."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "没区别。"
+      "zh": "没区别。",
+      "en": "No there isn't."
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "她开心就好。",
-      "sub": "没抬头"
+      "sub": "没抬头",
+      "en": "Let her be happy."
     },
     {
       "type": "action",
@@ -201,32 +233,38 @@
       "type": "line",
       "char": "aizhong",
       "zh": "没事……这个……很好……",
-      "sub": "流汗"
+      "sub": "流汗",
+      "en": "I'm fine... this is... great..."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你在哭。"
+      "zh": "你在哭。",
+      "en": "You're crying."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "这是flavor tears！"
+      "zh": "这是flavor tears！",
+      "en": "These are flavor tears!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你应该点中辣。"
+      "zh": "你应该点中辣。",
+      "en": "You should've ordered medium spicy."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Sigma不点中辣。"
+      "zh": "Sigma不点中辣。",
+      "en": "Sigmas don't order medium spicy."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "Sigma也不会哭着吃面。"
+      "zh": "Sigma也不会哭着吃面。",
+      "en": "Sigmas also don't cry while eating noodles."
     },
     {
       "type": "action",
@@ -237,28 +275,33 @@
       "type": "line",
       "char": "aizhong",
       "zh": "好好好。Fair。但是——\"bussin\"中文怎么说？因为这碗面bussin得要命，虽然在杀我。",
-      "sub": "擦鼻涕"
+      "sub": "擦鼻涕",
+      "en": "Okay okay okay. Fair. But — how do you say \"bussin\" in Chinese? Because this bowl is bussin af, even though it's killing me."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "绝了。或者好吃到爆。"
+      "zh": "绝了。或者好吃到爆。",
+      "en": "绝了. Or 好吃到爆."
     },
     {
       "type": "line",
       "char": "aizhong",
       "zh": "绝了……你是怎么知道这些的？",
-      "sub": "拿笔记下来"
+      "sub": "拿笔记下来",
+      "en": "绝了... How do you know all this stuff?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……我说了。我看书。"
+      "zh": "……我说了。我看书。",
+      "en": "...I told you. I read."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你真的是我认识的最聪明的人。"
+      "zh": "你真的是我认识的最聪明的人。",
+      "en": "You're genuinely the smartest person I know."
     },
     {
       "type": "action",
@@ -273,52 +316,62 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "吃完去买奶茶吧？"
+      "zh": "吃完去买奶茶吧？",
+      "en": "Wanna get boba after we're done?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "好啊。你知道珍珠奶茶是台湾发明的吗？1980年代——"
+      "zh": "好啊。你知道珍珠奶茶是台湾发明的吗？1980年代——",
+      "en": "Sure. Did you know bubble tea was invented in Taiwan? In the 1980s —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "知道了你说过八百次了。"
+      "zh": "知道了你说过八百次了。",
+      "en": "We know, you've said it eight hundred times."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "但是每次买奶茶之前都应该记住这个事实。"
+      "zh": "但是每次买奶茶之前都应该记住这个事实。",
+      "en": "But you should remember this fact every time before buying boba."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我知道怎么点！七分糖少冰！这是我每天出去学到的。"
+      "zh": "我知道怎么点！七分糖少冰！这是我每天出去学到的。",
+      "en": "I know how to order! 70% sugar, less ice! I learned this from going out every day."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……你真的会点奶茶。"
+      "zh": "……你真的会点奶茶。",
+      "en": "...You actually know how to order boba."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Bro，我来了三个月了。我每天出去的时间比你们加起来都多。街就是我的教室。"
+      "zh": "Bro，我来了三个月了。我每天出去的时间比你们加起来都多。街就是我的教室。",
+      "en": "Bro, I've been here three months. I go out more every day than all of you combined. The streets are my classroom."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "这个……不算完全错。"
+      "zh": "这个……不算完全错。",
+      "en": "That's... not entirely wrong."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "有一点错。"
+      "zh": "有一点错。",
+      "en": "A little wrong."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "但也有一点对！走吧走吧！"
+      "zh": "但也有一点对！走吧走吧！",
+      "en": "But also a little right! Let's go let's go!"
     },
     {
       "type": "scene",

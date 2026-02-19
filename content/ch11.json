@@ -17,62 +17,74 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "这个周六是我生日！！🎂🎂 我请大家吃饭！东门那家火锅店！六点！来！"
+      "zh": "这个周六是我生日！！🎂🎂 我请大家吃饭！东门那家火锅店！六点！来！",
+      "en": "This Saturday is my birthday!! 🎂🎂 Dinner's on me! That hot pot place by the east gate! Six o'clock! Come!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我有经济学study group。"
+      "zh": "我有经济学study group。",
+      "en": "I have an econ study group."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我在洗头。"
+      "zh": "我在洗头。",
+      "en": "I'm washing my hair."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你每次都说在洗头！"
+      "zh": "你每次都说在洗头！",
+      "en": "You say that every time!"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我头发多。"
+      "zh": "我头发多。",
+      "en": "I have a lot of hair."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "[已读]"
+      "zh": "[已读]",
+      "en": "[Read]"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "小李？"
+      "zh": "小李？",
+      "en": "小李?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "可能有事。"
+      "zh": "可能有事。",
+      "en": "Might have something."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "\"可能\"？？是我的生日！"
+      "zh": "\"可能\"？？是我的生日！",
+      "en": "\"Might\"?? It's my birthday!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "[打字中…… 打字中…… 打字中……]"
+      "zh": "[打字中…… 打字中…… 打字中……]",
+      "en": "[Typing... typing... typing...]"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "那天好像有事。不确定。"
+      "zh": "那天好像有事。不确定。",
+      "en": "I think I have something that day. Not sure."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你们都不行。我自己去。"
+      "zh": "你们都不行。我自己去。",
+      "en": "None of you can make it. Fine. I'll go alone."
     },
     {
       "type": "scene",
@@ -87,77 +99,92 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "[视频]"
+      "zh": "[视频]",
+      "en": "[Video]"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "谢谢你们的nothing！自己过了最好的生日！这些是我的新朋友！"
+      "zh": "谢谢你们的nothing！自己过了最好的生日！这些是我的新朋友！",
+      "en": "Thanks for nothing! Had the best birthday by myself! These are my new friends!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……你是怎么做到的？"
+      "zh": "……你是怎么做到的？",
+      "en": "...How do you do that?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "做到什么？"
+      "zh": "做到什么？",
+      "en": "Do what?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "二十分钟跟陌生人成为朋友。"
+      "zh": "二十分钟跟陌生人成为朋友。",
+      "en": "Become friends with strangers in twenty minutes."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我就是跟人说话。你们都怕真实的世界。我住在里面。"
+      "zh": "我就是跟人说话。你们都怕真实的世界。我住在里面。",
+      "en": "I just talk to people. You guys are all scared of the real world. I live in it."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "有没有人觉得有点guilty？"
+      "zh": "有没有人觉得有点guilty？",
+      "en": "Does anyone else feel a little guilty?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我应该去的。"
+      "zh": "我应该去的。",
+      "en": "I should have gone."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "清清……"
+      "zh": "清清……",
+      "en": "清清..."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "什么？"
+      "zh": "什么？",
+      "en": "What?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "没什么。对于一个\"不喜欢他\"的人来说，你想得挺多的。"
+      "zh": "没什么。对于一个\"不喜欢他\"的人来说，你想得挺多的。",
+      "en": "Nothing. For someone who \"doesn't like him,\" you sure think about him a lot."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "Guilt和crush的感觉一样。"
+      "zh": "Guilt和crush的感觉一样。",
+      "en": "Guilt and a crush feel the same."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "完全不一样。"
+      "zh": "完全不一样。",
+      "en": "They're completely different."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "随你。"
+      "zh": "随你。",
+      "en": "Whatever you say."
     }
   ],
   "vocab": [],

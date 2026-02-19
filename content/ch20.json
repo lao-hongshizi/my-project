@@ -38,37 +38,44 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "同学们。今天是最后一节课了。"
+      "zh": "同学们。今天是最后一节课了。",
+      "en": "Class. Today is our last session."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "最后一节？？"
+      "zh": "最后一节？？",
+      "en": "Last one??"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "学期快结束了。在结束之前，我想问你们每个人：下学期你会做什么？"
+      "zh": "学期快结束了。在结束之前，我想问你们每个人：下学期你会做什么？",
+      "en": "The semester's almost over. Before it ends, I want to ask each of you: what will you do next semester?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "矮中。你先。"
+      "zh": "矮中。你先。",
+      "en": "矮中. You first."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我要继续学中文。真的学。不只是酒吧中文。我想看得懂菜单、路牌、书。我想听得懂别人说话快的时候在说什么。"
+      "zh": "我要继续学中文。真的学。不只是酒吧中文。我想看得懂菜单、路牌、书。我想听得懂别人说话快的时候在说什么。",
+      "en": "I'm gonna keep studying Chinese. Actually study. Not just bar Chinese. I want to read menus, street signs, books. I want to understand what people are saying when they talk fast."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "进步了。"
+      "zh": "进步了。",
+      "en": "Progress."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "还有——我想学繁体字。"
+      "zh": "还有——我想学繁体字。",
+      "en": "Also-- I want to learn traditional characters."
     },
     {
       "type": "action",
@@ -78,165 +85,197 @@
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……你说什么？"
+      "zh": "……你说什么？",
+      "en": "...what did you just say?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "繁体字。你说得对。如果我真的要学，应该两套都学。"
+      "zh": "繁体字。你说得对。如果我真的要学，应该两套都学。",
+      "en": "Traditional characters. You were right. If I'm really gonna learn, I should learn both systems."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……我教你。"
+      "zh": "……我教你。",
+      "en": "...I'll teach you."
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "卧槽。",
+      "en": "Holy shit.",
       "sub": "几乎听不到"
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "清清刚才说脏话了？？",
+      "en": "Did 清清 just swear??",
       "sub": "听到了，小声说"
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "我没有。",
+      "en": "I didn't.",
       "sub": "脸红"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "王崩？"
+      "zh": "王崩？",
+      "en": "王崩?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "暑假回台湾。然后回来。"
+      "zh": "暑假回台湾。然后回来。",
+      "en": "Going back to Taiwan for the summer. Then coming back."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你会回来？"
+      "zh": "你会回来？",
+      "en": "You'll come back?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "会。"
+      "zh": "会。",
+      "en": "Yeah."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你确定？"
+      "zh": "你确定？",
+      "en": "You sure?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "确定。"
+      "zh": "确定。",
+      "en": "Sure."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "小黑？"
+      "zh": "小黑？",
+      "en": "小黑?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "暑假继续上课。继续improve我的普通话。让别人别再觉得我是外国人。"
+      "zh": "暑假继续上课。继续improve我的普通话。让别人别再觉得我是外国人。",
+      "en": "Keep taking classes over summer. Keep improving my Mandarin. So people stop thinking I'm a foreigner."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "你不是外国人。"
+      "zh": "你不是外国人。",
+      "en": "You're not a foreigner."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我知道。我只是想让别人也知道。"
+      "zh": "我知道。我只是想让别人也知道。",
+      "en": "I know. I just want everyone else to know too."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……还有。我可能不用美白霜了。"
+      "zh": "……还有。我可能不用美白霜了。",
+      "en": "...also. I might stop using the whitening cream."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "真的？"
+      "zh": "真的？",
+      "en": "Really?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "试试看吧。"
+      "zh": "试试看吧。",
+      "en": "We'll see."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "清清？"
+      "zh": "清清？",
+      "en": "清清?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我要……试着做不一样的事。多出去。跟人说话。不只是在图书馆。用slang。少一点rigid。"
+      "zh": "我要……试着做不一样的事。多出去。跟人说话。不只是在图书馆。用slang。少一点rigid。",
+      "en": "I'm going to... try doing things differently. Go out more. Talk to people. Not just in the library. Use slang. Be less rigid."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你可以跟我去酒吧！我教你怎么点shot！"
+      "zh": "你可以跟我去酒吧！我教你怎么点shot！",
+      "en": "You can come to the bar with me! I'll teach you how to order shots!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……先从奶茶开始吧。"
+      "zh": "……先从奶茶开始吧。",
+      "en": "...let's start with boba first."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Deal。"
+      "zh": "Deal。",
+      "en": "Deal."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "小李？"
+      "zh": "小李？",
+      "en": "小李?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我不回来了。"
+      "zh": "我不回来了。",
+      "en": "I'm not coming back."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "什么？？"
+      "zh": "什么？？",
+      "en": "What??"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我要转学。去另一个学校。"
+      "zh": "我要转学。去另一个学校。",
+      "en": "I'm transferring. To another school."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……去哪里？"
+      "zh": "……去哪里？",
+      "en": "...where?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "还不知道。但不是这里。"
+      "zh": "还不知道。但不是这里。",
+      "en": "Don't know yet. But not here."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "为什么？"
+      "zh": "为什么？",
+      "en": "Why?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "因为我需要重新开始。我需要弄清楚我是谁。不是每天floating的那个我。不是对所有事和所有人都说\"随便\"的那个我。"
+      "zh": "因为我需要重新开始。我需要弄清楚我是谁。不是每天floating的那个我。不是对所有事和所有人都说\"随便\"的那个我。",
+      "en": "Because I need a fresh start. I need to figure out who I am. Not the me that's been floating every day. Not the me who says \"whatever\" to everything and everyone."
     },
     {
       "type": "action",
@@ -246,28 +285,33 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "我也想说几句。"
+      "zh": "我也想说几句。",
+      "en": "I'd like to say a few words too."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "没人问你。"
+      "zh": "没人问你。",
+      "en": "Nobody asked you."
     },
     {
       "type": "line",
       "char": "guailaoshi",
       "zh": "我知道。但最后一节课了。让我说。",
+      "en": "I know. But it's the last class. Let me talk.",
       "sub": "笑"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "这学期我从你们身上学到的比你们从我这里学到的多。这不是compliment——这是confession。我十五年前来中国因为我爱这个文化。但不知道从什么时候开始，我不再在学了。我在……演。我是那个\"cool的外国老师\"。我以为那就够了。"
+      "zh": "这学期我从你们身上学到的比你们从我这里学到的多。这不是compliment——这是confession。我十五年前来中国因为我爱这个文化。但不知道从什么时候开始，我不再在学了。我在……演。我是那个\"cool的外国老师\"。我以为那就够了。",
+      "en": "This semester I learned more from you than you learned from me. That's not a compliment-- it's a confession. I came to China fifteen years ago because I loved the culture. But at some point, I stopped learning. I was... performing. I was the \"cool foreign teacher.\" I thought that was enough."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "我这学期做了一些我不骄傲的事。说了不应该说的话。发了不应该发的消息。你们对我比我deserve的要有耐心得多。对不起。"
+      "zh": "我这学期做了一些我不骄傲的事。说了不应该说的话。发了不应该发的消息。你们对我比我deserve的要有耐心得多。对不起。",
+      "en": "This semester I did things I'm not proud of. Said things I shouldn't have said. Sent messages I shouldn't have sent. You were all more patient with me than I deserved. I'm sorry."
     },
     {
       "type": "action",
@@ -277,32 +321,38 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "下学期我也不在这个学校了。"
+      "zh": "下学期我也不在这个学校了。",
+      "en": "I won't be at this school next semester either."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "什么？为什么？"
+      "zh": "什么？为什么？",
+      "en": "What? Why?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "因为有人帮我理解了：我需要改变。在这里做一样的事我改变不了。"
+      "zh": "因为有人帮我理解了：我需要改变。在这里做一样的事我改变不了。",
+      "en": "Because someone helped me understand: I need to change. I can't change by doing the same thing here."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……是谁告诉你的？"
+      "zh": "……是谁告诉你的？",
+      "en": "...who told you that?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "一个很勇敢的人。"
+      "zh": "一个很勇敢的人。",
+      "en": "A very brave person."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我不需要这个了。"
+      "zh": "我不需要这个了。",
+      "en": "I don't need this anymore."
     },
     {
       "type": "action",
@@ -312,22 +362,26 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "拍合照！最后一天！"
+      "zh": "拍合照！最后一天！",
+      "en": "Group photo! Last day!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "不要。"
+      "zh": "不要。",
+      "en": "No."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "拍拍拍！"
+      "zh": "拍拍拍！",
+      "en": "Take it take it take it!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……行吧。"
+      "zh": "……行吧。",
+      "en": "...fine."
     },
     {
       "type": "action",
@@ -337,37 +391,44 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "下学期见！"
+      "zh": "下学期见！",
+      "en": "See you next semester!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "看情况。"
+      "zh": "看情况。",
+      "en": "We'll see."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你说了你会回来的！"
+      "zh": "你说了你会回来的！",
+      "en": "You said you'd come back!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我会。我说\"看情况\"是说矮中学繁体字的事。"
+      "zh": "我会。我说\"看情况\"是说矮中学繁体字的事。",
+      "en": "I will. The \"we'll see\" was about teaching 矮中 traditional characters."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你答应了！"
+      "zh": "你答应了！",
+      "en": "You promised!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我说我教你。我没说你学得会。"
+      "zh": "我说我教你。我没说你学得会。",
+      "en": "I said I'd teach you. I didn't say you'd be able to learn."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……也是。"
+      "zh": "……也是。",
+      "en": "...fair point."
     },
     {
       "type": "action",
@@ -382,33 +443,39 @@
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "老师。"
+      "zh": "老师。",
+      "en": "Teacher."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……别叫我老师了。"
+      "zh": "……别叫我老师了。",
+      "en": "...don't call me teacher anymore."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "……那叫你什么？"
+      "zh": "……那叫你什么？",
+      "en": "...then what do I call you?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……我还不知道。"
+      "zh": "……我还不知道。",
+      "en": "...I don't know yet."
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "……谢谢你。谢谢你不再叫我漂亮了。",
+      "en": "...thank you. Thank you for not calling me pretty anymore.",
       "sub": "笑了一点"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……谢谢你告诉我停下来。"
+      "zh": "……谢谢你告诉我停下来。",
+      "en": "...thank you for telling me to stop."
     },
     {
       "type": "action",

@@ -18,195 +18,233 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "今天我们说一下家人。你家有几口人？矮中，你先。"
+      "zh": "今天我们说一下家人。你家有几口人？矮中，你先。",
+      "en": "Today we're talking about family. How many people are in your family? 矮中, you first."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我家有五口人！爸爸、妈妈、两个哥哥、还有我。我爸是牙医，我妈是护士。我们是Ohio的！"
+      "zh": "我家有五口人！爸爸、妈妈、两个哥哥、还有我。我爸是牙医，我妈是护士。我们是Ohio的！",
+      "en": "Five people in my family! Dad, mom, two older brothers, and me. My dad's a dentist, my mom's a nurse. We're from Ohio!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "当然是Ohio。"
+      "zh": "当然是Ohio。",
+      "en": "Of course it's Ohio."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Ohio怎么了？"
+      "zh": "Ohio怎么了？",
+      "en": "What's wrong with Ohio?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "没有。一切都说得通了。"
+      "zh": "没有。一切都说得通了。",
+      "en": "Nothing. Everything makes sense now."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "清清？"
+      "zh": "清清？",
+      "en": "清清?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我家有四口人。我爸做金融，我妈也做金融。我弟弟在英国读寄宿学校。"
+      "zh": "我家有四口人。我爸做金融，我妈也做金融。我弟弟在英国读寄宿学校。",
+      "en": "Four people. My dad works in finance, my mom also works in finance. My little brother goes to boarding school in England."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "富婆alert。",
-      "sub": "对小李小声说"
+      "sub": "对小李小声说",
+      "en": "Rich girl alert."
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "早知道了。",
-      "sub": "小声"
+      "sub": "小声",
+      "en": "Already knew that."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我听得见。"
+      "zh": "我听得见。",
+      "en": "I can hear you."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "王崩？"
+      "zh": "王崩？",
+      "en": "王崩?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "三个人。我爸、我妈、还有我。我们住在台北。我爸做小生意。我妈——我妈做的卤肉饭是全台北最好吃的。不对，是全台湾最好吃的。你们知道卤肉饭吗？那是台湾的national dish——"
+      "zh": "三个人。我爸、我妈、还有我。我们住在台北。我爸做小生意。我妈——我妈做的卤肉饭是全台北最好吃的。不对，是全台湾最好吃的。你们知道卤肉饭吗？那是台湾的national dish——",
+      "en": "Three people. My dad, my mom, and me. We live in Taipei. My dad runs a small business. My mom — my mom makes the best braised pork rice in all of Taipei. No wait, the best in all of Taiwan. Do you guys know braised pork rice? It's Taiwan's national dish —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你能不能不提台湾？"
+      "zh": "你能不能不提台湾？",
+      "en": "Can you not bring up Taiwan?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我在说我妈的菜！"
+      "zh": "我在说我妈的菜！",
+      "en": "I'm talking about my mom's cooking!"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你在说台湾。又。"
+      "zh": "你在说台湾。又。",
+      "en": "You're talking about Taiwan. Again."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我妈住在台湾，她做的菜在台湾，所以——"
+      "zh": "我妈住在台湾，她做的菜在台湾，所以——",
+      "en": "My mom lives in Taiwan, her cooking is in Taiwan, so —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我家是广东的。你有没有看到我每五秒钟提一次广东？"
+      "zh": "我家是广东的。你有没有看到我每五秒钟提一次广东？",
+      "en": "I'm from Guangdong. Do you see me bringing up Guangdong every five seconds?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……你刚刚提了。"
+      "zh": "……你刚刚提了。",
+      "en": "...You just did."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……闭嘴。"
+      "zh": "……闭嘴。",
+      "en": "...Shut up."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "小黑，说一下你的家人？"
+      "zh": "小黑，说一下你的家人？",
+      "en": "小黑, tell us about your family?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "两个人。我跟我妈。我爸……在。理论上在。他一直出差。从小就出差。我不太知道他做什么。我妈在家。她是\"网红\"。"
+      "zh": "两个人。我跟我妈。我爸……在。理论上在。他一直出差。从小就出差。我不太知道他做什么。我妈在家。她是\"网红\"。",
+      "en": "Two people. Me and my mom. My dad... exists. Theoretically. He's always on business trips. Has been since I was little. I don't really know what he does. My mom stays home. She's an \"influencer.\""
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "哇好酷！什么类型的？"
+      "zh": "哇好酷！什么类型的？",
+      "en": "Whoa, cool! What kind?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "就那种……两百个粉丝、假装有二十万粉丝的那种。她发不是她做的菜的照片，住不起的酒店的照片。反正她很忙。"
+      "zh": "就那种……两百个粉丝、假装有二十万粉丝的那种。她发不是她做的菜的照片，住不起的酒店的照片。反正她很忙。",
+      "en": "The kind with... two hundred followers pretending she has two hundred thousand. She posts photos of food she didn't cook, hotels she can't afford. Anyway, she's very busy."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……哦。"
+      "zh": "……哦。",
+      "en": "...Oh."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "小李？"
+      "zh": "小李？",
+      "en": "小李?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我爸妈离婚了。我爸是美国人。我妈是中国人。我跟我爸住。我跟我妈……不太……"
+      "zh": "我爸妈离婚了。我爸是美国人。我妈是中国人。我跟我爸住。我跟我妈……不太……",
+      "en": "My parents are divorced. My dad's American. My mom's Chinese. I live with my dad. Me and my mom... don't really..."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "不太什么？"
+      "zh": "不太什么？",
+      "en": "Don't really what?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "……说话。"
+      "zh": "……说话。",
+      "en": "...Talk."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那挺难的。"
+      "zh": "那挺难的。",
+      "en": "That's rough."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "没事。"
+      "zh": "没事。",
+      "en": "It's fine."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "那我也说说我的家庭——"
+      "zh": "那我也说说我的家庭——",
+      "en": "Let me also share about my family —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "没人问你。"
+      "zh": "没人问你。",
+      "en": "Nobody asked you."
     },
     {
       "type": "line",
       "char": "guailaoshi",
       "zh": "好吧。但是既然大家都分享了——我也离婚了。没有小孩。一个人住。",
-      "sub": "笑"
+      "sub": "笑",
+      "en": "Fair enough. But since everyone shared — I'm also divorced. No kids. Live alone."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "老师，你为什么来中国？"
+      "zh": "老师，你为什么来中国？",
+      "en": "Teacher, why did you come to China?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "我说了。因为我爱这个文化。"
+      "zh": "我说了。因为我爱这个文化。",
+      "en": "I told you. Because I love the culture."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那你说了。但是你为什么留下来了？"
+      "zh": "那你说了。但是你为什么留下来了？",
+      "en": "Yeah, you said that. But why did you stay?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……这个比较私人。"
+      "zh": "……这个比较私人。",
+      "en": "...That's kind of personal."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "小李的家庭情况也比较私人。你还是问了。"
+      "zh": "小李的家庭情况也比较私人。你还是问了。",
+      "en": "小李's family situation is also pretty personal. You still asked."
     },
     {
       "type": "action",
@@ -217,7 +255,8 @@
       "type": "line",
       "char": "qingqing",
       "zh": "……说得好。",
-      "sub": "小声自言自语"
+      "sub": "小声自言自语",
+      "en": "...Good point."
     },
     {
       "type": "scene",

@@ -22,22 +22,26 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "怪老师又发私信了。越来越过分。"
+      "zh": "怪老师又发私信了。越来越过分。",
+      "en": "怪老师 sent DMs again. Getting worse and worse."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "[截图]"
+      "zh": "[截图]",
+      "en": "[Screenshot]"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "太恶心了。他在评论我的衣服。"
+      "zh": "太恶心了。他在评论我的衣服。",
+      "en": "So disgusting. He's commenting on my clothes."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "[截图]"
+      "zh": "[截图]",
+      "en": "[Screenshot]"
     },
     {
       "type": "action",
@@ -47,62 +51,74 @@
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "太假了。用学术的名义。"
+      "zh": "太假了。用学术的名义。",
+      "en": "So fake. Using academics as a cover."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "小李呢？他给你发什么了？"
+      "zh": "小李呢？他给你发什么了？",
+      "en": "What about 小李? What did he send you?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "也发了。"
+      "zh": "也发了。",
+      "en": "He messaged me too."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "说什么？"
+      "zh": "说什么？",
+      "en": "Saying what?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "说他的办公室随时open。如果我想聊天可以去找他。他泡了茶。"
+      "zh": "说他的办公室随时open。如果我想聊天可以去找他。他泡了茶。",
+      "en": "Said his office is always open. I can come by to chat anytime. He made tea."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "\"泡了茶\"？？！太过分了！"
+      "zh": "\"泡了茶\"？？！太过分了！",
+      "en": "\"Made tea\"??! That's way too much!"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "……但其实挺sweet的？他注意到我最近不太开心。"
+      "zh": "……但其实挺sweet的？他注意到我最近不太开心。",
+      "en": "...But it's actually kinda sweet? He noticed I haven't been happy lately."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "小李。老师不应该给你发这种私信。"
+      "zh": "小李。老师不应该给你发这种私信。",
+      "en": "小李. A teacher shouldn't be sending you DMs like that."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "注意：他只给女生发。王崩和矮中没收到。"
+      "zh": "注意：他只给女生发。王崩和矮中没收到。",
+      "en": "Notice: he only messages the girls. 王崩 and 矮中 didn't get any."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "……也许是因为我们需要更多帮助？"
+      "zh": "……也许是因为我们需要更多帮助？",
+      "en": "...Maybe it's because we need more help?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "他有病。"
+      "zh": "他有病。",
+      "en": "He's messed up."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "你们想太多了。"
+      "zh": "你们想太多了。",
+      "en": "You guys are overthinking it."
     },
     {
       "type": "scene",
@@ -112,115 +128,137 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我需要买新衣服。什么颜色好看？"
+      "zh": "我需要买新衣服。什么颜色好看？",
+      "en": "I need new clothes. What color looks good?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "你喜欢什么颜色就买什么颜色。"
+      "zh": "你喜欢什么颜色就买什么颜色。",
+      "en": "Just buy whatever color you like."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我想要显白的颜色。"
+      "zh": "我想要显白的颜色。",
+      "en": "I want a color that makes my skin look lighter."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "别给我那个表情。黑色和深蓝色显白。这是common sense。"
+      "zh": "别给我那个表情。黑色和深蓝色显白。这是common sense。",
+      "en": "Don't give me that look. Black and dark blue make skin look lighter. It's common sense."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "你穿什么都好看。别overthink。"
+      "zh": "你穿什么都好看。别overthink。",
+      "en": "You look good in anything. Don't overthink it."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "太白了。显得我更黑。",
+      "en": "Too white. Makes me look even darker.",
       "sub": "拿起一件白色上衣，在镜子前比了比，放下了"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "小黑。你的皮肤没有问题。是标准有问题。"
+      "zh": "小黑。你的皮肤没有问题。是标准有问题。",
+      "en": "小黑. There's nothing wrong with your skin. The standard is the problem."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你知道一白遮三丑吗？这不是我发明的。这是中国文化说的。"
+      "zh": "你知道一白遮三丑吗？这不是我发明的。这是中国文化说的。",
+      "en": "You know the saying \"one shade of white hides three flaws\"? I didn't make that up. Chinese culture says it."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "中国文化说了很多东西。不是每一个都对。"
+      "zh": "中国文化说了很多东西。不是每一个都对。",
+      "en": "Chinese culture says a lot of things. Not all of them are right."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "这个多少钱？",
+      "en": "How much is this?",
       "sub": "试了一件oversize的黑色卫衣"
     },
     {
       "type": "line",
       "char": "narrator",
-      "zh": "二百八。"
+      "zh": "二百八。",
+      "en": "280 yuan."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "有没有更大的size？"
+      "zh": "有没有更大的size？",
+      "en": "Do you have a bigger size?"
     },
     {
       "type": "line",
       "char": "narrator",
-      "zh": "那个已经是最大号了。"
+      "zh": "那个已经是最大号了。",
+      "en": "That's already the biggest size."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "那就这个吧。"
+      "zh": "那就这个吧。",
+      "en": "This one then."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你买的衣服都像你爸爸的。"
+      "zh": "你买的衣服都像你爸爸的。",
+      "en": "Everything you buy looks like your dad's."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "舒服就行。"
+      "zh": "舒服就行。",
+      "en": "Comfortable is all that matters."
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "这个呢？",
+      "en": "How about this one?",
       "sub": "试了一件结构感很强的blazer"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "太正式了吧。你去上班还是去上课？"
+      "zh": "太正式了吧。你去上班还是去上课？",
+      "en": "Way too formal. Are you going to work or going to class?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……我平时就是这样穿的。"
+      "zh": "……我平时就是这样穿的。",
+      "en": "...This is how I normally dress."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "那就是问题所在。来。穿这个。"
+      "zh": "那就是问题所在。来。穿这个。",
+      "en": "That's the problem. Here. Try this on."
     },
     {
       "type": "action",
@@ -230,37 +268,44 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "卧槽。清清。你……"
+      "zh": "卧槽。清清。你……",
+      "en": "Damn. 清清. You..."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……什么？"
+      "zh": "……什么？",
+      "en": "...What?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你好看。"
+      "zh": "你好看。",
+      "en": "You look good."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "请停下来。"
+      "zh": "请停下来。",
+      "en": "Please stop."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我说真的。矮中看到你这样穿会——"
+      "zh": "我说真的。矮中看到你这样穿会——",
+      "en": "I'm serious. If 矮中 sees you dressed like this he'll--"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我不是为矮中穿的！"
+      "zh": "我不是为矮中穿的！",
+      "en": "I'm not wearing it for 矮中!"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "那你为什么脸红了？"
+      "zh": "那你为什么脸红了？",
+      "en": "Then why are you blushing?"
     },
     {
       "type": "scene",

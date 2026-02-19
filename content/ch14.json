@@ -18,78 +18,93 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "来来来！大家先喝一杯再出去！"
+      "zh": "来来来！大家先喝一杯再出去！",
+      "en": "Come come come! Everyone have a drink before we head out!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我不喝白酒。"
+      "zh": "我不喝白酒。",
+      "en": "I don't drink baijiu."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "为什么？"
+      "zh": "为什么？",
+      "en": "Why?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "因为台湾啤酒是世界上最好的酒。"
+      "zh": "因为台湾啤酒是世界上最好的酒。",
+      "en": "Because Taiwan Beer is the best beer in the world."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "第三次。今天。"
+      "zh": "第三次。今天。",
+      "en": "Third time. Today."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那是fact。台湾啤酒在国际比赛上拿过奖的。"
+      "zh": "那是fact。台湾啤酒在国际比赛上拿过奖的。",
+      "en": "That's a fact. Taiwan Beer has won international awards."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Bro，这是白酒！中国国粹！你来中国不喝白酒就等于没来！"
+      "zh": "Bro，这是白酒！中国国粹！你来中国不喝白酒就等于没来！",
+      "en": "Bro, this is baijiu! A national treasure! Coming to China and not drinking baijiu is like not coming at all!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "台湾也有高粱酒。金门高粱比大陆白酒——"
+      "zh": "台湾也有高粱酒。金门高粱比大陆白酒——",
+      "en": "Taiwan has sorghum wine too. Kinmen Kaoliang is better than mainland baijiu--"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "天啊你能不能闭嘴喝酒。"
+      "zh": "天啊你能不能闭嘴喝酒。",
+      "en": "Oh my god can you shut up and drink."
     },
     {
       "type": "line",
       "char": "aizhong",
       "zh": "来来来。干杯！",
+      "en": "Come come come. Cheers!",
       "sub": "倒白酒给大家"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我真的不喝酒。"
+      "zh": "我真的不喝酒。",
+      "en": "I really don't drink."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "一小口！就一小口！"
+      "zh": "一小口！就一小口！",
+      "en": "One tiny sip! Just one tiny sip!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Qingqing。Please。就今晚。live a little。"
+      "zh": "Qingqing。Please。就今晚。live a little。",
+      "en": "Qingqing. Please. Just tonight. Live a little."
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "……只喝一口。",
+      "en": "...just one sip.",
       "sub": "拿起杯子，看了看"
     },
     {
@@ -100,110 +115,131 @@
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "天啊这是什么？！像喝火一样！"
+      "zh": "天啊这是什么？！像喝火一样！",
+      "en": "Oh my god what IS this?! It's like drinking fire!"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "哈哈哈！那就是白酒！52度的！"
+      "zh": "哈哈哈！那就是白酒！52度的！",
+      "en": "Hahaha! That's baijiu! 52 proof!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "52度？？这不是酒这是毒药！"
+      "zh": "52度？？这不是酒这是毒药！",
+      "en": "52%?? This isn't alcohol, this is poison!"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我说的。应该喝台湾啤酒。"
+      "zh": "我说的。应该喝台湾啤酒。",
+      "en": "Told you. Should've had Taiwan Beer."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "第四次。"
+      "zh": "第四次。",
+      "en": "Fourth time."
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "还有吗？",
+      "en": "Got any more?",
       "sub": "一口干了"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……你干了？！"
+      "zh": "……你干了？！",
+      "en": "...you downed it?!"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "嗯。不错。有点辣。"
+      "zh": "嗯。不错。有点辣。",
+      "en": "Mm. Not bad. A bit spicy."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那是白酒！大部分人第一次喝白酒会吐！"
+      "zh": "那是白酒！大部分人第一次喝白酒会吐！",
+      "en": "That's baijiu! Most people throw up their first time drinking it!"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "也许我不是大部分人。"
+      "zh": "也许我不是大部分人。",
+      "en": "Maybe I'm not most people."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "嗯……其实还行。后味有一种——",
+      "en": "Mm... actually not bad. The aftertaste has this sort of--",
       "sub": "也喝了一口"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "痛苦。后味是痛苦。"
+      "zh": "痛苦。后味是痛苦。",
+      "en": "Suffering. The aftertaste is suffering."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我要说的是fruit味。"
+      "zh": "我要说的是fruit味。",
+      "en": "I was gonna say fruity."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那是你的大脑在骗你。"
+      "zh": "那是你的大脑在骗你。",
+      "en": "That's your brain lying to you."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "好！Everyone buzzed了吗？走吧！"
+      "zh": "好！Everyone buzzed了吗？走吧！",
+      "en": "Okay! Everyone buzzed? Let's go!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我只喝了一口。"
+      "zh": "我只喝了一口。",
+      "en": "I only had one sip."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你的脸红得像番茄。"
+      "zh": "你的脸红得像番茄。",
+      "en": "Your face is red like a tomato."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "那是亚洲flush！我对酒精过敏！不是drunk！"
+      "zh": "那是亚洲flush！我对酒精过敏！不是drunk！",
+      "en": "That's Asian flush! I have an alcohol allergy! I'm not drunk!"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你好可爱。"
+      "zh": "你好可爱。",
+      "en": "You're so cute."
     },
     {
       "type": "line",
       "char": "wangbeng",
       "zh": "他刚说她可爱了吗？",
+      "en": "Did he just call her cute?",
       "sub": "对小黑说"
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "他说了。她要死了。",
+      "en": "He did. She's dying.",
       "sub": "笑"
     },
     {

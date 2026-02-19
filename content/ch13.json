@@ -17,92 +17,110 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "这个周五。所有人出去。不许找借口。我求了两个月了。必须去。"
+      "zh": "这个周五。所有人出去。不许找借口。我求了两个月了。必须去。",
+      "en": "This Friday. Everyone goes out. No excuses. I've been begging for two months. You have to come."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我不去club。"
+      "zh": "我不去club。",
+      "en": "I don't do clubs."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你从来没去过club。你怎么知道你不喜欢？"
+      "zh": "你从来没去过club。你怎么知道你不喜欢？",
+      "en": "You've never been to a club. How do you know you don't like it?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……我就知道。"
+      "zh": "……我就知道。",
+      "en": "...I just know."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "王崩。一个晚上。就一个晚上。你去了以后站在角落里装酷就行了。想走随时走。"
+      "zh": "王崩。一个晚上。就一个晚上。你去了以后站在角落里装酷就行了。想走随时走。",
+      "en": "王崩. One night. Just one night. You can stand in the corner looking cool. Leave whenever you want."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我请你第一杯酒。"
+      "zh": "我请你第一杯酒。",
+      "en": "First drink's on me."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……行。一个小时。"
+      "zh": "……行。一个小时。",
+      "en": "...Fine. One hour."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "LETS GO🔥"
+      "zh": "LETS GO🔥",
+      "en": "LETS GO🔥"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "等一下，王崩要去？？"
+      "zh": "等一下，王崩要去？？",
+      "en": "Wait, 王崩 is going??"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "他刚说了！"
+      "zh": "他刚说了！",
+      "en": "He just said yes!"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……我也去。"
+      "zh": "……我也去。",
+      "en": "...I'll go too."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我不喝酒。"
+      "zh": "我不喝酒。",
+      "en": "I don't drink."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不用喝！来玩就行了。拜托。对我来说很重要。"
+      "zh": "不用喝！来玩就行了。拜托。对我来说很重要。",
+      "en": "You don't have to drink! Just come hang. Please. It means a lot to me."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……好吧。一个小时。"
+      "zh": "……好吧。一个小时。",
+      "en": "...Okay. One hour."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "清清答应了！！历史性的一刻！！"
+      "zh": "清清答应了！！历史性的一刻！！",
+      "en": "清清 said yes!! A historic moment!!"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我去吧。反正没别的事。"
+      "zh": "我去吧。反正没别的事。",
+      "en": "I'll go. Got nothing else going on anyway."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "全员到齐！！周五！！"
+      "zh": "全员到齐！！周五！！",
+      "en": "Full squad!! Friday!!"
     },
     {
       "type": "scene",
@@ -117,37 +135,44 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "清清。你盯着衣服看了二十分钟。"
+      "zh": "清清。你盯着衣服看了二十分钟。",
+      "en": "清清. You've been staring at your clothes for twenty minutes."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我不知道去club穿什么。我没去过。"
+      "zh": "我不知道去club穿什么。我没去过。",
+      "en": "I don't know what to wear to a club. I've never been."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "穿好看的。那种\"我没怎么打扮但是很好看\"的。"
+      "zh": "穿好看的。那种\"我没怎么打扮但是很好看\"的。",
+      "en": "Wear something cute. That \"I didn't really try but I look great\" vibe."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我所有的衣服都在说\"我要去图书馆\"。"
+      "zh": "我所有的衣服都在说\"我要去图书馆\"。",
+      "en": "All my clothes scream \"I'm going to the library.\""
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "穿我那件黑色的。"
+      "zh": "穿我那件黑色的。",
+      "en": "Wear my black one."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "那件太——"
+      "zh": "那件太——",
+      "en": "That one's too--"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "谁穿都好看。相信我。"
+      "zh": "谁穿都好看。相信我。",
+      "en": "It looks good on anyone. Trust me."
     },
     {
       "type": "action",
@@ -157,22 +182,26 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "卧槽。清清。你好看。"
+      "zh": "卧槽。清清。你好看。",
+      "en": "Damn. 清清. You look good."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "请停。"
+      "zh": "请停。",
+      "en": "Please stop."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "矮中看到你这样——"
+      "zh": "矮中看到你这样——",
+      "en": "When 矮中 sees you like this--"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我不是为了矮中穿的！"
+      "zh": "我不是为了矮中穿的！",
+      "en": "I'm not wearing this for 矮中!"
     },
     {
       "type": "scene",
@@ -182,57 +211,68 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "[镜子自拍，collar竖起来，新发型]"
+      "zh": "[镜子自拍，collar竖起来，新发型]",
+      "en": "[Mirror selfie, collar popped, new hairstyle]"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "Rate the fit。"
+      "zh": "Rate the fit。",
+      "en": "Rate the fit."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你看起来跟上海每个club里的每个白人一样。"
+      "zh": "你看起来跟上海每个club里的每个白人一样。",
+      "en": "You look like every white guy in every club in Shanghai."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……这好不好？"
+      "zh": "……这好不好？",
+      "en": "...Is that good or bad?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……familiar。"
+      "zh": "……familiar。",
+      "en": "...Familiar."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你穿什么？"
+      "zh": "你穿什么？",
+      "en": "What are you wearing?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "[照片：黑T恤、好看的夹克、干净的鞋]"
+      "zh": "[照片：黑T恤、好看的夹克、干净的鞋]",
+      "en": "[Photo: black tee, nice jacket, clean shoes]"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……你都没试就比我好看。"
+      "zh": "……你都没试就比我好看。",
+      "en": "...You look better than me without even trying."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我知道。"
+      "zh": "我知道。",
+      "en": "I know."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "有天生drip真好。"
+      "zh": "有天生drip真好。",
+      "en": "Must be nice having natural drip."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "有zero自知之明也挺好的。走吧？"
+      "zh": "有zero自知之明也挺好的。走吧？",
+      "en": "Must be nice having zero self-awareness. Let's go?"
     },
     {
       "type": "scene",

@@ -22,122 +22,146 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你在看你的奶茶像在看合同。"
+      "zh": "你在看你的奶茶像在看合同。",
+      "en": "You're looking at your boba like it's a contract."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "珍珠分布不均匀。"
+      "zh": "珍珠分布不均匀。",
+      "en": "The pearls are unevenly distributed."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……喝就是了。"
+      "zh": "……喝就是了。",
+      "en": "...just drink it."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "好喝吗？"
+      "zh": "好喝吗？",
+      "en": "Is it good?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……可以。"
+      "zh": "……可以。",
+      "en": "...it's fine."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "\"可以\"。你的夸人技术真incredible。"
+      "zh": "\"可以\"。你的夸人技术真incredible。",
+      "en": "\"Fine.\" Your compliment skills are truly incredible."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "台北有一家叫——"
+      "zh": "台北有一家叫——",
+      "en": "There's this place in Taipei called--"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "用掉了。你的一次机会用掉了。"
+      "zh": "用掉了。你的一次机会用掉了。",
+      "en": "Used it. Your one chance is used up."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我还没说完。"
+      "zh": "我还没说完。",
+      "en": "I wasn't done."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你要说台北的一家奶茶店。算了。"
+      "zh": "你要说台北的一家奶茶店。算了。",
+      "en": "You were gonna say a boba shop in Taipei. Forget it."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……好吧。"
+      "zh": "……好吧。",
+      "en": "...fine."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你为什么用那个美白霜？"
+      "zh": "你为什么用那个美白霜？",
+      "en": "Why do you use that whitening cream?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……什么？"
+      "zh": "……什么？",
+      "en": "...what?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "那个霜。脸上的。提亮什么的。为什么？"
+      "zh": "那个霜。脸上的。提亮什么的。为什么？",
+      "en": "That cream. On your face. Brightening or whatever. Why?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "因为……中国的审美标准。我太黑了。"
+      "zh": "因为……中国的审美标准。我太黑了。",
+      "en": "Because... Chinese beauty standards. I'm too dark."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "你不黑。"
+      "zh": "你不黑。",
+      "en": "You're not dark."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你说起来容易。你皮肤白。"
+      "zh": "你说起来容易。你皮肤白。",
+      "en": "Easy for you to say. Your skin is fair."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我是台湾人。一样的太阳。"
+      "zh": "我是台湾人。一样的太阳。",
+      "en": "I'm Taiwanese. Same sun."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……皮肤颜色不是这样work的。"
+      "zh": "……皮肤颜色不是这样work的。",
+      "en": "...that's not how skin color works."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我知道。我的意思是——你的皮肤不是问题。标准是问题。"
+      "zh": "我知道。我的意思是——你的皮肤不是问题。标准是问题。",
+      "en": "I know. What I mean is-- your skin isn't the problem. The standard is the problem."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "这是你对我说的第二次好话。第一次是外套。"
+      "zh": "这是你对我说的第二次好话。第一次是外套。",
+      "en": "That's the second nice thing you've said to me. First was the jacket."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "我不是在说好话。我在说事实。"
+      "zh": "我不是在说好话。我在说事实。",
+      "en": "I'm not saying something nice. I'm stating facts."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "对你来说，一样的。"
+      "zh": "对你来说，一样的。",
+      "en": "For you, it's the same thing."
     },
     {
       "type": "scene",
@@ -152,52 +176,62 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "学完了想不想去吃饭？不是火锅。正经吃饭。我找到了一家广东菜，据说很好吃。"
+      "zh": "学完了想不想去吃饭？不是火锅。正经吃饭。我找到了一家广东菜，据说很好吃。",
+      "en": "Wanna go eat after we finish? Not hotpot. A real meal. I found this Cantonese place, supposedly amazing."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "你找了一家广东菜？"
+      "zh": "你找了一家广东菜？",
+      "en": "You found a Cantonese restaurant?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "本来是为小黑找的。但她在跟王崩约会了。所以……"
+      "zh": "本来是为小黑找的。但她在跟王崩约会了。所以……",
+      "en": "I originally found it for 小黑. But she's on a date with 王崩. So..."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "所以我是备选？"
+      "zh": "所以我是备选？",
+      "en": "So I'm the backup?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不是！我是说——我想带你去。但是如果你说不我就用小黑当借口。"
+      "zh": "不是！我是说——我想带你去。但是如果你说不我就用小黑当借口。",
+      "en": "No! I mean-- I wanted to take you. But if you said no I was gonna use 小黑 as an excuse."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……这很pathetic。"
+      "zh": "……这很pathetic。",
+      "en": "...that's pretty pathetic."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我知道。"
+      "zh": "我知道。",
+      "en": "I know."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……好。走吧。"
+      "zh": "……好。走吧。",
+      "en": "...fine. Let's go."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……真的？"
+      "zh": "……真的？",
+      "en": "...really?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "别让我说第二遍。"
+      "zh": "别让我说第二遍。",
+      "en": "Don't make me say it twice."
     },
     {
       "type": "action",
@@ -207,48 +241,57 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "好吃吗？"
+      "zh": "好吃吗？",
+      "en": "Is it good?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "好吃到爆。"
+      "zh": "好吃到爆。",
+      "en": "Insanely good."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你刚才说好吃到爆了吗？清清——全宇宙最proper的人——刚才用了slang？"
+      "zh": "你刚才说好吃到爆了吗？清清——全宇宙最proper的人——刚才用了slang？",
+      "en": "Did you just say 'insanely good'? 清清-- the most proper person in the entire universe-- just used slang?"
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "这是完全valid的表达。",
+      "en": "It's a perfectly valid expression.",
       "sub": "脸红"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你是从我这里学的！"
+      "zh": "你是从我这里学的！",
+      "en": "You learned that from me!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我没——"
+      "zh": "我没——",
+      "en": "I didn't--"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你肯定是！我教了你slang！这是我最骄傲的moment！"
+      "zh": "你肯定是！我教了你slang！这是我最骄傲的moment！",
+      "en": "You definitely did! I taught you slang! This is my proudest moment!"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "吃你的饭，矮中。"
+      "zh": "吃你的饭，矮中。",
+      "en": "Eat your food, 矮中."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "是！"
+      "zh": "是！",
+      "en": "Yes ma'am!"
     },
     {
       "type": "scene",

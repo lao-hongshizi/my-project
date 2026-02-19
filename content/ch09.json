@@ -18,73 +18,87 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "王崩。"
+      "zh": "王崩。",
+      "en": "王崩."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "嗯？"
+      "zh": "嗯？",
+      "en": "Hm?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你明天有空吗？"
+      "zh": "你明天有空吗？",
+      "en": "Are you free tomorrow?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "为什么？"
+      "zh": "为什么？",
+      "en": "Why?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "学校附近开了一家新的奶茶店。听说不错。想不想去看看？"
+      "zh": "学校附近开了一家新的奶茶店。听说不错。想不想去看看？",
+      "en": "A new boba shop opened near campus. Heard it's good. Wanna check it out?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "奶茶？好啊。说到奶茶——你知道台湾有一个地方叫公馆吗？台大旁边有一家奶茶店开了1987年了——"
+      "zh": "奶茶？好啊。说到奶茶——你知道台湾有一个地方叫公馆吗？台大旁边有一家奶茶店开了1987年了——",
+      "en": "Boba? Sure. Speaking of boba -- do you know there's a place in Taiwan called Gongguan? There's a boba shop near NTU that's been open since 1987--"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我问的是这里。这个校区。明天。"
+      "zh": "我问的是这里。这个校区。明天。",
+      "en": "I'm asking about here. This campus. Tomorrow."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "对对。明天可以。除非台湾留学生会那天有活动——"
+      "zh": "对对。明天可以。除非台湾留学生会那天有活动——",
+      "en": "Right right. Tomorrow works. Unless the Taiwanese student association has something that day--"
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "天啊。",
+      "en": "Oh my god.",
       "sub": "小声"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "什么？"
+      "zh": "什么？",
+      "en": "What?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "没事。那是yes吗？"
+      "zh": "没事。那是yes吗？",
+      "en": "Nothing. So is that a yes?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "……我看一下我的schedule再跟你说。"
+      "zh": "……我看一下我的schedule再跟你说。",
+      "en": "...Let me check my schedule and get back to you."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "看schedule就是no吧？"
+      "zh": "看schedule就是no吧？",
+      "en": "\"Check my schedule\" means no, right?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "是看schedule。"
+      "zh": "是看schedule。",
+      "en": "It means check my schedule."
     },
     {
       "type": "action",
@@ -99,32 +113,38 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "小李！今晚想不想一起吃饭？我发现了一家超好吃的火锅——"
+      "zh": "小李！今晚想不想一起吃饭？我发现了一家超好吃的火锅——",
+      "en": "小李! Wanna grab dinner tonight? I found this amazing hot pot place--"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "……好啊。"
+      "zh": "……好啊。",
+      "en": "...Sure."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……等一下。你说好？"
+      "zh": "……等一下。你说好？",
+      "en": "...Wait. You said yes?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "我说好啊。反正没别的事。"
+      "zh": "我说好啊。反正没别的事。",
+      "en": "I said sure. Got nothing else going on anyway."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "好好好！那我发你地址——七点？"
+      "zh": "好好好！那我发你地址——七点？",
+      "en": "Nice nice nice! I'll send you the address -- seven?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "随便。"
+      "zh": "随便。",
+      "en": "Whatever."
     },
     {
       "type": "scene",
@@ -134,63 +154,75 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "所以……你喜欢吃火锅吗？"
+      "zh": "所以……你喜欢吃火锅吗？",
+      "en": "So... do you like hot pot?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "还行。"
+      "zh": "还行。",
+      "en": "It's okay."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "这家的牛油锅底真的——"
+      "zh": "这家的牛油锅底真的——",
+      "en": "Their butter broth base is seriously--"
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "嗯。",
+      "en": "Mm.",
       "sub": "在看手机"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "你……在跟谁发消息？"
+      "zh": "你……在跟谁发消息？",
+      "en": "Are you... texting someone?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "在看东西。"
+      "zh": "在看东西。",
+      "en": "Just looking at something."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "哦。那……你觉得中国怎么样？"
+      "zh": "哦。那……你觉得中国怎么样？",
+      "en": "Oh. So... what do you think of China?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "还行。"
+      "zh": "还行。",
+      "en": "It's fine."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那课呢？"
+      "zh": "那课呢？",
+      "en": "What about classes?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "还行。"
+      "zh": "还行。",
+      "en": "They're fine."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "……我是不是很无聊？"
+      "zh": "……我是不是很无聊？",
+      "en": "...Am I boring?"
     },
     {
       "type": "line",
       "char": "xiaoli",
       "zh": "不是。我就是不太爱说话。",
+      "en": "No. I just don't really like talking.",
       "sub": "抬头看了一眼"
     },
     {
@@ -206,62 +238,74 @@
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "等一下你跟矮中去吃饭了？？"
+      "zh": "等一下你跟矮中去吃饭了？？",
+      "en": "Wait you went to dinner with 矮中??"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "对。"
+      "zh": "对。",
+      "en": "Yeah."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "怎么样？"
+      "zh": "怎么样？",
+      "en": "How was it?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "无聊。"
+      "zh": "无聊。",
+      "en": "Boring."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "哈哈。说说？"
+      "zh": "哈哈。说说？",
+      "en": "Haha. Tell me more?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "他好紧张。平时不是很吵吗？突然就不说话了。"
+      "zh": "他好紧张。平时不是很吵吗？突然就不说话了。",
+      "en": "He was so nervous. Isn't he usually super loud? Suddenly he had nothing to say."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "[读了这条消息。三分钟没回]"
+      "zh": "[读了这条消息。三分钟没回]",
+      "en": "[Read this message. Didn't reply for three minutes]"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "也许他喜欢你。"
+      "zh": "也许他喜欢你。",
+      "en": "Maybe he likes you."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "恶心。"
+      "zh": "恶心。",
+      "en": "Gross."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "为什么恶心？"
+      "zh": "为什么恶心？",
+      "en": "Why gross?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "他喜欢所有的中国女生。我不特别。我只是……在他面前而已。"
+      "zh": "他喜欢所有的中国女生。我不特别。我只是……在他面前而已。",
+      "en": "He likes every Chinese girl. I'm not special. I'm just... there."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "……"
+      "zh": "……",
+      "en": "..."
     },
     {
       "type": "action",

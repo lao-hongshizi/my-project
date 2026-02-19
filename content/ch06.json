@@ -17,72 +17,86 @@
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "今天好冷啊。多少度？"
+      "zh": "今天好冷啊。多少度？",
+      "en": "It's so cold today. How many degrees?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "五度。台湾现在二十八度。"
+      "zh": "五度。台湾现在二十八度。",
+      "en": "Five degrees. It's twenty-eight in Taiwan right now."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "我数一下。你今天第几次提台湾了？"
+      "zh": "我数一下。你今天第几次提台湾了？",
+      "en": "Let me count. How many times have you mentioned Taiwan today?"
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "这是weather fact，不是提台湾。"
+      "zh": "这是weather fact，不是提台湾。",
+      "en": "This is a weather fact, not mentioning Taiwan."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "你说了\"台湾\"。算了。第一次。"
+      "zh": "你说了\"台湾\"。算了。第一次。",
+      "en": "You said \"Taiwan.\" Whatever. That's one."
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "今天有雨。带伞。"
+      "zh": "今天有雨。带伞。",
+      "en": "Rain today. Bring an umbrella."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "清清你是天气预报吗？"
+      "zh": "清清你是天气预报吗？",
+      "en": "清清, are you the weather forecast?"
     },
     {
       "type": "line",
       "char": "qingqing",
-      "zh": "我看了手机。"
+      "zh": "我看了手机。",
+      "en": "I checked my phone."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "我也看了手机。但是我看的是Instagram。"
+      "zh": "我也看了手机。但是我看的是Instagram。",
+      "en": "I also checked my phone. But I was looking at Instagram."
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "[已读]"
+      "zh": "[已读]",
+      "en": "[Read]"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "小李？活着吗？"
+      "zh": "小李？活着吗？",
+      "en": "小李? You alive?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "冷。不想出门。"
+      "zh": "冷。不想出门。",
+      "en": "Cold. Don't wanna go out."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "但是要上课！"
+      "zh": "但是要上课！",
+      "en": "But we have class!"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "被子比课重要。"
+      "zh": "被子比课重要。",
+      "en": "Blanket is more important than class."
     },
     {
       "type": "scene",
@@ -92,145 +106,173 @@
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "今天我们学天气。外面怎么样？"
+      "zh": "今天我们学天气。外面怎么样？",
+      "en": "Today we're learning about weather. How is it outside?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "冷死了。"
+      "zh": "冷死了。",
+      "en": "Freezing to death."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "好。\"冷死了\"是很好的口语。还可以说——"
+      "zh": "好。\"冷死了\"是很好的口语。还可以说——",
+      "en": "Good. \"Freezing to death\" is great colloquial Chinese. You can also say —"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "老师，\"drip\"中文怎么说？"
+      "zh": "老师，\"drip\"中文怎么说？",
+      "en": "Teacher, how do you say \"drip\" in Chinese?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……滴？水滴？"
+      "zh": "……滴？水滴？",
+      "en": "...Drip? Water drops?"
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "不不不。Drip。就是穿搭很好看的意思。"
+      "zh": "不不不。Drip。就是穿搭很好看的意思。",
+      "en": "No no no. Drip. Like when someone's outfit looks fire."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "我不知道这个意思。穿衣服好看中文可以说……穿得好看？"
+      "zh": "我不知道这个意思。穿衣服好看中文可以说……穿得好看？",
+      "en": "I don't know that meaning. Dressing well in Chinese would be... 穿得好看?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "穿搭。"
+      "zh": "穿搭。",
+      "en": "穿搭."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "什么？"
+      "zh": "什么？",
+      "en": "What?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "穿搭。穿衣搭配。年轻人都说穿搭。"
+      "zh": "穿搭。穿衣搭配。年轻人都说穿搭。",
+      "en": "穿搭. Outfit coordination. Young people all say 穿搭."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……好吧。穿搭。"
+      "zh": "……好吧。穿搭。",
+      "en": "...Okay. 穿搭."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "王崩的穿搭最好。每天都有drip。"
+      "zh": "王崩的穿搭最好。每天都有drip。",
+      "en": "王崩 has the best outfits. Drip every day."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "台湾的时尚品味在亚洲——"
+      "zh": "台湾的时尚品味在亚洲——",
+      "en": "Taiwan's fashion taste in Asia —"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "第二次。"
+      "zh": "第二次。",
+      "en": "That's two."
     },
     {
       "type": "line",
       "char": "wangbeng",
-      "zh": "——是最有创意的。我说完了。"
+      "zh": "——是最有创意的。我说完了。",
+      "en": "— is the most creative. I'm done."
     },
     {
       "type": "line",
       "char": "aizhong",
-      "zh": "那\"fit check\"呢？"
+      "zh": "那\"fit check\"呢？",
+      "en": "What about \"fit check\"?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "……我真的不知道。"
+      "zh": "……我真的不知道。",
+      "en": "...I really don't know."
     },
     {
       "type": "line",
       "char": "qingqing",
       "zh": "我们的中文老师不知道的越来越多了。",
-      "sub": "小声对小黑说"
+      "sub": "小声对小黑说",
+      "en": "The list of things our Chinese teacher doesn't know keeps growing."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "我们从他那里学到的还不如从矮中那里学到的多。",
-      "sub": "小声"
+      "sub": "小声",
+      "en": "We learn more from 矮中 than we do from him."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "好，我们说说穿衣服。小黑，你今天穿了什么？"
+      "zh": "好，我们说说穿衣服。小黑，你今天穿了什么？",
+      "en": "Okay, let's talk about clothing. 小黑, what are you wearing today?"
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……老师你为什么问我穿什么？"
+      "zh": "……老师你为什么问我穿什么？",
+      "en": "...Teacher, why are you asking me what I'm wearing?"
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "练习词汇。"
+      "zh": "练习词汇。",
+      "en": "Vocabulary practice."
     },
     {
       "type": "line",
       "char": "xiaohei",
       "zh": "我穿了黑色的外套和牛仔裤。",
-      "sub": "不太舒服"
+      "sub": "不太舒服",
+      "en": "I'm wearing a black jacket and jeans."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "很好看。"
+      "zh": "很好看。",
+      "en": "Looks nice."
     },
     {
       "type": "line",
       "char": "xiaohei",
-      "zh": "……谢谢。"
+      "zh": "……谢谢。",
+      "en": "...Thanks."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "小李，你呢？"
+      "zh": "小李，你呢？",
+      "en": "小李, how about you?"
     },
     {
       "type": "line",
       "char": "xiaoli",
-      "zh": "黑色卫衣。黑色裤子。"
+      "zh": "黑色卫衣。黑色裤子。",
+      "en": "Black hoodie. Black pants."
     },
     {
       "type": "line",
       "char": "guailaoshi",
-      "zh": "你总是穿黑色。应该穿一点亮的颜色。你穿亮色肯定更好看。"
+      "zh": "你总是穿黑色。应该穿一点亮的颜色。你穿亮色肯定更好看。",
+      "en": "You always wear black. You should try some brighter colors. You'd definitely look better in bright colors."
     },
     {
       "type": "scene",
