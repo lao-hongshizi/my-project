@@ -51,22 +51,20 @@ export function ChatBubble({
         <div
           className="absolute pointer-events-none z-0"
           style={{
-            [isRight ? "right" : "left"]: "-20px",
-            top: "-40px",
+            [isRight ? "right" : "left"]: "-30px",
+            top: "-80px",
             animation: `avatar-slide-in-${isRight ? "right" : "left"} 0.35s cubic-bezier(0.22, 1, 0.36, 1) both`,
           }}
         >
           <Image
             src={c.avatar!}
             alt={c.name}
-            width={140}
-            height={170}
+            width={240}
+            height={300}
             className="object-contain object-bottom"
             style={{
-              opacity: 0.25,
-              filter: "brightness(0.8)",
-              maskImage: "linear-gradient(to top, black 40%, transparent 100%)",
-              WebkitMaskImage: "linear-gradient(to top, black 40%, transparent 100%)",
+              opacity: 0.2,
+              filter: "brightness(0.9)",
             }}
             priority
           />
