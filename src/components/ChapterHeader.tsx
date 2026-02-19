@@ -1,6 +1,5 @@
 "use client";
 
-import { CharacterBar } from "./CharacterBar";
 
 interface ChapterHeaderProps {
   chapterNum: number;
@@ -54,7 +53,6 @@ export function ChapterHeader({
           </button>
         </div>
       </div>
-      <CharacterBar />
     </div>
   );
 }
