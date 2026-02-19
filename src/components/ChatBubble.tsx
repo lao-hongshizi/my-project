@@ -3,6 +3,7 @@
 import { useState } from "react";
 import { CHARACTERS } from "@/lib/characters";
 import { playClick } from "@/lib/sounds";
+import Image from "next/image";
 
 type BubbleMode = "hanzi" | "pinyin" | "english";
 
@@ -12,6 +13,7 @@ interface ChatBubbleProps {
   pinyinText?: string;
   sub?: string;
   en?: string;
+  isActive?: boolean;
 }
 
 export function ChatBubble({
@@ -20,12 +22,14 @@ export function ChatBubble({
   pinyinText,
   sub,
   en,
+  isActive,
 }: ChatBubbleProps) {
   const [mode, setMode] = useState<BubbleMode>("hanzi");
   const c = CHARACTERS[charKey];
   if (!c) return null;
 
   const isRight = c.align === "right";
+  const showAvatar = isActive && !!c.avatar;
 
   const handleBubbleTap = (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -39,11 +43,38 @@ export function ChatBubble({
 
   return (
     <div
-      className="animate-fade-slide-in flex px-2 my-1"
+      className="animate-fade-slide-in flex px-2 my-1 relative"
       style={{ justifyContent: isRight ? "flex-end" : "flex-start" }}
     >
+      {/* Avatar behind bubble */}
+      {showAvatar && (
+        <div
+          className="absolute pointer-events-none z-0"
+          style={{
+            [isRight ? "right" : "left"]: "-20px",
+            top: "-40px",
+            animation: `avatar-slide-in-${isRight ? "right" : "left"} 0.35s cubic-bezier(0.22, 1, 0.36, 1) both`,
+          }}
+        >
+          <Image
+            src={c.avatar!}
+            alt={c.name}
+            width={140}
+            height={170}
+            className="object-contain object-bottom"
+            style={{
+              opacity: 0.25,
+              filter: "brightness(0.8)",
+              maskImage: "linear-gradient(to top, black 40%, transparent 100%)",
+              WebkitMaskImage: "linear-gradient(to top, black 40%, transparent 100%)",
+            }}
+            priority
+          />
+        </div>
+      )}
+
       <div
-        className="max-w-[75%] flex flex-col"
+        className="max-w-[75%] flex flex-col relative z-10"
         style={{ alignItems: isRight ? "flex-end" : "flex-start" }}
       >
         {/* Character name label */}

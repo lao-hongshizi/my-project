@@ -7,7 +7,6 @@ import { ChapterHeader } from "./ChapterHeader";
 import { SectionPage } from "./SectionPage";
 import { GrammarPanel } from "./GrammarPanel";
 import { speak, stopSpeaking, preloadAudio } from "@/lib/tts";
-import { CharacterAvatar } from "./CharacterAvatar";
 
 /** Delay in ms before revealing the next line, based on the line currently being read/spoken. */
 function getLineDelay(item: ScriptItem): number {
@@ -147,17 +146,6 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
   // Cleanup TTS on unmount
   useEffect(() => () => stopSpeaking(), []);
 
-  // Derive current speaker from most recently revealed dialogue line
-  const currentSpeaker = useMemo(() => {
-    for (let i = revealedCount - 1; i >= 0; i--) {
-      const line = currentSection?.lines[i];
-      if (line && (line.type === "line" || line.type === "dual") && line.char) {
-        return line.char;
-      }
-    }
-    return null;
-  }, [currentSection, revealedCount]);
-
   if (!currentSection) return null;
 
   return (
@@ -165,7 +153,6 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
       className="min-h-dvh max-w-[480px] mx-auto relative flex flex-col overflow-hidden"
       style={{ background: "#0d0d0d" }}
     >
-      <CharacterAvatar charKey={currentSpeaker} />
 
       <ChapterHeader
         chapterNum={chapter.chapter}

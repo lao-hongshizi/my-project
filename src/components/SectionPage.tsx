@@ -64,6 +64,7 @@ export function SectionPage({
                 pinyinText={item.pinyinText}
                 sub={item.sub}
                 en={item.en}
+                isActive={idx === visibleLines.length - 1}
               />
             );
           }

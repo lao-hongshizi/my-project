@@ -30,8 +30,8 @@ export function CharacterAvatar({ charKey }: CharacterAvatarProps) {
         className="object-contain object-bottom"
         style={{
           filter: "brightness(0.6)",
-          maskImage: "linear-gradient(to top, black 20%, transparent 90%)",
-          WebkitMaskImage: "linear-gradient(to top, black 20%, transparent 90%)",
+          maskImage: "linear-gradient(to top, black 60%, transparent 100%)",
+          WebkitMaskImage: "linear-gradient(to top, black 60%, transparent 100%)",
         }}
         priority
       />
