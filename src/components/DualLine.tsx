@@ -41,7 +41,7 @@ export function DualLine({ text, pinyinText, en }: DualLineProps) {
           </div>
         )}
         {mode === "pinyin" && (
-          <div className="text-[24px] text-accent font-mono">
+          <div className="text-[20px] text-accent font-mono">
             {pinyinText || text}
           </div>
         )}

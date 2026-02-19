@@ -8,6 +8,7 @@ export const CHARACTERS: Record<string, CharacterDef> = {
     icon: "♀",
     desc: "phone addict · half-white · vapes",
     align: "right",
+    avatar: "/avatars/xiaoli.png",
   },
   wangbeng: {
     name: "王崩",
@@ -16,6 +17,7 @@ export const CHARACTERS: Record<string, CharacterDef> = {
     icon: "♂",
     desc: "hot · Taiwanese · will correct you",
     align: "left",
+    avatar: "/avatars/wangbeng.png",
   },
   aizhong: {
     name: "矮中",
@@ -24,6 +26,7 @@ export const CHARACTERS: Record<string, CharacterDef> = {
     icon: "♂",
     desc: "white sinophile · cringe · tattoo",
     align: "left",
+    avatar: "/avatars/aizhong.png",
   },
   guailaoshi: {
     name: "怪老师",
@@ -32,6 +35,7 @@ export const CHARACTERS: Record<string, CharacterDef> = {
     icon: "👴",
     desc: "60s · creepy · 'you're pretty today'",
     align: "left",
+    avatar: "/avatars/guailaoshi.png",
   },
   xiaohei: {
     name: "小黑",
@@ -40,6 +44,7 @@ export const CHARACTERS: Record<string, CharacterDef> = {
     icon: "♀",
     desc: "K-pop · memes · wants 王崩",
     align: "right",
+    avatar: "/avatars/xiaohei.png",
   },
   qingqing: {
     name: "清清",
@@ -48,6 +53,7 @@ export const CHARACTERS: Record<string, CharacterDef> = {
     icon: "♀",
     desc: "perfect student · secret weakness",
     align: "right",
+    avatar: "/avatars/qingqing.png",
   },
   narrator: {
     name: "旁白",

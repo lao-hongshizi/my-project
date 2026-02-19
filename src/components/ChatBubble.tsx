@@ -69,7 +69,7 @@ export function ChatBubble({
           )}
 
           {mode === "pinyin" && (
-            <div className="text-[22px] text-accent font-mono">
+            <div className="text-[18px] text-accent font-mono">
               {pinyinText || text}
             </div>
           )}

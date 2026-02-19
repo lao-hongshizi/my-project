@@ -65,4 +65,5 @@ export interface CharacterDef {
   icon: string;
   desc: string;
   align: "left" | "right";
+  avatar?: string;
 }
