@@ -250,7 +250,67 @@
       "en": "清清 looks at 小李. Looks at 怪老师. Something clicks. She files this away too."
     }
   ],
-  "vocab": [],
-  "grammarNotes": [],
+  "vocab": [
+    {
+      "zh": "搞砸",
+      "pinyin": "gǎo zá",
+      "en": "to mess up / fumble",
+      "pos": "v"
+    },
+    {
+      "zh": "混蛋",
+      "pinyin": "húndàn",
+      "en": "asshole / jerk",
+      "pos": "n",
+      "note": "骂人的"
+    },
+    {
+      "zh": "白痴",
+      "pinyin": "báichī",
+      "en": "idiot",
+      "pos": "n"
+    },
+    {
+      "zh": "保证",
+      "pinyin": "bǎozhèng",
+      "en": "to promise / guarantee",
+      "pos": "v"
+    },
+    {
+      "zh": "进步",
+      "pinyin": "jìnbù",
+      "en": "progress / to improve",
+      "pos": "n/v",
+      "note": "小李的中文进步了"
+    },
+    {
+      "zh": "造句",
+      "pinyin": "zào jù",
+      "en": "to make a sentence",
+      "pos": "vo"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "是...的 (emphasizing details of past event)",
+      "body": "那个不是给她的。= That wasn't meant for her.\n你是什么时候来的？= When did you come? (emphasis on \"when\")"
+    },
+    {
+      "title": "要是...的话 (more colloquial \"if\")",
+      "body": "要是他喝多了的话，那不算。= If he was drunk, it doesn't count.\n要是我是你的话…… = If I were you..."
+    },
+    {
+      "title": "告诉 — to tell someone",
+      "body": "她告诉我她很生气。= She told me she was angry.\n你为什么不告诉我？= Why didn't you tell me?\nNote: 告诉 takes a person + content directly. No 'that' needed."
+    },
+    {
+      "title": "问 — to ask",
+      "body": "她问我为什么。= She asked me why.\n我想问你一件事。= I want to ask you something.\nNote: 问 directly introduces the question — no 'if/whether' needed."
+    },
+    {
+      "title": "说 — reported speech",
+      "body": "他说他不知道。= He said he didn't know.\n她说没关系。= She said it doesn't matter.\nNote: 说 introduces what someone said. Chinese doesn't use a word for 'that' before the quote."
+    }
+  ],
   "cultureNotes": []
 }

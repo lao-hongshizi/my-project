@@ -327,36 +327,10 @@
       "pos": "v"
     },
     {
-      "zh": "脱贫",
-      "pinyin": "tuōpín",
-      "en": "to lift out of poverty",
-      "pos": "v",
-      "note": "政治话题"
-    },
-    {
-      "zh": "尖叫",
-      "pinyin": "jiān jiào",
-      "en": "to scream",
-      "pos": "v"
-    },
-    {
-      "zh": "成熟",
-      "pinyin": "chéngshú",
-      "en": "mature",
-      "pos": "adj"
-    },
-    {
       "zh": "纠正",
       "pinyin": "jiūzhèng",
       "en": "to correct",
       "pos": "v"
-    },
-    {
-      "zh": "歪歪扭扭",
-      "pinyin": "wāi wāi niǔ niǔ",
-      "en": "crooked / messy",
-      "pos": "adj",
-      "note": "形容矮中的字"
     },
     {
       "zh": "分布不均匀",
@@ -385,26 +359,20 @@
     },
     {
       "zh": "second choice",
-      "pinyin": "",
+      "pinyin": "—",
       "en": "备选/second pick",
-      "pos": ""
+      "pos": "",
+      "note": "English loanword"
     },
     {
       "zh": "pathetic",
-      "pinyin": "",
+      "pinyin": "—",
       "en": "可悲的/很惨",
-      "pos": ""
+      "pos": "",
+      "note": "English loanword"
     }
   ],
   "grammarNotes": [
-    {
-      "title": "比 (comparison)",
-      "body": "中国的发展比其他国家impressive。\n他穿得比我好看。"
-    },
-    {
-      "title": "从...就 (since...already)",
-      "body": "从第一天就喜欢了。= Since the first day I've liked you.\n从小就出差。= Since childhood, always on business trips."
-    },
     {
       "title": "试试 (try and see)",
       "body": "试试看吧。= Try and see.\n你应该试试穿亮色。= You should try wearing bright colors."
@@ -412,6 +380,10 @@
     {
       "title": "V起来 (when you start doing...)",
       "body": "说起来容易。= Easy to say / sounds easy.\n喝起来像火。= Tastes like fire (when you drink it).\n看起来很酷。= Looks cool."
+    },
+    {
+      "title": "从来没...过 — have never",
+      "body": "我从来没吃过这个。= I've never eaten this before.\n她从来没去过club。= She's never been to a club.\nPattern: 从来没 + verb + 过 = have never done something. Strong emphasis on 'not even once.'"
     }
   ],
   "cultureNotes": []

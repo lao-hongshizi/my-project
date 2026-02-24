@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, useCallback, useMemo, useEffect } from "react";
+import Link from "next/link";
 import type { Chapter, ScriptItem } from "@/lib/types";
 import { splitIntoSections } from "@/lib/sections";
 import { ChapterHeader } from "./ChapterHeader";
@@ -209,20 +210,38 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
           {sectionIndex + 1} / {sections.length}
         </div>
 
-        <button
-          onClick={(e) => {
-            e.stopPropagation();
-            handleTap();
-          }}
-          className="text-xs font-mono cursor-pointer bg-transparent border-none"
-          style={{
-            color:
-              allRevealed && isLastSection ? "#333" : "#CE2D2D",
-          }}
-          disabled={allRevealed && isLastSection}
-        >
-          {allRevealed ? "NEXT →" : "TAP ↓"}
-        </button>
+        {allRevealed && isLastSection ? (
+          chapter.chapter < 20 ? (
+            <Link
+              href={`/chapter/${String(chapter.chapter + 1).padStart(2, "0")}`}
+              onClick={(e) => e.stopPropagation()}
+              className="text-xs font-mono no-underline"
+              style={{ color: "#CE2D2D" }}
+            >
+              NEXT CH →
+            </Link>
+          ) : (
+            <Link
+              href="/"
+              onClick={(e) => e.stopPropagation()}
+              className="text-xs font-mono no-underline"
+              style={{ color: "#CE2D2D" }}
+            >
+              HOME →
+            </Link>
+          )
+        ) : (
+          <button
+            onClick={(e) => {
+              e.stopPropagation();
+              handleTap();
+            }}
+            className="text-xs font-mono cursor-pointer bg-transparent border-none"
+            style={{ color: "#CE2D2D" }}
+          >
+            {allRevealed ? "NEXT →" : "TAP ↓"}
+          </button>
+        )}
       </div>
 
       {grammarOpen && (

@@ -187,7 +187,40 @@
       "en": "Whatever you say."
     }
   ],
-  "vocab": [],
-  "grammarNotes": [],
+  "vocab": [
+    {
+      "zh": "生日",
+      "pinyin": "shēngrì",
+      "en": "birthday",
+      "pos": "n"
+    },
+    {
+      "zh": "陌生人",
+      "pinyin": "mòshēngrén",
+      "en": "stranger",
+      "pos": "n"
+    },
+    {
+      "zh": "guilty",
+      "pinyin": "—",
+      "en": "内疚",
+      "pos": "",
+      "note": "English loanword"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "了 (completed action)",
+      "body": "我过了最好的生日。= I had the best birthday.\n她打了又删了。= She typed then deleted.\n没人来。= Nobody came. (没 + verb = didn't)"
+    },
+    {
+      "title": "过 (experience)",
+      "body": "你去过台湾吗？= Have you ever been to Taiwan?\n我没吃过四川火锅。= I've never had Sichuan hotpot."
+    },
+    {
+      "title": "给 — to give / for someone",
+      "body": "我给你买了礼物。= I bought you a gift.\n给我看看。= Let me see.\n她给他发消息。= She sends him a message.\nNote: 给 can mean 'give' or mark the recipient ('for'). Word order: 给 + person + verb."
+    }
+  ],
   "cultureNotes": []
 }

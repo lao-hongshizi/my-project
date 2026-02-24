@@ -325,7 +325,47 @@
       "en": "Okay okay okay. Homework."
     }
   ],
-  "vocab": [],
-  "grammarNotes": [],
+  "vocab": [
+    {
+      "zh": "脱贫",
+      "pinyin": "tuōpín",
+      "en": "to lift out of poverty",
+      "pos": "v",
+      "note": "政治话题"
+    },
+    {
+      "zh": "尖叫",
+      "pinyin": "jiān jiào",
+      "en": "to scream",
+      "pos": "v"
+    },
+    {
+      "zh": "成熟",
+      "pinyin": "chéngshú",
+      "en": "mature",
+      "pos": "adj"
+    },
+    {
+      "zh": "歪歪扭扭",
+      "pinyin": "wāi wāi niǔ niǔ",
+      "en": "crooked / messy",
+      "pos": "adj",
+      "note": "形容矮中的字"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "比 (comparison)",
+      "body": "中国的发展比其他国家impressive。\n他穿得比我好看。"
+    },
+    {
+      "title": "从...就 (since...already)",
+      "body": "从第一天就喜欢了。= Since the first day I've liked you.\n从小就出差。= Since childhood, always on business trips."
+    },
+    {
+      "title": "不比 — not more than",
+      "body": "我不比你高。= I'm not taller than you.\nNote: A 不比 B + adj doesn't mean 'less than' — it means 'not MORE than' (could be equal or less). Subtle difference from 没有: 我没有你高 = I'm not as tall as you."
+    }
+  ],
   "cultureNotes": []
 }

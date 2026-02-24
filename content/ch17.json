@@ -372,25 +372,6 @@
   ],
   "vocab": [
     {
-      "zh": "搞砸",
-      "pinyin": "gǎo zá",
-      "en": "to mess up / fumble",
-      "pos": "v"
-    },
-    {
-      "zh": "混蛋",
-      "pinyin": "húndàn",
-      "en": "asshole / jerk",
-      "pos": "n",
-      "note": "骂人的"
-    },
-    {
-      "zh": "白痴",
-      "pinyin": "báichī",
-      "en": "idiot",
-      "pos": "n"
-    },
-    {
       "zh": "道歉",
       "pinyin": "dào qiàn",
       "en": "to apologize",
@@ -404,35 +385,10 @@
       "note": "日语也用这个词"
     },
     {
-      "zh": "保证",
-      "pinyin": "bǎozhèng",
-      "en": "to promise / guarantee",
-      "pos": "v"
-    },
-    {
-      "zh": "进步",
-      "pinyin": "jìnbù",
-      "en": "progress / to improve",
-      "pos": "n/v",
-      "note": "小李的中文进步了"
-    },
-    {
-      "zh": "造句",
-      "pinyin": "zào jù",
-      "en": "to make a sentence",
-      "pos": "vo"
-    },
-    {
       "zh": "假设",
       "pinyin": "jiǎshè",
       "en": "to assume / hypothetical",
       "pos": "v/n"
-    },
-    {
-      "zh": "告白",
-      "pinyin": "gàobái",
-      "en": "to confess feelings",
-      "pos": "v"
     },
     {
       "zh": "惨",
@@ -456,16 +412,8 @@
   ],
   "grammarNotes": [
     {
-      "title": "是...的 (emphasizing details of past event)",
-      "body": "那个不是给她的。= That wasn't meant for her.\n你是什么时候来的？= When did you come? (emphasis on \"when\")"
-    },
-    {
       "title": "如果...就",
       "body": "如果你告诉他，最差也就是一个\"谢谢\"。\n如果他请我吃饭，我会说不。"
-    },
-    {
-      "title": "要是...的话 (more colloquial \"if\")",
-      "body": "要是他喝多了的话，那不算。= If he was drunk, it doesn't count.\n要是我是你的话…… = If I were you..."
     },
     {
       "title": "会 (future probability)",

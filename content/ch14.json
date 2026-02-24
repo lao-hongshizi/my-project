@@ -329,7 +329,7 @@
     },
     {
       "zh": "buzzed",
-      "pinyin": "",
+      "pinyin": "—",
       "en": "微醺",
       "pos": "",
       "note": "= 有点醉了/微醺"
@@ -337,18 +337,22 @@
   ],
   "grammarNotes": [
     {
+      "title": "要 — want / will / must",
+      "body": "我要喝酒！= I want to drink!\n你要不要来一杯？= Want a glass?\n我要走了。= I'm about to leave.\nNote: 要 is stronger than 想. Can express desire, intention, or 'about to.'"
+    },
+    {
+      "title": "比...还... — even more than",
+      "body": "这比白酒还难喝。= This is even worse than baijiu.\n她比我还紧张。= She's even more nervous than me.\nPattern: A 比 B 还 + adj = A is even more [adj] than B. Emphasizes a surprising degree."
+    }
+  ],
+  "cultureNotes": [
+    {
       "title": "白酒 (Baijiu)",
       "body": "白酒是中国最重要的酒。通常40-60度。在商务饭局、婚礼、重要聚餐都要喝白酒。\"干杯\"真的是干——要把整杯喝完。很多外国人第一次喝白酒的反应跟清清一样：\"这不是酒这是毒药。\""
     },
     {
       "title": "Asian Flush",
       "body": "大约30-40%的东亚人有ALDH2基因缺陷，喝酒以后脸马上变红。这不代表醉了——是生理反应。清清说的\"酒精过敏\"是中国人常用的说法。"
-    }
-  ],
-  "cultureNotes": [
-    {
-      "title": "矮中：** 来来来！大家先喝一杯再出去！\n\n**王崩：** 我不喝白酒。\n\n**矮中：** 为什么？\n\n**王崩：** 因为台湾啤酒是世界上最好的酒。\n\n**小黑：** 第三次。今天。\n\n**王崩：** 那是fact。台湾啤酒在国际比赛上拿过奖的。\n\n**矮中：** Bro，这是白酒！中国国粹！你来中国不喝白酒就等于没来！\n\n**王崩：** 台湾也有高粱酒。金门高粱比大陆白酒——\n\n**小黑：** 天啊你能不能闭嘴喝酒。\n\n---\n\n**矮中：** （倒白酒给大家）来来来。干杯！\n\n**清清：** 我真的不喝酒。\n\n**矮中：** 一小口！就一小口！\n\n**清清：** ……\n\n**矮中：** Qingqing。Please。就今晚。live a little。\n\n**清清：** （拿起杯子，看了看）……只喝一口。\n\n她喝了一口。脸立刻红了。\n\n**清清：** 天啊这是什么？！像喝火一样！\n\n**矮中：** 哈哈哈！那就是白酒！52度的！\n\n**清清：** 52度？？这不是酒这是毒药！\n\n**王崩：** 我说的。应该喝台湾啤酒。\n\n**小黑：** 第四次。\n\n---\n\n**小李：** （一口干了）还有吗？\n\n**矮中：** ……你干了？！\n\n**小李：** 嗯。不错。有点辣。\n\n**矮中：** 那是白酒！大部分人第一次喝白酒会吐！\n\n**小李：** 也许我不是大部分人。\n\n**小黑：** （也喝了一口）嗯……其实还行。后味有一种——\n\n**王崩：** 痛苦。后味是痛苦。\n\n**小黑：** 我要说的是fruit味。\n\n**王崩：** 那是你的大脑在骗你。\n\n---\n\n**矮中：** 好！Everyone buzzed了吗？走吧！\n\n**清清：** 我只喝了一口。\n\n**矮中：** 你的脸红得像番茄。\n\n**清清：** 那是亚洲flush！我对酒精过敏！不是drunk！\n\n**矮中：** 你好可爱。\n\n清清frozen了一秒。然后假装在找她的包。\n\n**王崩：** （对小黑说）他刚说她可爱了吗？\n\n**小黑：** （笑）他说了。她要死了。\n\n---\n\n### 生词 (Vocabulary)\n\n| 中文 | 拼音 | 词性 | 英文 | 文化笔记 |\n|------|------|------|------|----------|\n| 白酒 | báijiǔ | n | baijiu (Chinese liquor) | 52度！小心！|\n| 啤酒 | píjiǔ | n | beer | 王崩只喝台湾啤酒 |\n| 高粱酒 | gāoliáng jiǔ | n | sorghum wine | 台湾的 = 金门高粱 |\n| 干杯 | gān bēi | vo | cheers / bottoms up | 真的\"干\" = drink it all |\n| 度 | dù | n | alcohol % | 52度 = 52% alcohol |\n| 零食 | língshí | n | snacks | |\n| 吐 | tù | v | to vomit / throw up | |\n| 后味 | hòuwèi | n | aftertaste | |\n| 亚洲flush | Yàzhōu flush | n | Asian flush / Asian glow | 喝酒脸红 |\n| 酒精过敏 | jiǔjīng guòmǐn | n | alcohol allergy/sensitivity | |\n| 国粹 | guócuì | n | national treasure | 矮中说白酒是\"国粹\" |\n| buzzed | | | 微醺 | = 有点醉了/微醺 |\n\n---\n\n### 文化笔记 (Culture Notes)\n\n**白酒 (Baijiu)",
-      "body": "白酒是中国最重要的酒。通常40-60度。在商务饭局、婚礼、重要聚餐都要喝白酒。\"干杯\"真的是干——要把整杯喝完。很多外国人第一次喝白酒的反应跟清清一样：\"这不是酒这是毒药。\""
     }
   ]
 }

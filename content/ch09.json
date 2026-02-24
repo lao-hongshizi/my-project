@@ -313,7 +313,61 @@
       "en": "清清 puts down her phone. She should feel relieved -- 小李 isn't interested. But what she feels isn't relief. It's something heavier. He asked 小李 to dinner. Not her."
     }
   ],
-  "vocab": [],
-  "grammarNotes": [],
+  "vocab": [
+    {
+      "zh": "有空",
+      "pinyin": "yǒu kòng",
+      "en": "to be free (available)",
+      "pos": "adj"
+    },
+    {
+      "zh": "AA",
+      "pinyin": "AA",
+      "en": "to split the bill",
+      "pos": "",
+      "note": "中国年轻人也AA"
+    },
+    {
+      "zh": "无聊",
+      "pinyin": "wúliáo",
+      "en": "boring / lame",
+      "pos": "adj"
+    },
+    {
+      "zh": "紧张",
+      "pinyin": "jǐnzhāng",
+      "en": "nervous",
+      "pos": "adj"
+    },
+    {
+      "zh": "觉得",
+      "pinyin": "juéde",
+      "en": "to think / to feel",
+      "pos": "v",
+      "note": "我觉得 = in my opinion"
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "想 + verb (want to)",
+      "body": "你想不想一起吃饭？= Do you want to eat together?\n我想去看看。= I want to go check it out."
+    },
+    {
+      "title": "吧 (suggestion / softener)",
+      "body": "去看看吧。= Let's go check it out.\n面馆吧。= The noodle shop, then.\n好吧。= Fine / Alright."
+    },
+    {
+      "title": "请 — to treat / to invite",
+      "body": "我请你吃饭。= I'll treat you to dinner.\n请客 = to pay for someone's meal\n别客气，我请。= Don't be polite, my treat.\nNote: In China, friends often fight over the bill (抢着买单). Splitting evenly (AA制) is more of a Western habit."
+    },
+    {
+      "title": "还是 — or (in questions)",
+      "body": "你喝茶还是咖啡？= Do you want tea or coffee?\n去火锅还是烧烤？= Hotpot or BBQ?\nNote: 还是 = 'or' in questions. 或者 = 'or' in statements."
+    },
+    {
+      "title": "一起 — together",
+      "body": "我们一起去吧。= Let's go together.\n一起吃饭？= Eat together?\nNote: 一起 goes before the verb. Very common in casual invitations."
+    }
+  ],
   "cultureNotes": []
 }

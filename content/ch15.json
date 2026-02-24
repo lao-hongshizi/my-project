@@ -525,26 +525,28 @@
     },
     {
       "zh": "desperate",
-      "pinyin": "",
+      "pinyin": "—",
       "en": "太急了/太eager",
-      "pos": ""
+      "pos": "",
+      "note": "English loanword"
     },
     {
       "zh": "sloppy",
-      "pinyin": "",
+      "pinyin": "—",
       "en": "邋遢的/乱的",
-      "pos": ""
+      "pos": "",
+      "note": "English loanword"
     },
     {
       "zh": "rebound",
-      "pinyin": "",
+      "pinyin": "—",
       "en": "反弹/替代品",
       "pos": "",
       "note": "用一个人填补另一个的空"
     },
     {
       "zh": "fumble",
-      "pinyin": "",
+      "pinyin": "—",
       "en": "搞砸",
       "pos": "",
       "note": "= 机会没抓住"

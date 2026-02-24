@@ -335,34 +335,16 @@
   ],
   "vocab": [
     {
-      "zh": "生日",
-      "pinyin": "shēngrì",
-      "en": "birthday",
-      "pos": "n"
-    },
-    {
       "zh": "过生日",
       "pinyin": "guò shēngrì",
       "en": "to celebrate a birthday",
       "pos": "vo"
     },
     {
-      "zh": "陌生人",
-      "pinyin": "mòshēngrén",
-      "en": "stranger",
-      "pos": "n"
-    },
-    {
       "zh": "皇冠",
       "pinyin": "huángguān",
       "en": "crown",
       "pos": "n"
-    },
-    {
-      "zh": "guilty",
-      "pinyin": "",
-      "en": "内疚",
-      "pos": ""
     },
     {
       "zh": "私信",
@@ -434,14 +416,6 @@
     }
   ],
   "grammarNotes": [
-    {
-      "title": "了 (completed action)",
-      "body": "我过了最好的生日。= I had the best birthday.\n她打了又删了。= She typed then deleted.\n没人来。= Nobody came. (没 + verb = didn't)"
-    },
-    {
-      "title": "过 (experience)",
-      "body": "你去过台湾吗？= Have you ever been to Taiwan?\n我没吃过四川火锅。= I've never had Sichuan hotpot."
-    },
     {
       "title": "太...了",
       "body": "太恶心了 = too disgusting\n太假了 = too fake\n太过分了 = too excessive\n太好了 = great! (positive too!)"

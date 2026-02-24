@@ -292,7 +292,58 @@
       "en": "Welcome to learning Chinese."
     }
   ],
-  "vocab": [],
-  "grammarNotes": [],
+  "vocab": [
+    {
+      "zh": "纹身",
+      "pinyin": "wénshēn",
+      "en": "tattoo",
+      "pos": "n"
+    },
+    {
+      "zh": "搞混",
+      "pinyin": "gǎo hùn",
+      "en": "to mix up / confuse",
+      "pos": "v"
+    },
+    {
+      "zh": "卧槽",
+      "pinyin": "wòcáo",
+      "en": "WTF / damn",
+      "pos": "interj",
+      "note": "第一次出现！轻级脏话"
+    },
+    {
+      "zh": "分辨",
+      "pinyin": "fēnbiàn",
+      "en": "to distinguish / tell apart",
+      "pos": "v"
+    },
+    {
+      "zh": "泡吧",
+      "pinyin": "pào bā",
+      "en": "to hang out at bars",
+      "pos": "vo"
+    },
+    {
+      "zh": "无所谓",
+      "pinyin": "wúsuǒwèi",
+      "en": "doesn't matter / whatever",
+      "pos": ""
+    }
+  ],
+  "grammarNotes": [
+    {
+      "title": "会/能/可以",
+      "body": "- 会：learned ability. 我会说中文 (I can speak Chinese)\n- 能：physical or circumstantial ability. 我今天不能来 (I can't come today)\n- 可以：permission. 我可以坐这儿吗？(May I sit here?)"
+    },
+    {
+      "title": "认识 vs 知道",
+      "body": "- 认识 = to know (a person, a character). 我认识这个字 (I recognize this character)\n- 知道 = to know (a fact). 我不知道这个词 (I don't know this word)"
+    },
+    {
+      "title": "V得/V不 + complement",
+      "body": "看得懂 = can understand (reading)\n看不懂 = can't understand\n听得懂 / 听不懂 = can / can't understand (listening)\n分得清 / 分不清 = can / can't tell apart\nPattern: Verb + 得 (able) or 不 (unable) + result. 王崩说：我看不懂简体字。"
+    }
+  ],
   "cultureNotes": []
 }
