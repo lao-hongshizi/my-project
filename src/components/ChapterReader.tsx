@@ -6,7 +6,7 @@ import type { Chapter, ScriptItem } from "@/lib/types";
 import { splitIntoSections } from "@/lib/sections";
 import { ChapterHeader } from "./ChapterHeader";
 import { SectionPage } from "./SectionPage";
-import { GrammarPanel } from "./GrammarPanel";
+import { ChapterNotes } from "./ChapterNotes";
 import { speak, stopSpeaking, preloadAudio } from "@/lib/tts";
 
 /** Delay in ms before revealing the next line, based on the line currently being read/spoken. */
@@ -48,31 +48,31 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
 
   const [sectionIndex, setSectionIndex] = useState(0);
   const [revealedCount, setRevealedCount] = useState(0);
-  const [grammarOpen, setGrammarOpen] = useState(false);
   const [isPlaying, setIsPlaying] = useState(false);
 
-  const currentSection = sections[sectionIndex];
+  const hasNotes =
+    chapter.grammarNotes.length > 0 || chapter.cultureNotes.length > 0;
+  const totalPages = sections.length + (hasNotes ? 1 : 0);
+  const onNotesPage = hasNotes && sectionIndex === sections.length;
+  const currentSection = onNotesPage ? null : sections[sectionIndex];
   const totalLines = currentSection?.lines.length ?? 0;
-  const allRevealed = revealedCount >= totalLines;
-  const isLastSection = sectionIndex >= sections.length - 1;
+  const allRevealed = onNotesPage || revealedCount >= totalLines;
+  const isLastPage = sectionIndex >= totalPages - 1;
 
   // Manual tap to advance (works alongside autoplay)
   const handleTap = useCallback(() => {
-    if (grammarOpen) {
-      setGrammarOpen(false);
-      return;
-    }
+    if (onNotesPage) return; // notes page — no tap-through
 
-    if (!allRevealed) {
+    if (!allRevealed && currentSection) {
       const nextLine = currentSection.lines[revealedCount];
       setRevealedCount((c) => c + 1);
       if (nextLine) speakLine(nextLine, chapter.chapter);
-    } else if (!isLastSection) {
+    } else if (!isLastPage) {
       setSectionIndex((i) => i + 1);
       setRevealedCount(0);
       stopSpeaking();
     }
-  }, [grammarOpen, allRevealed, isLastSection, currentSection, revealedCount]);
+  }, [onNotesPage, allRevealed, isLastPage, currentSection, revealedCount]);
 
   const handleBack = useCallback(() => {
     if (sectionIndex > 0) {
@@ -92,16 +92,13 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
 
   // --- Autoplay timer ---
   useEffect(() => {
-    if (!isPlaying || grammarOpen) return;
+    if (!isPlaying || onNotesPage) return;
 
-    if (revealedCount < totalLines) {
-      // Determine wait time before revealing the next line
+    if (revealedCount < totalLines && currentSection) {
       let delay: number;
       if (revealedCount === 0) {
-        // Brief pause before first line of section
         delay = 800;
       } else {
-        // Wait based on the line that was just revealed (currently being spoken)
         const lastRevealed = currentSection.lines[revealedCount - 1];
         delay = lastRevealed ? getLineDelay(lastRevealed) : 1500;
       }
@@ -113,9 +110,9 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
       }, delay);
 
       return () => clearTimeout(timer);
-    } else if (!isLastSection) {
-      // All lines revealed — wait for last line to finish, then advance section
-      const lastLine = currentSection.lines[totalLines - 1];
+    } else if (sectionIndex < sections.length - 1) {
+      // Advance to next dialogue section
+      const lastLine = currentSection?.lines[totalLines - 1];
       const delay = lastLine ? getLineDelay(lastLine) + 500 : 2000;
 
       const timer = setTimeout(() => {
@@ -126,22 +123,22 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
 
       return () => clearTimeout(timer);
     } else {
-      // Reached the end of the chapter
+      // Last dialogue section done — stop autoplay (notes page is manual)
       setIsPlaying(false);
     }
   }, [
     isPlaying,
     revealedCount,
     sectionIndex,
-    grammarOpen,
+    onNotesPage,
     totalLines,
-    isLastSection,
+    sections.length,
     currentSection,
   ]);
 
   // Preload audio for current section
   useEffect(() => {
-    preloadAudio(chapter.chapter, currentSection.lines);
+    if (currentSection) preloadAudio(chapter.chapter, currentSection.lines);
   }, [chapter.chapter, currentSection]);
 
   // Cleanup TTS on unmount
@@ -159,16 +156,21 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
         chapterNum={chapter.chapter}
         title={chapter.title}
         topic={chapter.topic}
-        grammarOpen={grammarOpen}
-        onToggleGrammar={() => setGrammarOpen(!grammarOpen)}
       />
 
       {/* Tap zone — the main reading area */}
       <div className="flex-1 flex flex-col relative z-10" onClick={handleTap}>
-        <SectionPage
-          section={currentSection}
-          revealedCount={revealedCount}
-        />
+        {onNotesPage ? (
+          <ChapterNotes
+            grammarNotes={chapter.grammarNotes}
+            cultureNotes={chapter.cultureNotes}
+          />
+        ) : currentSection ? (
+          <SectionPage
+            section={currentSection}
+            revealedCount={revealedCount}
+          />
+        ) : null}
       </div>
 
       {/* Bottom navigation bar */}
@@ -207,10 +209,10 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
         </button>
 
         <div className="text-[10px] text-subtle font-mono">
-          {sectionIndex + 1} / {sections.length}
+          {sectionIndex + 1} / {totalPages}
         </div>
 
-        {allRevealed && isLastSection ? (
+        {allRevealed && isLastPage ? (
           chapter.chapter < 20 ? (
             <Link
               href={`/chapter/${String(chapter.chapter + 1).padStart(2, "0")}`}
@@ -239,18 +241,15 @@ export function ChapterReader({ chapter }: ChapterReaderProps) {
             className="text-xs font-mono cursor-pointer bg-transparent border-none"
             style={{ color: "#CE2D2D" }}
           >
-            {allRevealed ? "NEXT →" : "TAP ↓"}
+            {allRevealed
+              ? hasNotes && sectionIndex === sections.length - 1
+                ? "NOTES →"
+                : "NEXT →"
+              : "TAP ↓"}
           </button>
         )}
       </div>
 
-      {grammarOpen && (
-        <GrammarPanel
-          grammarNotes={chapter.grammarNotes}
-          cultureNotes={chapter.cultureNotes}
-          onClose={() => setGrammarOpen(false)}
-        />
-      )}
     </div>
   );
 }
