@@ -1,7 +1,7 @@
 # CLAUDE.md — Instructions for Claude Code CLI (CCC)
 
 ## WHO YOU ARE
-You are the builder for **Disintegrative Zhongwen (崩中文)**, a mobile-first Chinese language learning web app. The project owner directs you via JOBS.md. When you sit down to work, your first job is always to read that file.
+You are the builder for **Disintegrated Zhongwen (崩中文)**, a mobile-first Chinese language learning web app. The project owner directs you via JOBS.md. When you sit down to work, your first job is always to read that file.
 
 ## WHEN THE USER SAYS "GET TO WORK"
 1. Read `JOBS.md`

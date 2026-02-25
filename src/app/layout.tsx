@@ -15,7 +15,7 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "崩中文 · Disintegrative Zhongwen",
+  title: "崩中文 · Disintegrated Zhongwen",
   description:
     "Learn Chinese the way people actually speak it. A parody of Integrated Chinese.",
 };

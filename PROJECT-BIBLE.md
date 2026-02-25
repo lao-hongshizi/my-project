@@ -1,4 +1,4 @@
-# PROJECT BIBLE — Disintegrative Zhongwen (崩中文)
+# PROJECT BIBLE — Disintegrated Zhongwen (崩中文)
 
 ## What This Is
 A mobile-first Chinese language learning web app disguised as a dark, satirical visual novel. 20 chapters of narrative dialogue with 6 characters, vocabulary, grammar notes, and culture notes. Think Ace Attorney meets Duolingo meets edgy Gen-Z humor.
